@@ -1930,25 +1930,23 @@ MonoBehaviour:
   prefabUIList: {fileID: 1639218746}
   backgroundImage: {fileID: 1823503564}
   initialTextList:
-  - Hi there!
-  - We all know the news, it's sad to see you go...
-  - Things change over time and people come and go.
-  - But along the way we create a lot of precious memories, by ourselves or with
-    others..
-  - This little farewell gift is the accumulation of the latter.
-  - Us programmers got together and each wanted to reminisce and share our wishes.
+  - Text1
+  - Text2
+  - Text3
+  - Text4
+  - Text5
+  - Text6
   finalTextList:
-  - Alright then...
-  - That was all of them.
-  - Next time you open this app it will have a list of all the messages and you can
-    pick whichever one you want.
-  - This really is the end... I already said my piece, but to finish it off...
-  - 'Best I can do is probably just to say:'
-  - From all the programmers in the company,
-  - From the bottom of our hearts,
-  - Take care!..
-  - And
-  - Thank You!
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
 --- !u!114 &1827743265
 MonoBehaviour:
   m_ObjectHideFlags: 0
