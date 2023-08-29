@@ -86,7 +86,7 @@ namespace Main
                 textInput.text = finalTextList[finalTextIndex];
                 finalTextIndex++;
             }
-            else if (finalTextIndex == finalTextList.Count - 1)
+            if (finalTextIndex == finalTextList.Count)
             {
                 buttonFinal.gameObject.SetActive(false);
             }
