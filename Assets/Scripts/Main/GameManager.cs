@@ -23,6 +23,7 @@ namespace Main
         [SerializeField] Button buttonReturn;
         [SerializeField] TextMeshProUGUI textInput;
         [SerializeField] PrefabUIList prefabUIList;
+        [SerializeField] Image backgroundImage;
         [SerializeField] List<string> initialTextList;
         [SerializeField] List<string> finalTextList;
 
@@ -93,6 +94,7 @@ namespace Main
 
         public void LoadPrefab(GameObject prefab)
         {
+            backgroundImage.enabled = false;
             prefabUIList.gameObject.SetActive(false);
             buttonReturn.gameObject.SetActive(true);
 
@@ -101,6 +103,7 @@ namespace Main
 
         public void ReturnFromMessage()
         {
+            backgroundImage.enabled = true;
             prefabUIList.gameObject.SetActive(true);
             buttonReturn.gameObject.SetActive(false);
 
@@ -109,6 +112,7 @@ namespace Main
 
         public void LoadNextRandomPrefab()
         {
+            backgroundImage.enabled = false;
             buttonNextPrefab.gameObject.SetActive(true);
             buttonInitial2.gameObject.SetActive(false);
 
@@ -154,6 +158,7 @@ namespace Main
             progress = 2;
             PlayerPrefs.SetInt(ProgressSavedatakey, progress);
 
+            backgroundImage.enabled = true;
             buttonNextPrefab.gameObject.SetActive(false);
             buttonFinal.gameObject.SetActive(true);
             textInput.enabled = true;
