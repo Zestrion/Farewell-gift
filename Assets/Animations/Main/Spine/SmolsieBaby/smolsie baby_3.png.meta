@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 8f4c555dd5ff93940bcf3fd9b8fe3e54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6029885070469387001
+    second: cat baby/IrisRight
+  - first:
+      213: 6069736877543391722
+    second: cat baby/PupilRight
+  - first:
+      213: -1568541201945814740
+    second: cat baby/bodyBack
+  - first:
+      213: 1779816310928836067
+    second: cat baby/bodyFront
+  - first:
+      213: 832927106384218976
+    second: cat baby/browRight
+  - first:
+      213: -6213382785693243428
+    second: cat baby/earRightBack
+  - first:
+      213: 3891100276623359793
+    second: cat baby/earRightFront
+  - first:
+      213: -4008303572166279197
+    second: cat baby/eyeRightShadow
+  - first:
+      213: -907760836482037025
+    second: cat baby/legRightFront
+  - first:
+      213: 2366744203082695598
+    second: cat baby/lidRightClosed
+  - first:
+      213: -5670730521226305673
+    second: cat baby/lidRightClosedHappy
+  - first:
+      213: 264362120795513118
+    second: cat baby/lidRightLowerHappy
+  - first:
+      213: 7957486765706638459
+    second: cat baby/lidRightSquint
+  - first:
+      213: 7024237986887354651
+    second: cat baby/lidRightUpperAngry
+  - first:
+      213: -9137187229555441596
+    second: cat baby/lidRightUpperSad
+  - first:
+      213: -6821561233186148777
+    second: cat baby/mouthBottomA
+  - first:
+      213: 5643564155562152841
+    second: cat baby/mouthBottomE
+  - first:
+      213: 8120102633805462501
+    second: cat baby/mouthBottomLN
+  - first:
+      213: -4018018270144695776
+    second: cat baby/mouthBottomNeutralMPB
+  - first:
+      213: -5287553825873699161
+    second: cat baby/mouthBottomOUQ
+  - first:
+      213: -4868003805293842825
+    second: cat baby/mouthBottomTSFV
+  - first:
+      213: -6703433999348714239
+    second: cat baby/mouthBottomWR
+  - first:
+      213: -5413455448728128968
+    second: cat baby/mouthTopHappy
+  - first:
+      213: 2633126179313847938
+    second: cat baby/mouthTopNeutral
+  - first:
+      213: -4872603287953336401
+    second: cat baby/mouthTopOh
+  - first:
+      213: -2486783615856220054
+    second: cat baby/mouthTopUnhappy
+  - first:
+      213: 7478960742771610319
+    second: cat baby/nose
+  - first:
+      213: -3121090485951260314
+    second: cat baby/pawRightBackSit
+  - first:
+      213: 7172808299741007442
+    second: cat baby/pawRightFrontBehindSide
+  - first:
+      213: -7378312886503403219
+    second: cat baby/pawRightFrontDown
+  - first:
+      213: 4337102340125950036
+    second: cat baby/pawRightFrontSide
+  - first:
+      213: -4750758652455963945
+    second: cat baby/pawRightFrontStraight
+  - first:
+      213: 8351267554123548898
+    second: cat baby/pawRightFrontUp
+  - first:
+      213: -6117998588364505097
+    second: cat baby/tail
+  - first:
+      213: -6171103329502633071
+    second: cat baby/tongue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 298
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f252cd16847ea350800000000000000
+      internalID: 6029885070469387001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 368
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1001208890c3450800000000000000
+      internalID: 6069736877543391722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 145
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29947a561c6b3ae0800000000000000
+      internalID: -1568541201945814740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e50c52418d23b810800000000000000
+      internalID: 1779816310928836067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 407
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b43db4ac62f8b00800000000000000
+      internalID: 832927106384218976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 331
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd72a3db641a5c9a0800000000000000
+      internalID: -6213382785693243428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 292
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f3f8de517fff530800000000000000
+      internalID: 3891100276623359793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 393
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef79155325af58c0800000000000000
+      internalID: -4008303572166279197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 332
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda0a78245cf663f0800000000000000
+      internalID: -907760836482037025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea385fa205d58d020800000000000000
+      internalID: 2366744203082695598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 246
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f1751c2a48d41b0800000000000000
+      internalID: -5670730521226305673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 395
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11e51eb2f33ba300800000000000000
+      internalID: 264362120795513118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 279
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74f0d68d0cae6e60800000000000000
+      internalID: 7957486765706638459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 371
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19c93aab3b1b7160800000000000000
+      internalID: 7024237986887354651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 366
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440cc1820a0323180800000000000000
+      internalID: -9137187229555441596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 418
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e2d5a5332f451a0800000000000000
+      internalID: -6821561233186148777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 421
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983d867d2b7f15e40800000000000000
+      internalID: 5643564155562152841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 419
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb30b3c25660b070800000000000000
+      internalID: 8120102633805462501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 421
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022fef2fba12d38c0800000000000000
+      internalID: -4018018270144695776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 386
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae5a0e5fc5de96b0800000000000000
+      internalID: -5287553825873699161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 280
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ee534b450617cb0800000000000000
+      internalID: -4868003805293842825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1053b8d3b4e98f2a0800000000000000
+      internalID: -6703433999348714239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832382b73fa8fd4b0800000000000000
+      internalID: -5413455448728128968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 138
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e88c62f4eba8420800000000000000
+      internalID: 2633126179313847938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 293
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa714223029016cb0800000000000000
+      internalID: -4872603287953336401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 94
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68e0a71a7b2d7dd0800000000000000
+      internalID: -2486783615856220054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/nose
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 326
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc25ef99b2b9ac760800000000000000
+      internalID: 7478960742771610319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 227
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66916014db8afa4d0800000000000000
+      internalID: -3121090485951260314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e490c352fea8360800000000000000
+      internalID: 7172808299741007442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 107
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21174e8587fa9990800000000000000
+      internalID: -7378312886503403219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 417
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45009b1799b703c30800000000000000
+      internalID: 4337102340125950036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2bfba1d2ae11eb0800000000000000
+      internalID: -4750758652455963945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 336
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e887c3f799a5e370800000000000000
+      internalID: 8351267554123548898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/tail
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 327
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff313cc2b0881ba0800000000000000
+      internalID: -6117998588364505097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193e3ccb736db5aa0800000000000000
+      internalID: -6171103329502633071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

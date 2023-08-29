@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: d200ef2371450d14c87c9234a17a02b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3522486458341186058
+    second: boar baby/IrisRight
+  - first:
+      213: 6858406591122278957
+    second: boar baby/PupilRight
+  - first:
+      213: 7131596407292917619
+    second: boar baby/baby hair
+  - first:
+      213: -5032273157119419335
+    second: boar baby/hair back
+  - first:
+      213: 1259416624626117445
+    second: boar baby/bodyBack
+  - first:
+      213: -5818149992241209329
+    second: boar baby/bodyFront
+  - first:
+      213: 5630488259155305611
+    second: boar baby/browRight
+  - first:
+      213: 330082486641348871
+    second: boar baby/earRightBack
+  - first:
+      213: -1995137516565053087
+    second: boar baby/earRightFront
+  - first:
+      213: 8949175273317782290
+    second: boar baby/eyeRightShadow
+  - first:
+      213: 3612492822624210369
+    second: boar baby/legRightFront
+  - first:
+      213: 1010580020259903795
+    second: boar baby/lidRightClosed
+  - first:
+      213: 6673012346424738414
+    second: boar baby/lidRightClosedHappy
+  - first:
+      213: -1961468472287355830
+    second: boar baby/lidRightLowerHappy
+  - first:
+      213: -1716575443025576056
+    second: boar baby/lidRightSquint
+  - first:
+      213: -6710146081099023756
+    second: boar baby/lidRightUpperAngry
+  - first:
+      213: -860565043874993006
+    second: boar baby/lidRightUpperSad
+  - first:
+      213: -8559341654860476408
+    second: boar baby/mouthBottomA
+  - first:
+      213: -6816303459751516854
+    second: boar baby/mouthBottomE
+  - first:
+      213: 9049289138671297278
+    second: boar baby/mouthBottomLN
+  - first:
+      213: -8813272498105896234
+    second: boar baby/mouthBottomNeutralMPB
+  - first:
+      213: -5580893803989184854
+    second: boar baby/mouthBottomOUQ
+  - first:
+      213: -1002873015164366969
+    second: boar baby/mouthBottomTSFV
+  - first:
+      213: -6911458936641385226
+    second: boar baby/mouthBottomWR
+  - first:
+      213: 6394232211373450311
+    second: boar baby/mouthTopHappy
+  - first:
+      213: -3181325389626695405
+    second: boar baby/mouthTopNeutral
+  - first:
+      213: 1343055213158542130
+    second: boar baby/mouthTopOh
+  - first:
+      213: 880450490797187614
+    second: boar baby/mouthTopUnhappy
+  - first:
+      213: -287842175686624658
+    second: boar baby/nose
+  - first:
+      213: 510190489692158774
+    second: boar baby/pawRightBackSit
+  - first:
+      213: 2130951711416294499
+    second: boar baby/pawRightFrontBehindSide
+  - first:
+      213: -3556643064724372113
+    second: boar baby/pawRightFrontDown
+  - first:
+      213: -2474824701044866935
+    second: boar baby/pawRightFrontSide
+  - first:
+      213: -4881868509782310076
+    second: boar baby/pawRightFrontStraight
+  - first:
+      213: 2422756385045466030
+    second: boar baby/pawRightFrontUp
+  - first:
+      213: -7786476566236644708
+    second: boar baby/tail
+  - first:
+      213: 8139545593804943324
+    second: boar baby/tongue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boar baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f52374aa3d9d1fc0800000000000000
+      internalID: -3522486458341186058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 93
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a8a0d0574fd2f50800000000000000
+      internalID: 6858406591122278957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/baby hair
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 50
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377752ac52588f260800000000000000
+      internalID: 7131596407292917619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/hair back
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 50
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cd929c936c92ab0800000000000000
+      internalID: -5032273157119419335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54baf075fb85a7110800000000000000
+      internalID: 1259416624626117445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00658e6867c14fa0800000000000000
+      internalID: -5818149992241209329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 125
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84a5f67d33832e40800000000000000
+      internalID: 5630488259155305611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 59
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701d5d2d540b49400800000000000000
+      internalID: 330082486641348871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 94
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161c517dff8df44e0800000000000000
+      internalID: -1995137516565053087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 48
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213d0de0f7bd13c70800000000000000
+      internalID: 8949175273317782290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 22
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd0a261517222230800000000000000
+      internalID: 3612492822624210369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 73
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339d2b49c2d460e00800000000000000
+      internalID: 1010580020259903795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62417abf5d4b9c50800000000000000
+      internalID: 6673012346424738414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 111
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c1f2711d677c4e0800000000000000
+      internalID: -1961468472287355830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 42
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f3d48babf7d28e0800000000000000
+      internalID: -1716575443025576056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47afc1de0b5c0e2a0800000000000000
+      internalID: -6710146081099023756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 89
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c66bde6a8ae04f0800000000000000
+      internalID: -860565043874993006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 79
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80056de3d1c173980800000000000000
+      internalID: -8559341654860476408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 117
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45ae302e10a761a0800000000000000
+      internalID: -6816303459751516854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 117
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2ad44c688859d70800000000000000
+      internalID: 9049289138671297278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2bda19b57f0b580800000000000000
+      internalID: -8813272498105896234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 16
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaecb0477aeac82b0800000000000000
+      internalID: -5580893803989184854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 127
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f8d406e441512f0800000000000000
+      internalID: -1002873015164366969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 124
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc8ac137b09510a0800000000000000
+      internalID: -6911458936641385226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 121
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74466427150ecb850800000000000000
+      internalID: 6394232211373450311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 124
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ae5cd969a9d3d0800000000000000
+      internalID: -3181325389626695405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 123
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b2d0eb99d73a210800000000000000
+      internalID: 1343055213158542130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 123
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12e84a7e0df73c00800000000000000
+      internalID: 880450490797187614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/nose
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ab2d6f011610cf0800000000000000
+      internalID: -287842175686624658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 99
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b32e91c8f841700800000000000000
+      internalID: 510190489692158774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 6
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c9a709a49a29d10800000000000000
+      internalID: 2130951711416294499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 114
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f654f3ef9f344aec0800000000000000
+      internalID: -3556643064724372113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 31
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980cbdceb08a7add0800000000000000
+      internalID: -2474824701044866935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 116
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4438242a47e104cb0800000000000000
+      internalID: -4881868509782310076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabc1fb881c5f9120800000000000000
+      internalID: 2422756385045466030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/tail
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 99
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9abf8941d0e0f390800000000000000
+      internalID: -7786476566236644708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boar baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 93
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfe6d7a79975f070800000000000000
+      internalID: 8139545593804943324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

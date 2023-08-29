@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 2e1649f36f8e6314f9969074fa001b3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 133696666619719598
+    second: hamster baby/IrisRight
+  - first:
+      213: -5769114349535845241
+    second: hamster baby/PupilRight
+  - first:
+      213: -7803875776169264743
+    second: hamster baby/baby hair
+  - first:
+      213: 4981791163979363894
+    second: hamster baby/bodyBack
+  - first:
+      213: 6039494720197803075
+    second: hamster baby/bodyFront
+  - first:
+      213: 6981406249093302544
+    second: hamster baby/browRight
+  - first:
+      213: 1976959203385412308
+    second: hamster baby/earRightBack
+  - first:
+      213: 4133979779092417330
+    second: hamster baby/earRightFront
+  - first:
+      213: -5753890819659169358
+    second: hamster baby/eyeRightShadow
+  - first:
+      213: -1323119630991484412
+    second: hamster baby/legRightBack
+  - first:
+      213: 4425160967276966197
+    second: hamster baby/legRightFront
+  - first:
+      213: -8998586541242646150
+    second: hamster baby/lidRightClosed
+  - first:
+      213: -7532119128812048286
+    second: hamster baby/lidRightClosedHappy
+  - first:
+      213: -1814326056260095802
+    second: hamster baby/lidRightLowerHappy
+  - first:
+      213: 7087650575891341680
+    second: hamster baby/lidRightSquint
+  - first:
+      213: -4738597425637132513
+    second: hamster baby/lidRightUpperAngry
+  - first:
+      213: -2670468815815845984
+    second: hamster baby/lidRightUpperSad
+  - first:
+      213: -222706680559148256
+    second: hamster baby/mouthBottomA
+  - first:
+      213: -8596723154141977689
+    second: hamster baby/mouthBottomE
+  - first:
+      213: 8654880902588294622
+    second: hamster baby/mouthBottomLN
+  - first:
+      213: -3558851538819790354
+    second: hamster baby/mouthBottomNeutralMPB
+  - first:
+      213: 749863815082906713
+    second: hamster baby/mouthBottomOUQ
+  - first:
+      213: -3457552541984793845
+    second: hamster baby/mouthBottomTSFV
+  - first:
+      213: 7890111063356936177
+    second: hamster baby/mouthBottomWR
+  - first:
+      213: -1158987546813413396
+    second: hamster baby/mouthTopHappy
+  - first:
+      213: -3334251059682456276
+    second: hamster baby/mouthTopNeutral
+  - first:
+      213: -6772744462294124409
+    second: hamster baby/mouthTopOh
+  - first:
+      213: 835891763215570267
+    second: hamster baby/mouthTopUnhappy
+  - first:
+      213: 2933504021903437024
+    second: hamster baby/nose
+  - first:
+      213: 5223621978746485079
+    second: hamster baby/pawRightBackSit
+  - first:
+      213: -8616222225096544542
+    second: hamster baby/pawRightFrontBehindSide
+  - first:
+      213: 1285817375652162172
+    second: hamster baby/pawRightFrontDown
+  - first:
+      213: 7298332344651947558
+    second: hamster baby/pawRightFrontSide
+  - first:
+      213: 5606552085494348177
+    second: hamster baby/pawRightFrontStraight
+  - first:
+      213: 8054452617157095877
+    second: hamster baby/pawRightFrontUp
+  - first:
+      213: -8469597672524148138
+    second: hamster baby/tail
+  - first:
+      213: 803710305636573444
+    second: hamster baby/tongue
+  - first:
+      213: -4638120092734694272
+    second: hamster baby/tooth
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hamster baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafa581f86cfad100800000000000000
+      internalID: 133696666619719598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 92
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784ae4fa01dffefa0800000000000000
+      internalID: -5769114349535845241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/baby hair
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 118
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999b72a045013b390800000000000000
+      internalID: -7803875776169264743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6367b224ba0e22540800000000000000
+      internalID: 4981791163979363894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cbc3c037890d350800000000000000
+      internalID: 6039494720197803075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 132
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01906e59effe2e060800000000000000
+      internalID: 6981406249093302544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 116
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da0a3dcbe19f6b10800000000000000
+      internalID: 1976959203385412308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 16
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b8371d4b8de5930800000000000000
+      internalID: 4133979779092417330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 41
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b185d1f8c21620b0800000000000000
+      internalID: -5753890819659169358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/legRightBack
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 107
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a186fa4b553ade0800000000000000
+      internalID: -1323119630991484412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 107
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531b7784474596d30800000000000000
+      internalID: 4425160967276966197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 73
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a710f90a7399e1380800000000000000
+      internalID: -8998586541242646150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260bb392f89887790800000000000000
+      internalID: -7532119128812048286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 125
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b1e5801832d6e0800000000000000
+      internalID: -1814326056260095802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 42
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071a81495a46c5260800000000000000
+      internalID: 7087650575891341680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 107
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17715f5fbe1d3eb0800000000000000
+      internalID: -4738597425637132513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 103
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7d981c2c690fad0800000000000000
+      internalID: -2670468815815845984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0236a283479c8ecf0800000000000000
+      internalID: -222706680559148256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 129
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3edf4b6dd42b880800000000000000
+      internalID: -8596723154141977689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 129
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5661c43505c1870800000000000000
+      internalID: 8654880902588294622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee94b4c816b6c9ec0800000000000000
+      internalID: -3558851538819790354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 3
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9549fe7ba2d086a00800000000000000
+      internalID: 749863815082906713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 135
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b5fbe284e4400d0800000000000000
+      internalID: -3457552541984793845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff05c1653e4f7d60800000000000000
+      internalID: 7890111063356936177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 138
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7c51d77f27aefe0800000000000000
+      internalID: -1158987546813413396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 131
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d48aba35c5ab1d0800000000000000
+      internalID: -3334251059682456276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 117
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788f67a8bc06202a0800000000000000
+      internalID: -6772744462294124409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 80
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b559321412fa99b00800000000000000
+      internalID: 835891763215570267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/nose
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 93
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecebb49d56e5b820800000000000000
+      internalID: 2933504021903437024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 119
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7597b1483880e7840800000000000000
+      internalID: 5223621978746485079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 26
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee6b4779870d6880800000000000000
+      internalID: -8616222225096544542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 123
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aa5c1371428d110800000000000000
+      internalID: 1285817375652162172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 36
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e19b76992e84560800000000000000
+      internalID: 7298332344651947558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199bd9eba697ecd40800000000000000
+      internalID: 5606552085494348177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 124
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c13dd12bf927cf60800000000000000
+      internalID: 8054452617157095877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/tail
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 87
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65219ba6ac1f57a80800000000000000
+      internalID: -8469597672524148138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 104
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401e9c5c34a572b00800000000000000
+      internalID: 803710305636573444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hamster baby/tooth
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 67
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c52f6795612afb0800000000000000
+      internalID: -4638120092734694272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

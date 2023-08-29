@@ -1,0 +1,2098 @@
+smolsie baby.png
+size:220,400
+filter:Linear,Linear
+scale:0.16
+bear baby/IrisRight
+bounds:161,298,44,44
+bear baby/PupilRight
+bounds:182,230,34,33
+bear baby/baby hair
+bounds:1,16,21,28
+bear baby/bodyBack
+bounds:1,138,154,129
+bear baby/bodyFront
+bounds:1,268,154,129
+bear baby/browRight
+bounds:1,1,18,13
+bear baby/earRightBack
+bounds:1,81,57,56
+bear baby/earRightFront
+bounds:60,81,56,55
+bear baby/eyeRightShadow
+bounds:46,1,55,48
+bear baby/furSideRight
+bounds:161,153,29,76
+bear baby/legRightFront
+bounds:181,115,32,37
+bear baby/lidRightClosed
+bounds:118,101,60,53
+bear baby/lidRightClosedHappy
+bounds:133,247,60,53
+bear baby/lidRightLowerHappy
+bounds:126,39,49,20
+bear baby/lidRightSquint
+bounds:153,344,58,53
+bear baby/lidRightUpperAngry
+bounds:1,45,56,34
+offsets:2,0,58,34
+bear baby/lidRightUpperSad
+bounds:115,61,56,29
+bear baby/mouthBottomA
+bounds:179,5,22,17
+bear baby/mouthBottomE
+bounds:192,169,20,12
+bear baby/mouthBottomLN
+bounds:192,155,20,12
+bear baby/mouthBottomNeutralMPB
+bounds:134,388,20,9
+bear baby/mouthBottomOUQ
+bounds:201,41,14,19
+bear baby/mouthBottomTSFV
+bounds:192,183,21,11
+bear baby/mouthBottomWR
+bounds:1,284,14,14
+bear baby/mouthTopHappy
+bounds:152,4,25,16
+bear baby/mouthTopNeutral
+bounds:126,6,24,16
+bear baby/mouthTopOh
+bounds:195,20,20,20
+bear baby/mouthTopUnhappy
+bounds:99,2,25,19
+offsets:0,0,26,19
+bear baby/nose
+bounds:1,256,17,10
+bear baby/pawRightBackSit
+bounds:168,82,37,33
+bear baby/pawRightFrontBehindSide
+bounds:1,383,16,14
+bear baby/pawRightFrontDown
+bounds:55,47,34,32
+bear baby/pawRightFrontSide
+bounds:23,2,25,17
+bear baby/pawRightFrontStraight
+bounds:1,268,33,15
+bear baby/pawRightFrontUp
+bounds:166,50,33,30
+bear baby/tail
+bounds:91,45,28,32
+bear baby/tongue
+bounds:157,336,9,12
+
+smolsie baby_2.png
+size:160,492
+filter:Linear,Linear
+scale:0.16
+boar baby/IrisRight
+bounds:103,133,44,44
+boar baby/PupilRight
+bounds:121,99,34,33
+boar baby/baby hair
+bounds:138,166,16,28
+boar baby/hair back
+bounds:138,166,16,28
+boar baby/bodyBack
+bounds:1,359,154,129
+boar baby/bodyFront
+bounds:1,229,154,129
+boar baby/browRight
+bounds:32,1,18,13
+boar baby/earRightBack
+bounds:46,107,41,36
+boar baby/earRightFront
+bounds:1,123,43,35
+boar baby/eyeRightShadow
+bounds:39,31,55,48
+boar baby/legRightFront
+bounds:89,97,32,37
+boar baby/lidRightClosed
+bounds:1,185,60,52
+boar baby/lidRightClosedHappy
+bounds:89,179,60,52
+boar baby/lidRightLowerHappy
+bounds:92,33,48,20
+boar baby/lidRightSquint
+bounds:42,145,58,52
+boar baby/lidRightUpperAngry
+bounds:94,62,55,34
+offsets:2,0,57,34
+boar baby/lidRightUpperSad
+bounds:38,76,55,29
+boar baby/mouthBottomA
+bounds:133,47,23,20
+boar baby/mouthBottomE
+bounds:122,15,23,17
+boar baby/mouthBottomLN
+bounds:81,21,23,17
+boar baby/mouthBottomNeutralMPB
+bounds:21,359,18,10
+boar baby/mouthBottomOUQ
+bounds:142,372,15,19
+boar baby/mouthBottomTSFV
+bounds:120,2,22,11
+boar baby/mouthBottomWR
+bounds:1,475,16,13
+boar baby/mouthTopHappy
+bounds:47,15,24,15
+boar baby/mouthTopNeutral
+bounds:99,6,22,15
+boar baby/mouthTopOh
+bounds:70,5,21,14
+boar baby/mouthTopUnhappy
+bounds:8,10,22,16
+boar baby/nose
+bounds:1,4,15,5
+boar baby/pawRightBackSit
+bounds:1,70,37,27
+boar baby/pawRightFrontBehindSide
+bounds:122,75,32,18
+boar baby/pawRightFrontDown
+bounds:17,25,29,19
+boar baby/pawRightFrontSide
+bounds:123,225,30,20
+boar baby/pawRightFrontStraight
+bounds:124,353,31,18
+boar baby/pawRightFrontUp
+bounds:1,44,32,24
+boar baby/tail
+bounds:1,353,19,36
+offsets:0,1,19,37
+boar baby/tongue
+bounds:144,2,10,14
+
+smolsie baby_3.png
+size:168,464
+filter:Linear,Linear
+scale:0.16
+cat baby/IrisRight
+bounds:103,106,44,44
+cat baby/PupilRight
+bounds:10,43,34,33
+cat baby/bodyBack
+bounds:1,333,154,130
+cat baby/bodyFront
+bounds:1,202,154,129
+cat baby/browRight
+bounds:149,48,18,13
+cat baby/earRightBack
+bounds:39,75,36,40
+cat baby/earRightFront
+bounds:1,116,36,40
+cat baby/eyeRightShadow
+bounds:2,1,55,48
+cat baby/legRightFront
+bounds:1,77,31,37
+cat baby/lidRightClosed
+bounds:1,158,60,53
+cat baby/lidRightClosedHappy
+bounds:89,152,60,53
+cat baby/lidRightLowerHappy
+bounds:116,27,49,20
+cat baby/lidRightSquint
+bounds:42,117,58,53
+cat baby/lidRightUpperAngry
+bounds:46,39,56,34
+offsets:2,0,58,34
+cat baby/lidRightUpperSad
+bounds:98,49,56,29
+cat baby/mouthBottomA
+bounds:54,2,21,21
+cat baby/mouthBottomE
+bounds:104,2,22,18
+cat baby/mouthBottomLN
+bounds:127,3,21,18
+cat baby/mouthBottomNeutralMPB
+bounds:149,123,16,10
+cat baby/mouthBottomOUQ
+bounds:151,2,14,20
+cat baby/mouthBottomTSFV
+bounds:146,110,21,12
+cat baby/mouthBottomWR
+bounds:1,348,15,14
+cat baby/mouthTopHappy
+bounds:140,152,27,10
+cat baby/mouthTopNeutral
+bounds:143,356,23,9
+cat baby/mouthTopOh
+bounds:147,137,20,13
+cat baby/mouthTopUnhappy
+bounds:145,164,22,12
+cat baby/nose
+bounds:145,229,20,9
+cat baby/pawRightBackSit
+bounds:133,80,33,28
+cat baby/pawRightFrontBehindSide
+bounds:1,449,16,14
+cat baby/pawRightFrontDown
+bounds:131,322,31,31
+offsets:0,0,31,32
+cat baby/pawRightFrontSide
+bounds:78,7,24,17
+cat baby/pawRightFrontStraight
+bounds:1,331,32,15
+cat baby/pawRightFrontUp
+bounds:134,197,33,30
+cat baby/tail
+bounds:77,68,34,52
+offsets:0,1,34,53
+cat baby/tongue
+bounds:1,315,10,14
+
+smolsie baby_4.png
+size:160,480
+filter:Linear,Linear
+scale:0.16
+chicken baby/IrisRight
+bounds:103,121,44,44
+chicken baby/PupilRight
+bounds:1,66,34,33
+chicken baby/baby hair
+bounds:136,3,17,19
+chicken baby/birdCrest
+bounds:106,78,25,41
+chicken baby/bodyBack
+bounds:1,218,154,129
+chicken baby/bodyFront
+bounds:1,348,154,129
+chicken baby/browRight
+bounds:134,107,18,13
+chicken baby/clawRightDown
+bounds:1,344,32,21
+offsets:0,0,32,23
+chicken baby/clawRightSide
+bounds:68,7,34,12
+chicken baby/clawRightStraight
+bounds:104,8,30,13
+chicken baby/clawRightUp
+bounds:26,41,36,32
+chicken baby/eyeRightShadow
+bounds:15,1,55,48
+chicken baby/lidRightClosed
+bounds:1,173,60,53
+chicken baby/lidRightClosedHappy
+bounds:89,167,60,53
+chicken baby/lidRightLowerHappy
+bounds:97,25,49,20
+chicken baby/lidRightSquint
+bounds:42,133,58,53
+chicken baby/lidRightUpperAngry
+bounds:97,47,56,34
+offsets:2,0,58,34
+chicken baby/lidRightUpperSad
+bounds:45,67,56,29
+chicken baby/mouthBottomA
+bounds:133,67,19,18
+chicken baby/mouthBottomE
+bounds:1,2,16,16
+chicken baby/mouthBottomLN
+bounds:138,87,16,18
+chicken baby/mouthBottomNeutralMPB
+bounds:140,39,16,12
+chicken baby/mouthBottomOUQ
+bounds:141,229,13,18
+chicken baby/mouthBottomTSFV
+bounds:139,161,15,16
+chicken baby/mouthBottomWR
+bounds:142,463,13,14
+chicken baby/mouthTopHappy
+bounds:130,338,20,13
+chicken baby/mouthTopNeutral
+bounds:132,352,18,14
+chicken baby/mouthTopOh
+bounds:1,463,16,14
+chicken baby/mouthTopUnhappy
+bounds:133,213,19,14
+chicken baby/tail
+bounds:67,38,34,28
+chicken baby/tongue
+bounds:1,371,9,12
+chicken baby/wingRightBack
+bounds:1,125,48,31
+chicken baby/wingRightFront
+bounds:1,125,48,31
+chicken baby/wingRightSide
+bounds:62,100,42,36
+chicken baby/wingRightSideUp
+bounds:18,87,40,37
+
+smolsie baby_5.png
+size:176,476
+filter:Linear,Linear
+scale:0.16
+cow baby/IrisRight
+bounds:52,81,44,44
+cow baby/PupilRight
+bounds:134,141,34,33
+cow baby/baby hair
+bounds:17,23,51,21
+offsets:0,0,51,22
+cow baby/bodyBack
+bounds:1,214,154,129
+cow baby/bodyFront
+bounds:1,344,154,129
+cow baby/browRight
+bounds:110,1,18,13
+cow baby/earRightBack
+bounds:86,106,64,40
+cow baby/earRightFront
+bounds:1,104,57,39
+offsets:0,1,57,40
+cow baby/eyeRightShadow
+bounds:99,36,55,48
+cow baby/hair back
+bounds:65,19,51,21
+offsets:0,0,51,22
+cow baby/horn right
+bounds:155,62,15,15
+cow baby/legRightFront
+bounds:133,329,32,37
+cow baby/lidRightClosed
+bounds:1,170,65,52
+cow baby/lidRightClosedHappy
+bounds:89,164,63,52
+cow baby/lidRightLowerHappy
+bounds:34,45,48,20
+cow baby/lidRightSquint
+bounds:42,130,62,52
+cow baby/lidRightUpperAngry
+bounds:1,73,59,34
+offsets:1,0,60,34
+cow baby/lidRightUpperSad
+bounds:98,81,60,29
+cow baby/mouthBottomA
+bounds:140,21,24,21
+cow baby/mouthBottomE
+bounds:147,240,24,18
+cow baby/mouthBottomLN
+bounds:144,455,24,18
+cow baby/mouthBottomNeutralMPB
+bounds:1,463,18,10
+cow baby/mouthBottomOUQ
+bounds:157,40,16,20
+cow baby/mouthBottomTSFV
+bounds:15,344,23,12
+cow baby/mouthBottomWR
+bounds:158,97,16,14
+cow baby/mouthTopHappy
+bounds:19,1,27,16
+cow baby/mouthTopNeutral
+bounds:149,311,25,17
+cow baby/mouthTopOh
+bounds:148,368,24,18
+cow baby/mouthTopUnhappy
+bounds:1,16,24,18
+cow baby/nose
+bounds:1,4,18,6
+cow baby/pawRightBackSit
+bounds:131,205,37,33
+cow baby/pawRightFrontBehindSide
+bounds:47,13,31,13
+cow baby/pawRightFrontDown
+bounds:79,1,30,17
+cow baby/pawRightFrontSide
+bounds:107,16,30,14
+cow baby/pawRightFrontStraight
+bounds:136,5,31,14
+cow baby/pawRightFrontUp
+bounds:1,45,32,27
+cow baby/tail
+bounds:1,331,16,46
+cow baby/tongue
+bounds:159,79,10,14
+
+smolsie baby_6.png
+size:156,512
+filter:Linear,Linear
+scale:0.16
+deer baby/IrisRight
+bounds:106,155,44,44
+deer baby/PupilRight
+bounds:113,82,34,33
+deer baby/bodyBack
+bounds:1,251,154,129
+deer baby/bodyFront
+bounds:1,381,154,129
+deer baby/browRight
+bounds:131,2,18,13
+deer baby/earRightBack
+bounds:1,74,36,24
+deer baby/earRightFront
+bounds:57,78,36,24
+deer baby/eyeRightShadow
+bounds:93,33,55,48
+deer baby/horn left
+bounds:136,196,18,16
+offsets:0,2,18,18
+deer baby/horn right
+bounds:1,366,18,16
+offsets:0,2,18,18
+deer baby/legRightBack
+bounds:73,104,32,37
+deer baby/legRightFront
+bounds:105,116,32,37
+deer baby/lidRightClosed
+bounds:1,207,65,52
+deer baby/lidRightClosedHappy
+bounds:89,201,63,52
+deer baby/lidRightLowerHappy
+bounds:30,33,48,20
+deer baby/lidRightSquint
+bounds:42,167,62,52
+deer baby/lidRightUpperAngry
+bounds:1,133,59,34
+offsets:1,0,60,34
+deer baby/lidRightUpperSad
+bounds:51,142,60,29
+deer baby/mouthBottomA
+bounds:1,385,23,20
+deer baby/mouthBottomE
+bounds:1,11,23,17
+deer baby/mouthBottomLN
+bounds:124,17,23,17
+deer baby/mouthBottomNeutralMPB
+bounds:24,379,16,9
+deer baby/mouthBottomOUQ
+bounds:139,113,15,19
+deer baby/mouthBottomTSFV
+bounds:20,1,22,12
+deer baby/mouthBottomWR
+bounds:138,134,16,14
+deer baby/mouthTopHappy
+bounds:103,3,26,13
+deer baby/mouthTopNeutral
+bounds:128,249,24,16
+deer baby/mouthTopOh
+bounds:79,8,24,16
+deer baby/mouthTopUnhappy
+bounds:45,1,24,15
+deer baby/nose
+bounds:138,267,16,10
+deer baby/pawRightBackSit
+bounds:24,99,37,33
+deer baby/pawRightFrontBehindSide
+bounds:1,30,30,13
+deer baby/pawRightFrontDown
+bounds:27,16,30,17
+deer baby/pawRightFrontSide
+bounds:119,378,30,14
+deer baby/pawRightFrontStraight
+bounds:76,24,31,14
+deer baby/pawRightFrontUp
+bounds:1,45,32,27
+deer baby/tail
+bounds:1,164,33,42
+deer baby/tongue
+bounds:1,496,10,14
+
+smolsie baby_7.png
+size:164,648
+filter:Linear,Linear
+scale:0.16
+dino baby/IrisRight
+bounds:106,157,44,44
+dino baby/PupilRight
+bounds:115,121,34,33
+dino baby/baby hair
+bounds:4,246,147,67
+offsets:0,3,147,70
+dino baby/bodyBack
+bounds:1,516,154,129
+dino baby/bodyFront
+bounds:1,386,154,129
+dino baby/browRight
+bounds:100,10,18,13
+dino baby/eyeRightShadow
+bounds:6,46,55,48
+dino baby/hair back
+bounds:1,315,147,69
+dino baby/horn right
+bounds:1,5,20,18
+dino baby/legRightFront
+bounds:123,225,32,37
+dino baby/lidRightClosed
+bounds:1,205,60,52
+dino baby/lidRightClosedHappy
+bounds:69,193,60,52
+dino baby/lidRightLowerHappy
+bounds:60,47,48,20
+dino baby/lidRightSquint
+bounds:27,155,58,52
+dino baby/lidRightUpperAngry
+bounds:3,90,55,34
+offsets:2,0,57,34
+dino baby/lidRightUpperSad
+bounds:14,109,55,29
+dino baby/mouthBottomA
+bounds:96,92,30,29
+dino baby/mouthBottomE
+bounds:124,74,30,24
+dino baby/mouthBottomLN
+bounds:126,511,30,24
+dino baby/mouthBottomNeutralMPB
+bounds:136,264,24,13
+dino baby/mouthBottomOUQ
+bounds:1,513,21,27
+dino baby/mouthBottomTSFV
+bounds:68,12,30,17
+dino baby/mouthBottomWR
+bounds:28,8,22,20
+dino baby/mouthTopHappy
+bounds:92,25,33,21
+dino baby/mouthTopNeutral
+bounds:1,24,32,22
+dino baby/mouthTopOh
+bounds:44,25,31,24
+dino baby/mouthTopUnhappy
+bounds:108,48,33,24
+dino baby/nose
+bounds:47,1,28,10
+dino baby/pawLeftFrontSide
+bounds:122,12,31,14
+dino baby/pawRightBackSit
+bounds:74,123,39,36
+dino baby/pawRightFrontBehindSide
+bounds:128,28,32,18
+dino baby/pawRightFrontDown
+bounds:131,202,29,19
+dino baby/pawRightFrontSide
+bounds:128,386,31,14
+dino baby/pawRightFrontStraight
+bounds:128,100,31,14
+dino baby/pawRightFrontUp
+bounds:65,94,29,27
+dino baby/tail
+bounds:1,129,35,52
+dino baby/tongue
+bounds:1,631,10,14
+
+smolsie baby_8.png
+size:164,540
+filter:Linear,Linear
+scale:0.16
+dog baby/IrisRight
+bounds:108,88,44,44
+dog baby/PupilRight
+bounds:23,60,34,33
+dog baby/bodyBack
+bounds:1,406,154,130
+dog baby/bodyFront
+bounds:1,275,154,129
+dog baby/browRight
+bounds:145,216,18,13
+dog baby/earRightBack
+bounds:1,182,58,93
+dog baby/earRightFront
+bounds:81,181,61,95
+offsets:0,0,61,96
+dog baby/eyeRightShadow
+bounds:92,1,55,48
+dog baby/legRightFront
+bounds:1,88,32,37
+dog baby/lidRightClosed
+bounds:90,133,60,53
+dog baby/lidRightClosedHappy
+bounds:1,127,60,53
+dog baby/lidRightLowerHappy
+bounds:114,267,49,20
+dog baby/lidRightSquint
+bounds:48,95,58,53
+dog baby/lidRightUpperAngry
+bounds:3,41,56,34
+offsets:2,0,58,34
+dog baby/lidRightUpperSad
+bounds:56,71,56,29
+dog baby/mouthBottomA
+bounds:1,4,22,19
+dog baby/mouthBottomE
+bounds:48,8,22,16
+dog baby/mouthBottomLN
+bounds:24,2,22,16
+dog baby/mouthBottomNeutralMPB
+bounds:148,23,15,9
+dog baby/mouthBottomOUQ
+bounds:145,3,14,18
+dog baby/mouthBottomTSFV
+bounds:141,231,20,11
+dog baby/mouthBottomWR
+bounds:1,523,15,13
+dog baby/mouthTopHappy
+bounds:137,130,26,11
+dog baby/mouthTopNeutral
+bounds:71,3,23,12
+dog baby/mouthTopOh
+bounds:141,45,21,13
+dog baby/mouthTopUnhappy
+bounds:139,253,23,12
+dog baby/nose
+bounds:1,394,16,9
+dog baby/pawRightBackSit
+bounds:128,59,33,28
+dog baby/pawRightFrontBehindSide
+bounds:146,143,16,14
+dog baby/pawRightFrontDown
+bounds:60,36,34,32
+dog baby/pawRightFrontSide
+bounds:1,24,24,17
+dog baby/pawRightFrontStraight
+bounds:1,404,33,16
+dog baby/pawRightFrontUp
+bounds:126,184,33,30
+dog baby/tail
+bounds:99,43,28,38
+dog baby/tongue
+bounds:1,426,10,14
+
+smolsie baby_9.png
+size:756,988
+filter:Linear,Linear
+scale:0.16
+egg/bear egg
+bounds:590,266,163,176
+egg/boar egg
+bounds:590,444,163,176
+egg/cat egg
+bounds:588,627,163,176
+egg/chicken egg
+bounds:586,809,163,176
+egg/cow egg
+bounds:443,1,163,176
+egg/crack1
+bounds:152,957,51,28
+egg/crack2
+bounds:165,897,79,88
+offsets:0,8,79,96
+egg/crack3
+bounds:599,3,137,99
+egg/crack4
+bounds:570,127,158,120
+egg/deer egg
+bounds:443,535,163,176
+egg/dino egg
+bounds:443,357,163,176
+egg/dog egg
+bounds:443,179,163,176
+egg/guinea pig egg
+bounds:441,718,163,176
+egg/hamster egg
+bounds:295,93,163,176
+egg/hedgehog egg
+bounds:295,271,163,176
+egg/horse egg
+bounds:295,449,163,176
+egg/koala egg
+bounds:295,627,163,176
+egg/owl egg
+bounds:293,809,163,176
+egg/panda egg
+bounds:148,6,163,176
+egg/pegasus egg
+bounds:148,718,163,176
+egg/penguin egg
+bounds:148,540,163,176
+egg/rabbit egg
+bounds:1,809,163,176
+egg/squirrel egg
+bounds:148,362,163,176
+egg/toucan egg
+bounds:148,184,163,176
+egg/unicat egg
+bounds:1,97,163,176
+egg/unicorn egg
+bounds:1,275,163,176
+egg/wolf egg
+bounds:1,453,163,176
+egg/yellow parrot egg
+bounds:1,631,163,176
+
+smolsie baby_10.png
+size:168,552
+filter:Linear,Linear
+scale:0.16
+guinea pig baby/IrisRight
+bounds:82,102,44,44
+guinea pig baby/PupilRight
+bounds:46,104,34,33
+guinea pig baby/baby hair
+bounds:1,74,17,53
+guinea pig baby/bodyBack
+bounds:1,291,154,129
+guinea pig baby/bodyFront
+bounds:1,421,154,129
+guinea pig baby/browRight
+bounds:143,537,18,13
+guinea pig baby/earRightBack
+bounds:116,145,44,38
+guinea pig baby/earRightFront
+bounds:1,129,44,37
+guinea pig baby/eyeLeftShadow
+bounds:22,10,55,48
+guinea pig baby/eyeRightShadow
+bounds:90,19,55,48
+guinea pig baby/legLeftFront
+bounds:135,281,28,38
+guinea pig baby/legRightFront
+bounds:131,407,28,38
+guinea pig baby/lidLeftClosed
+bounds:88,240,60,52
+guinea pig baby/lidLeftClosedHappy
+bounds:42,207,60,52
+guinea pig baby/lidLeftLowerHappy
+bounds:119,1,48,20
+guinea pig baby/lidLeftSquint
+bounds:57,146,58,52
+guinea pig baby/lidLeftUpperAngry
+bounds:87,63,54,34
+offsets:2,0,56,34
+guinea pig baby/lidLeftUpperSad
+bounds:98,82,55,29
+guinea pig baby/lidRightClosed
+bounds:1,247,60,52
+guinea pig baby/lidRightClosedHappy
+bounds:95,186,60,52
+guinea pig baby/lidRightLowerHappy
+bounds:70,2,48,20
+guinea pig baby/lidRightSquint
+bounds:1,169,58,52
+guinea pig baby/lidRightUpperAngry
+bounds:20,54,54,34
+offsets:2,0,56,34
+guinea pig baby/lidRightUpperSad
+bounds:24,76,55,29
+guinea pig baby/mouthBottomA
+bounds:147,186,19,19
+guinea pig baby/mouthBottomE
+bounds:148,320,19,14
+guinea pig baby/mouthBottomLN
+bounds:145,254,19,15
+offsets:0,0,19,16
+guinea pig baby/mouthBottomNeutralMPB
+bounds:29,2,14,9
+guinea pig baby/mouthBottomOUQ
+bounds:154,98,13,18
+guinea pig baby/mouthBottomTSFV
+bounds:147,397,18,11
+guinea pig baby/mouthBottomWR
+bounds:1,538,13,12
+guinea pig baby/mouthTopHappy
+bounds:142,74,24,14
+guinea pig baby/mouthTopNeutral
+bounds:144,53,22,15
+guinea pig baby/mouthTopOh
+bounds:1,15,21,17
+guinea pig baby/mouthTopUnhappy
+bounds:144,23,21,17
+guinea pig baby/nose
+bounds:1,407,16,7
+guinea pig baby/pawRightBackSit
+bounds:128,115,38,28
+guinea pig baby/pawRightFrontBehindSide
+bounds:148,41,17,9
+guinea pig baby/pawRightFrontDown
+bounds:1,415,33,23
+offsets:0,0,34,27
+guinea pig baby/pawRightFrontSide
+bounds:149,270,18,10
+guinea pig baby/pawRightFrontStraight
+bounds:1,2,27,11
+guinea pig baby/pawRightFrontUp
+bounds:135,230,31,22
+offsets:0,0,31,25
+guinea pig baby/tongue
+bounds:1,441,10,14
+guinea pig baby/tooth
+bounds:155,206,12,12
+
+smolsie baby_11.png
+size:172,428
+filter:Linear,Linear
+scale:0.16
+hamster baby/IrisRight
+bounds:103,72,44,44
+hamster baby/PupilRight
+bounds:1,89,34,33
+hamster baby/baby hair
+bounds:146,2,21,27
+hamster baby/bodyBack
+bounds:1,168,154,129
+hamster baby/bodyFront
+bounds:1,298,154,129
+hamster baby/browRight
+bounds:115,2,18,13
+hamster baby/earRightBack
+bounds:1,27,29,24
+hamster baby/earRightFront
+bounds:1,1,26,24
+hamster baby/eyeRightShadow
+bounds:52,15,55,48
+hamster baby/legRightBack
+bounds:135,158,28,38
+hamster baby/legRightFront
+bounds:131,284,28,38
+hamster baby/lidRightClosed
+bounds:1,124,60,52
+hamster baby/lidRightClosedHappy
+bounds:89,118,60,52
+hamster baby/lidRightLowerHappy
+bounds:106,16,48,20
+hamster baby/lidRightSquint
+bounds:42,84,58,52
+hamster baby/lidRightUpperAngry
+bounds:1,53,54,34
+offsets:2,0,56,34
+hamster baby/lidRightUpperSad
+bounds:50,60,55,29
+hamster baby/mouthBottomA
+bounds:94,2,19,19
+hamster baby/mouthBottomE
+bounds:144,70,19,14
+hamster baby/mouthBottomLN
+bounds:148,31,19,15
+offsets:0,0,19,16
+hamster baby/mouthBottomNeutralMPB
+bounds:153,211,14,9
+hamster baby/mouthBottomOUQ
+bounds:153,86,13,18
+hamster baby/mouthBottomTSFV
+bounds:148,138,18,11
+hamster baby/mouthBottomWR
+bounds:154,197,13,12
+hamster baby/mouthTopHappy
+bounds:145,324,22,9
+hamster baby/mouthTopNeutral
+bounds:142,410,22,11
+hamster baby/mouthTopOh
+bounds:147,271,20,13
+hamster baby/mouthTopUnhappy
+bounds:1,415,20,12
+hamster baby/nose
+bounds:34,299,10,6
+hamster baby/pawRightBackSit
+bounds:117,43,38,28
+hamster baby/pawRightFrontBehindSide
+bounds:153,335,17,9
+hamster baby/pawRightFrontDown
+bounds:1,292,33,23
+offsets:0,0,34,27
+hamster baby/pawRightFrontSide
+bounds:150,398,18,10
+hamster baby/pawRightFrontStraight
+bounds:61,3,27,11
+hamster baby/pawRightFrontUp
+bounds:29,6,31,22
+offsets:0,0,31,25
+hamster baby/tail
+bounds:140,107,28,29
+hamster baby/tongue
+bounds:1,318,10,14
+hamster baby/tooth
+bounds:154,48,12,12
+
+smolsie baby_12.png
+size:784,140
+filter:Linear,Linear
+scale:0.16
+hedgehog baby/IrisRight
+bounds:634,82,44,44
+hedgehog baby/PupilRight
+bounds:661,26,34,33
+hedgehog baby/baby hair
+bounds:471,95,113,43
+hedgehog baby/bodyBack
+bounds:172,8,154,130
+hedgehog baby/bodyFront
+bounds:328,9,154,129
+hedgehog baby/browRight
+bounds:728,2,23,17
+hedgehog baby/earRightBack
+bounds:311,3,32,29
+hedgehog baby/earRightFront
+bounds:695,4,31,28
+hedgehog baby/eyeRightShadow
+bounds:728,20,55,48
+hedgehog baby/furSideLeft
+bounds:599,56,36,82
+hedgehog baby/furSideRight
+bounds:623,5,36,82
+hedgehog baby/hair back
+bounds:1,6,171,132
+hedgehog baby/legRightFront
+bounds:530,3,31,37
+hedgehog baby/lidRightClosed
+bounds:475,10,60,53
+hedgehog baby/lidRightClosedHappy
+bounds:522,42,60,53
+hedgehog baby/lidRightLowerHappy
+bounds:442,1,49,20
+hedgehog baby/lidRightSquint
+bounds:568,7,58,53
+hedgehog baby/lidRightUpperAngry
+bounds:673,104,56,34
+offsets:2,0,58,34
+hedgehog baby/lidRightUpperSad
+bounds:654,62,56,29
+hedgehog baby/mouthBottomA
+bounds:130,3,19,19
+hedgehog baby/mouthBottomE
+bounds:615,2,19,14
+hedgehog baby/mouthBottomLN
+bounds:1,33,19,14
+hedgehog baby/mouthBottomNeutralMPB
+bounds:367,3,14,9
+hedgehog baby/mouthBottomOUQ
+bounds:767,85,13,18
+hedgehog baby/mouthBottomTSFV
+bounds:34,2,18,11
+hedgehog baby/mouthBottomWR
+bounds:563,2,13,13
+hedgehog baby/mouthTopHappy
+bounds:753,7,24,12
+hedgehog baby/mouthTopNeutral
+bounds:288,3,22,13
+hedgehog baby/mouthTopOh
+bounds:345,3,20,15
+hedgehog baby/mouthTopUnhappy
+bounds:762,70,20,14
+hedgehog baby/nose
+bounds:210,2,20,9
+hedgehog baby/pawRightBackSit
+bounds:1,1,33,28
+hedgehog baby/pawRightFrontBehindSide
+bounds:766,105,16,14
+hedgehog baby/pawRightFrontDown
+bounds:695,34,31,31
+offsets:0,0,31,32
+hedgehog baby/pawRightFrontSide
+bounds:184,3,24,17
+hedgehog baby/pawRightFrontStraight
+bounds:655,8,32,15
+hedgehog baby/pawRightFrontUp
+bounds:708,78,33,30
+hedgehog baby/tail
+bounds:152,3,30,35
+hedgehog baby/tongue
+bounds:771,121,10,14
+
+smolsie baby_13.png
+size:168,512
+filter:Linear,Linear
+scale:0.16
+horse baby/IrisRight
+bounds:103,154,44,44
+horse baby/PupilRight
+bounds:89,97,34,33
+horse baby/baby hair
+bounds:103,47,34,29
+horse baby/bodyBack
+bounds:1,251,154,129
+horse baby/bodyFront
+bounds:1,381,154,129
+horse baby/browRight
+bounds:130,3,18,13
+horse baby/earRightBack
+bounds:124,80,21,37
+horse baby/earRightFront
+bounds:138,370,21,34
+horse baby/eyeRightShadow
+bounds:13,40,55,48
+horse baby/hair back
+bounds:22,128,38,44
+offsets:0,0,39,44
+horse baby/legRightFront
+bounds:75,128,32,37
+horse baby/lidRightClosed
+bounds:1,206,60,53
+horse baby/lidRightClosedHappy
+bounds:89,200,60,53
+horse baby/lidRightLowerHappy
+bounds:62,77,49,20
+horse baby/lidRightSquint
+bounds:42,166,58,53
+horse baby/lidRightUpperAngry
+bounds:13,87,56,34
+offsets:2,0,58,34
+horse baby/lidRightUpperSad
+bounds:25,106,56,29
+horse baby/mouthBottomA
+bounds:1,377,27,25
+horse baby/mouthBottomE
+bounds:1,25,27,21
+horse baby/mouthBottomLN
+bounds:88,27,27,21
+horse baby/mouthBottomNeutralMPB
+bounds:47,2,21,11
+horse baby/mouthBottomOUQ
+bounds:145,184,18,24
+horse baby/mouthBottomTSFV
+bounds:1,9,27,14
+horse baby/mouthBottomWR
+bounds:142,493,19,17
+horse baby/mouthTopHappy
+bounds:53,26,32,20
+horse baby/mouthTopNeutral
+bounds:134,32,30,21
+horse baby/mouthTopOh
+bounds:133,56,30,22
+horse baby/mouthTopUnhappy
+bounds:130,246,30,23
+horse baby/nose
+bounds:70,3,25,7
+horse baby/pawRightBackSit
+bounds:116,119,37,33
+horse baby/pawRightFrontBehindSide
+bounds:66,11,32,15
+horse baby/pawRightFrontDown
+bounds:117,18,30,16
+horse baby/pawRightFrontSide
+bounds:98,1,30,15
+horse baby/pawRightFrontStraight
+bounds:29,13,31,16
+horse baby/pawRightFrontUp
+bounds:69,46,32,26
+horse baby/tail
+bounds:1,158,28,48
+horse baby/tongue
+bounds:1,496,10,14
+
+smolsie baby_14.png
+size:156,624
+filter:Linear,Linear
+scale:0.16
+koala baby/IrisRight
+bounds:88,168,44,44
+koala baby/PupilRight
+bounds:96,83,34,33
+koala baby/bodyBack
+bounds:1,363,154,129
+koala baby/bodyFront
+bounds:1,493,154,129
+koala baby/browRight
+bounds:136,288,18,13
+koala baby/earRightBack
+bounds:1,289,66,73
+koala baby/earRightFront
+bounds:69,288,65,73
+koala baby/eyeRightShadow
+bounds:100,6,55,48
+koala baby/furSideRight
+bounds:124,210,29,76
+koala baby/legRightFront
+bounds:121,108,32,37
+koala baby/lidRightClosed
+bounds:1,234,60,53
+koala baby/lidRightClosedHappy
+bounds:62,233,60,53
+koala baby/lidRightLowerHappy
+bounds:32,47,49,20
+koala baby/lidRightSquint
+bounds:32,186,58,53
+koala baby/lidRightUpperAngry
+bounds:1,65,56,34
+offsets:2,0,58,34
+koala baby/lidRightUpperSad
+bounds:9,85,56,29
+koala baby/mouthBottomA
+bounds:1,37,30,28
+koala baby/mouthBottomE
+bounds:32,6,30,24
+koala baby/mouthBottomLN
+bounds:1,11,30,24
+koala baby/mouthBottomNeutralMPB
+bounds:132,195,23,13
+koala baby/mouthBottomOUQ
+bounds:1,492,20,26
+koala baby/mouthBottomTSFV
+bounds:64,7,29,17
+koala baby/mouthBottomWR
+bounds:131,83,21,18
+offsets:0,1,21,19
+koala baby/mouthTopHappy
+bounds:11,109,36,42
+koala baby/mouthTopNeutral
+bounds:1,153,34,45
+koala baby/mouthTopOh
+bounds:43,138,33,45
+koala baby/mouthTopUnhappy
+bounds:92,123,33,44
+koala baby/nose
+bounds:1,1,28,8
+koala baby/pawRightBackSit
+bounds:61,105,37,33
+koala baby/pawRightFrontBehindSide
+bounds:1,608,16,14
+koala baby/pawRightFrontDown
+bounds:56,66,34,32
+koala baby/pawRightFrontSide
+bounds:129,360,25,17
+koala baby/pawRightFrontStraight
+bounds:117,490,33,15
+koala baby/pawRightFrontUp
+bounds:112,53,33,30
+koala baby/tail
+bounds:127,150,28,32
+koala baby/tongue
+bounds:22,490,9,12
+
+smolsie baby_15.png
+size:668,220
+filter:Linear,Linear
+scale:0.5
+objects/baby_bottle_1
+bounds:464,3,54,84
+objects/basket back
+bounds:2,30,277,57
+objects/basket front
+bounds:2,89,317,129
+objects/brush storytime
+bounds:602,2,20,81
+objects/foam body front
+bounds:280,12,153,84
+objects/foam body left
+bounds:518,23,93,135
+objects/foam body right
+bounds:574,84,91,134
+objects/foam head
+bounds:320,67,217,151
+offsets:0,7,217,158
+objects/marker
+bounds:580,5,20,81
+
+smolsie baby_16.png
+size:160,500
+filter:Linear,Linear
+scale:0.16
+owl baby/IrisRight
+bounds:106,142,44,44
+owl baby/PupilRight
+bounds:49,60,34,33
+owl baby/bodyBack
+bounds:1,238,154,129
+owl baby/bodyFront
+bounds:1,368,154,129
+owl baby/browRight
+bounds:53,8,18,13
+owl baby/clawRightBehindSide
+bounds:49,23,34,12
+owl baby/clawRightDown
+bounds:1,364,33,19
+offsets:0,0,33,21
+owl baby/clawRightSide
+bounds:1,18,35,13
+owl baby/clawRightStraight
+bounds:1,3,31,14
+owl baby/clawRightUp
+bounds:1,54,36,33
+owl baby/earRightFront
+bounds:51,37,31,20
+owl baby/eyeRightShadow
+bounds:89,20,55,48
+owl baby/lidRightClosed
+bounds:1,194,65,52
+owl baby/lidRightClosedHappy
+bounds:89,188,63,52
+owl baby/lidRightLowerHappy
+bounds:1,33,48,20
+owl baby/lidRightSquint
+bounds:42,154,62,52
+owl baby/lidRightUpperAngry
+bounds:1,89,59,34
+offsets:1,0,60,34
+owl baby/lidRightUpperSad
+bounds:54,94,60,29
+owl baby/mouthBottomA
+bounds:128,361,18,24
+owl baby/mouthBottomE
+bounds:135,235,19,23
+owl baby/mouthBottomLN
+bounds:135,67,19,24
+owl baby/mouthBottomNeutralMPB
+bounds:138,184,17,15
+owl baby/mouthBottomOUQ
+bounds:83,2,17,24
+owl baby/mouthBottomTSFV
+bounds:136,7,18,21
+owl baby/mouthBottomWR
+bounds:33,1,17,21
+owl baby/mouthTopHappy
+bounds:136,132,20,13
+owl baby/mouthTopNeutral
+bounds:137,483,18,14
+owl baby/mouthTopOh
+bounds:1,482,16,15
+owl baby/mouthTopUnhappy
+bounds:102,4,19,14
+owl baby/tail
+bounds:98,69,34,28
+owl baby/tongue
+bounds:1,391,9,12
+owl baby/wingRightBack
+bounds:1,145,48,31
+owl baby/wingRightFront
+bounds:71,124,48,31
+owl baby/wingRightSide
+bounds:27,116,42,36
+owl baby/wingRightSideUp
+bounds:114,94,40,37
+
+smolsie baby_17.png
+size:188,452
+filter:Linear,Linear
+scale:0.16
+panda baby/IrisRight
+bounds:59,62,44,44
+panda baby/PupilRight
+bounds:145,81,34,33
+panda baby/baby hair
+bounds:105,64,38,30
+panda baby/bodyBack
+bounds:1,191,154,129
+panda baby/bodyFront
+bounds:1,321,154,129
+panda baby/browRight
+bounds:157,266,18,13
+panda baby/earRightBack
+bounds:102,96,41,42
+panda baby/earRightFront
+bounds:1,86,40,43
+panda baby/eyeRightShadow
+bounds:74,1,55,48
+panda baby/legLeftBack
+bounds:144,129,32,36
+panda baby/legLeftFront
+bounds:136,180,32,36
+panda baby/legRightBack
+bounds:131,308,32,36
+panda baby/legRightFront
+bounds:131,308,32,36
+panda baby/lidRightClosed
+bounds:1,147,60,52
+panda baby/lidRightClosedHappy
+bounds:89,141,60,52
+panda baby/lidRightLowerHappy
+bounds:1,12,48,20
+panda baby/lidRightSquint
+bounds:42,107,58,52
+panda baby/lidRightUpperAngry
+bounds:7,33,55,34
+offsets:2,0,57,34
+panda baby/lidRightUpperSad
+bounds:121,41,55,29
+panda baby/mouthBottomA
+bounds:162,393,22,17
+panda baby/mouthBottomE
+bounds:165,329,20,12
+panda baby/mouthBottomLN
+bounds:165,315,20,12
+panda baby/mouthBottomNeutralMPB
+bounds:163,72,20,9
+panda baby/mouthBottomOUQ
+bounds:171,112,14,19
+panda baby/mouthBottomTSFV
+bounds:1,1,21,11
+panda baby/mouthBottomWR
+bounds:1,337,14,14
+panda baby/mouthTopHappy
+bounds:159,375,25,16
+panda baby/mouthTopNeutral
+bounds:161,248,24,16
+panda baby/mouthTopOh
+bounds:164,165,20,20
+panda baby/mouthTopUnhappy
+bounds:155,21,25,19
+offsets:0,0,26,19
+panda baby/nose
+bounds:1,309,15,10
+panda baby/pawLeftBackBehindSide
+bounds:169,187,16,14
+panda baby/pawLeftFrontBehindSide
+bounds:169,187,16,14
+panda baby/pawLeftBackDown
+bounds:150,418,34,32
+panda baby/pawLeftFrontDown
+bounds:150,418,34,32
+panda baby/pawLeftBackSide
+bounds:154,3,25,17
+panda baby/pawLeftFrontSide
+bounds:154,3,25,17
+panda baby/pawLeftBackStraight
+bounds:1,320,33,15
+panda baby/pawLeftFrontStraight
+bounds:1,320,33,15
+panda baby/pawLeftBackUp
+bounds:152,283,33,30
+panda baby/pawLeftFrontUp
+bounds:152,283,33,30
+panda baby/pawRightBackBehindSide
+bounds:1,436,16,14
+panda baby/pawRightFrontBehindSide
+bounds:1,436,16,14
+panda baby/pawRightBackDown
+bounds:81,31,34,32
+panda baby/pawRightFrontDown
+bounds:81,31,34,32
+panda baby/pawRightBackSide
+bounds:128,2,25,17
+panda baby/pawRightFrontSide
+bounds:128,2,25,17
+panda baby/pawRightBackSit
+bounds:24,51,37,33
+panda baby/pawRightBackStraight
+bounds:43,2,33,15
+panda baby/pawRightFrontStraight
+bounds:43,2,33,15
+panda baby/pawRightBackUp
+bounds:152,343,33,30
+panda baby/pawRightFrontUp
+bounds:152,343,33,30
+panda baby/tail
+bounds:152,216,31,30
+panda baby/tongue
+bounds:139,438,9,12
+
+smolsie baby_18.png
+size:164,616
+filter:Linear,Linear
+scale:0.16
+pegasus baby/IrisRight
+bounds:100,133,44,44
+pegasus baby/PupilRight
+bounds:83,79,34,33
+pegasus baby/baby hair
+bounds:62,311,68,41
+pegasus baby/back wing right back
+bounds:95,179,53,34
+pegasus baby/back wing right down
+bounds:1,155,49,36
+pegasus baby/back wing right front
+bounds:40,193,53,34
+pegasus baby/back wing right up
+bounds:52,140,46,37
+pegasus baby/bodyBack
+bounds:1,354,154,129
+pegasus baby/bodyFront
+bounds:1,484,154,129
+pegasus baby/browRight
+bounds:79,2,18,13
+pegasus baby/earRightBack
+bounds:132,307,21,37
+pegasus baby/earRightFront
+bounds:1,65,21,34
+pegasus baby/eyeRightShadow
+bounds:82,32,55,48
+pegasus baby/hair back
+bounds:1,301,60,56
+pegasus baby/legRightFront
+bounds:117,268,32,37
+pegasus baby/lidRightClosed
+bounds:51,256,65,52
+pegasus baby/lidRightClosedHappy
+bounds:1,227,63,52
+pegasus baby/lidRightLowerHappy
+bounds:1,43,48,20
+pegasus baby/lidRightSquint
+bounds:91,215,62,52
+pegasus baby/lidRightUpperAngry
+bounds:1,101,59,34
+offsets:1,0,60,34
+pegasus baby/lidRightUpperSad
+bounds:51,109,60,29
+pegasus baby/mouthBottomA
+bounds:1,480,27,25
+pegasus baby/mouthBottomE
+bounds:32,16,27,21
+pegasus baby/mouthBottomLN
+bounds:133,31,27,21
+pegasus baby/mouthBottomNeutralMPB
+bounds:140,17,21,11
+pegasus baby/mouthBottomOUQ
+bounds:143,126,18,24
+pegasus baby/mouthBottomTSFV
+bounds:51,1,27,14
+pegasus baby/mouthBottomWR
+bounds:138,54,19,17
+pegasus baby/mouthTopHappy
+bounds:1,22,32,20
+pegasus baby/mouthTopNeutral
+bounds:129,75,30,21
+pegasus baby/mouthTopOh
+bounds:128,349,30,22
+pegasus baby/mouthTopUnhappy
+bounds:126,475,30,23
+pegasus baby/nose
+bounds:135,500,25,7
+pegasus baby/pawRightBackSit
+bounds:112,98,37,33
+pegasus baby/pawRightFrontBehindSide
+bounds:1,4,32,15
+pegasus baby/pawRightFrontDown
+bounds:71,17,30,16
+pegasus baby/pawRightFrontSide
+bounds:120,1,30,15
+pegasus baby/pawRightFrontStraight
+bounds:103,16,31,16
+pegasus baby/pawRightFrontUp
+bounds:51,32,32,26
+pegasus baby/tail
+bounds:54,71,27,30
+pegasus baby/tongue
+bounds:1,599,10,14
+
+smolsie baby_19.png
+size:160,488
+filter:Linear,Linear
+scale:0.16
+penguin baby/IrisRight
+bounds:103,128,44,44
+penguin baby/PupilRight
+bounds:99,55,34,33
+penguin baby/bodyBack
+bounds:1,225,154,129
+penguin baby/bodyFront
+bounds:1,355,154,129
+penguin baby/browRight
+bounds:130,350,18,14
+penguin baby/clawRightDown
+bounds:1,351,32,21
+offsets:0,0,32,23
+penguin baby/clawRightSide
+bounds:58,15,34,12
+penguin baby/clawRightStraight
+bounds:94,16,30,13
+penguin baby/clawRightUp
+bounds:58,45,36,32
+penguin baby/eyeRightShadow
+bounds:4,9,55,48
+penguin baby/lidRightClosed
+bounds:1,180,60,53
+penguin baby/lidRightClosedHappy
+bounds:89,174,60,53
+penguin baby/lidRightLowerHappy
+bounds:84,33,49,20
+penguin baby/lidRightSquint
+bounds:42,140,58,53
+penguin baby/lidRightUpperAngry
+bounds:1,53,56,34
+offsets:2,0,58,34
+penguin baby/lidRightUpperSad
+bounds:7,74,56,29
+penguin baby/mouthBottomA
+bounds:126,9,19,18
+penguin baby/mouthBottomE
+bounds:133,51,16,19
+penguin baby/mouthBottomLN
+bounds:135,28,17,21
+penguin baby/mouthBottomNeutralMPB
+bounds:1,472,16,12
+penguin baby/mouthBottomOUQ
+bounds:139,166,15,20
+penguin baby/mouthBottomTSFV
+bounds:138,116,16,16
+offsets:0,0,16,18
+penguin baby/mouthBottomWR
+bounds:139,366,16,17
+penguin baby/mouthTopHappy
+bounds:47,1,22,15
+penguin baby/mouthTopNeutral
+bounds:137,468,21,16
+penguin baby/mouthTopOh
+bounds:136,236,20,14
+penguin baby/mouthTopUnhappy
+bounds:134,217,20,16
+penguin baby/tail
+bounds:64,79,34,28
+penguin baby/tongue
+bounds:1,378,9,12
+penguin baby/wingRightBack
+bounds:1,132,48,31
+penguin baby/wingRightFront
+bounds:69,109,48,31
+penguin baby/wingRightSide
+bounds:25,102,42,36
+penguin baby/wingRightSideUp
+bounds:113,78,40,37
+
+smolsie baby_20.png
+size:156,524
+filter:Linear,Linear
+scale:0.16
+rabbit baby/IrisRight
+bounds:51,111,44,44
+rabbit baby/PupilRight
+bounds:22,56,34,33
+rabbit baby/bodyBack
+bounds:1,391,154,130
+rabbit baby/bodyFront
+bounds:1,260,154,129
+rabbit baby/browRight
+bounds:79,8,18,13
+rabbit baby/earRightBack
+bounds:1,208,46,56
+rabbit baby/earRightFront
+bounds:105,206,46,55
+rabbit baby/eyeRightShadow
+bounds:93,14,55,48
+rabbit baby/legRightFront
+bounds:123,72,31,37
+rabbit baby/lidRightClosed
+bounds:45,167,65,52
+rabbit baby/lidRightClosedHappy
+bounds:1,133,63,52
+rabbit baby/lidRightLowerHappy
+bounds:30,18,48,20
+rabbit baby/lidRightSquint
+bounds:90,132,62,52
+rabbit baby/lidRightUpperAngry
+bounds:52,71,59,34
+offsets:1,0,60,34
+rabbit baby/lidRightUpperSad
+bounds:64,90,60,29
+rabbit baby/mouthBottomA
+bounds:132,182,19,19
+rabbit baby/mouthBottomE
+bounds:22,9,19,14
+rabbit baby/mouthBottomLN
+bounds:129,394,19,15
+offsets:0,0,19,16
+rabbit baby/mouthBottomNeutralMPB
+bounds:1,3,14,9
+rabbit baby/mouthBottomOUQ
+bounds:138,1,13,18
+rabbit baby/mouthBottomTSFV
+bounds:1,405,18,11
+rabbit baby/mouthBottomWR
+bounds:1,375,13,12
+rabbit baby/mouthTopHappy
+bounds:130,380,24,12
+rabbit baby/mouthTopNeutral
+bounds:1,15,22,13
+rabbit baby/mouthTopOh
+bounds:131,263,20,15
+rabbit baby/mouthTopUnhappy
+bounds:43,3,20,14
+rabbit baby/nose
+bounds:112,4,20,9
+rabbit baby/pawRightBackSit
+bounds:1,29,33,28
+rabbit baby/pawRightFrontBehindSide
+bounds:1,507,16,14
+rabbit baby/pawRightFrontDown
+bounds:102,44,31,31
+offsets:0,0,31,32
+rabbit baby/pawRightFrontSide
+bounds:127,110,24,17
+rabbit baby/pawRightFrontStraight
+bounds:1,389,32,15
+rabbit baby/pawRightFrontUp
+bounds:56,40,33,30
+rabbit baby/tail
+bounds:1,88,40,43
+rabbit baby/tongue
+bounds:66,2,10,14
+rabbit baby/tooth
+bounds:98,3,12,12
+
+smolsie baby_21.png
+size:60,192
+filter:Linear,Linear
+scale:0.16
+shared/eyeballRight
+bounds:1,88,52,49
+shared/eyeballRight blue
+bounds:1,38,52,49
+shared/eyelinerRight
+bounds:1,139,53,51
+shared/highlightRightTop
+bounds:1,6,9,9
+shared/lashes right
+bounds:32,1,22,19
+shared/lightRightBottom
+bounds:1,15,42,22
+shared/tongue
+bounds:42,22,15,21
+
+smolsie baby_22.png
+size:296,288
+filter:Linear,Linear
+scale:0.16
+squirrel baby/IrisRight
+bounds:214,26,44,44
+squirrel baby/PupilRight
+bounds:190,1,34,33
+squirrel baby/baby hair
+bounds:264,79,24,24
+squirrel baby/bodyBack
+bounds:1,25,154,129
+squirrel baby/bodyFront
+bounds:1,155,154,129
+squirrel baby/browRight
+bounds:272,122,18,13
+squirrel baby/earRightBack
+bounds:260,31,25,24
+squirrel baby/earRightFront
+bounds:252,5,26,24
+squirrel baby/eyeRightShadow
+bounds:240,135,55,48
+squirrel baby/furSideLeft
+bounds:218,192,33,65
+squirrel baby/furSideRight
+bounds:205,125,33,65
+squirrel baby/legRightFront
+bounds:238,100,27,37
+squirrel baby/lidRightClosed
+bounds:147,27,65,52
+squirrel baby/lidRightClosedHappy
+bounds:153,232,63,52
+squirrel baby/lidRightLowerHappy
+bounds:61,1,48,20
+squirrel baby/lidRightSquint
+bounds:182,71,62,52
+squirrel baby/lidRightUpperAngry
+bounds:1,7,59,34
+offsets:1,0,60,34
+squirrel baby/lidRightUpperSad
+bounds:99,7,60,29
+squirrel baby/mouthBottomA
+bounds:158,1,19,19
+squirrel baby/mouthBottomE
+bounds:276,201,19,14
+squirrel baby/mouthBottomLN
+bounds:266,105,19,15
+offsets:0,0,19,16
+squirrel baby/mouthBottomNeutralMPB
+bounds:142,4,14,9
+squirrel baby/mouthBottomOUQ
+bounds:280,11,13,18
+squirrel baby/mouthBottomTSFV
+bounds:275,232,18,11
+squirrel baby/mouthBottomWR
+bounds:1,272,13,12
+squirrel baby/mouthTopHappy
+bounds:134,273,22,11
+squirrel baby/mouthTopNeutral
+bounds:226,8,22,12
+squirrel baby/mouthTopOh
+bounds:274,186,20,14
+squirrel baby/mouthTopUnhappy
+bounds:271,217,20,13
+squirrel baby/nose
+bounds:34,155,10,7
+squirrel baby/pawRightBackSit
+bounds:176,206,38,26
+squirrel baby/pawRightFrontBehindSide
+bounds:275,244,17,9
+squirrel baby/pawRightFrontDown
+bounds:1,149,33,23
+offsets:0,0,34,27
+squirrel baby/pawRightFrontSide
+bounds:156,217,18,10
+squirrel baby/pawRightFrontStraight
+bounds:113,152,27,11
+squirrel baby/pawRightFrontUp
+bounds:253,56,31,22
+offsets:0,0,31,25
+squirrel baby/tail
+bounds:143,111,60,105
+offsets:1,0,62,105
+squirrel baby/tongue
+bounds:1,175,10,14
+squirrel baby/tooth
+bounds:1,138,10,10
+
+smolsie baby_23.png
+size:164,496
+filter:Linear,Linear
+scale:0.16
+toucan baby/IrisRight
+bounds:99,134,44,44
+toucan baby/PupilRight
+bounds:31,62,34,33
+toucan baby/bodyBack
+bounds:1,236,154,129
+toucan baby/bodyFront
+bounds:1,366,154,129
+toucan baby/browRight
+bounds:143,250,18,13
+toucan baby/clawRightDown
+bounds:126,41,32,21
+offsets:0,0,32,23
+toucan baby/clawRightSide
+bounds:124,236,34,12
+toucan baby/clawRightStraight
+bounds:40,1,30,13
+toucan baby/clawRightUp
+bounds:125,354,36,32
+toucan baby/eyeRightShadow
+bounds:9,12,55,48
+toucan baby/lidRightClosed
+bounds:1,191,60,53
+toucan baby/lidRightClosedHappy
+bounds:89,185,60,53
+toucan baby/lidRightLowerHappy
+bounds:59,49,49,20
+toucan baby/lidRightSquint
+bounds:42,151,58,53
+toucan baby/lidRightUpperAngry
+bounds:86,62,56,34
+offsets:2,0,58,34
+toucan baby/lidRightUpperSad
+bounds:94,82,56,29
+toucan baby/mouthBottomA
+bounds:132,113,20,21
+toucan baby/mouthBottomE
+bounds:143,76,20,19
+toucan baby/mouthBottomLN
+bounds:140,165,19,21
+toucan baby/mouthBottomNeutralMPB
+bounds:1,3,20,16
+toucan baby/mouthBottomOUQ
+bounds:146,132,16,24
+toucan baby/mouthBottomTSFV
+bounds:141,12,19,20
+toucan baby/mouthBottomWR
+bounds:144,188,16,19
+toucan baby/mouthTopHappy
+bounds:114,15,26,28
+toucan baby/mouthTopNeutral
+bounds:89,13,23,33
+toucan baby/mouthTopOh
+bounds:1,358,22,32
+toucan baby/mouthTopUnhappy
+bounds:65,13,22,29
+toucan baby/tail
+bounds:1,134,30,55
+toucan baby/tongue
+bounds:1,483,9,12
+toucan baby/wingRightBack
+bounds:32,119,48,31
+toucan baby/wingRightFront
+bounds:82,104,48,31
+toucan baby/wingRightSide
+bounds:1,88,39,32
+toucan baby/wingRightSideUp
+bounds:46,86,39,32
+
+smolsie baby_24.png
+size:164,532
+filter:Linear,Linear
+scale:0.16
+unicat baby/IrisRight
+bounds:1,108,44,44
+unicat baby/baby hair
+bounds:1,13,21,27
+unicat baby/back wing right back
+bounds:1,154,53,34
+unicat baby/back wing right down
+bounds:56,145,49,36
+unicat baby/back wing right front
+bounds:102,183,53,34
+unicat baby/back wing right up
+bounds:107,144,46,37
+unicat baby/bodyBack
+bounds:1,401,154,130
+unicat baby/bodyFront
+bounds:1,270,154,129
+unicat baby/browRight
+bounds:131,41,18,13
+unicat baby/earRightBack
+bounds:85,102,36,40
+unicat baby/earRightFront
+bounds:47,103,36,40
+unicat baby/eyeRightShadow
+bounds:29,1,55,48
+unicat baby/legRightFront
+bounds:131,387,31,37
+unicat baby/lidRightClosed
+bounds:1,226,60,53
+unicat baby/lidRightClosedHappy
+bounds:89,220,60,53
+unicat baby/lidRightLowerHappy
+bounds:69,46,49,20
+unicat baby/lidRightSquint
+bounds:42,185,58,53
+unicat baby/lidRightUpperAngry
+bounds:57,67,56,34
+offsets:2,0,58,34
+unicat baby/lidRightUpperSad
+bounds:1,72,56,29
+unicat baby/mouthBottomA
+bounds:81,2,21,21
+unicat baby/mouthBottomE
+bounds:131,1,22,18
+unicat baby/mouthBottomLN
+bounds:139,21,21,18
+unicat baby/mouthBottomNeutralMPB
+bounds:146,234,16,10
+unicat baby/mouthBottomOUQ
+bounds:148,61,14,20
+unicat baby/mouthBottomTSFV
+bounds:141,263,21,12
+unicat baby/mouthBottomWR
+bounds:1,416,15,14
+unicat baby/mouthTopHappy
+bounds:1,1,27,10
+unicat baby/mouthTopNeutral
+bounds:134,522,23,9
+unicat baby/mouthTopOh
+bounds:140,219,20,13
+unicat baby/mouthTopUnhappy
+bounds:139,276,22,12
+unicat baby/nose
+bounds:141,289,20,9
+unicat baby/pawRightBackSit
+bounds:1,42,33,28
+unicat baby/pawRightFrontBehindSide
+bounds:1,517,16,14
+unicat baby/pawRightFrontDown
+bounds:115,58,31,31
+offsets:0,0,31,32
+unicat baby/pawRightFrontSide
+bounds:105,6,24,17
+unicat baby/pawRightFrontStraight
+bounds:1,399,32,15
+unicat baby/pawRightFrontUp
+bounds:35,46,33,30
+unicat baby/tail
+bounds:123,90,34,52
+offsets:0,1,34,53
+unicat baby/tongue
+bounds:1,383,10,14
+
+smolsie baby_25.png
+size:168,536
+filter:Linear,Linear
+scale:0.16
+unicorn baby/IrisRight
+bounds:1,99,44,44
+unicorn baby/PupilRight
+bounds:130,262,34,33
+unicorn baby/baby hair
+bounds:1,224,73,52
+offsets:0,0,74,52
+unicorn baby/bodyBack
+bounds:1,273,154,129
+unicorn baby/bodyFront
+bounds:1,403,154,129
+unicorn baby/browRight
+bounds:33,1,18,13
+unicorn baby/earRightBack
+bounds:140,76,21,37
+unicorn baby/earRightFront
+bounds:107,71,21,34
+unicorn baby/eyeRightShadow
+bounds:1,54,55,48
+unicorn baby/hair back
+bounds:75,220,72,54
+offsets:0,0,73,54
+unicorn baby/legRightFront
+bounds:130,189,32,37
+unicorn baby/lidRightClosed
+bounds:46,177,65,52
+unicorn baby/lidRightClosedHappy
+bounds:1,145,63,52
+unicorn baby/lidRightLowerHappy
+bounds:54,55,48,20
+unicorn baby/lidRightSquint
+bounds:92,143,62,52
+unicorn baby/lidRightUpperAngry
+bounds:47,92,59,34
+offsets:1,0,60,34
+unicorn baby/lidRightUpperSad
+bounds:94,107,60,29
+unicorn baby/mouthBottomA
+bounds:1,399,27,25
+unicorn baby/mouthBottomE
+bounds:23,17,27,21
+unicorn baby/mouthBottomLN
+bounds:69,28,27,21
+unicorn baby/mouthBottomNeutralMPB
+bounds:137,138,21,11
+unicorn baby/mouthBottomOUQ
+bounds:145,233,18,24
+unicorn baby/mouthBottomTSFV
+bounds:80,1,27,14
+unicorn baby/mouthBottomWR
+bounds:142,515,19,17
+unicorn baby/mouthTopHappy
+bounds:126,26,32,20
+unicorn baby/mouthTopNeutral
+bounds:1,32,30,21
+unicorn baby/mouthTopOh
+bounds:39,36,30,22
+unicorn baby/mouthTopUnhappy
+bounds:97,35,30,23
+unicorn baby/nose
+bounds:53,2,25,7
+unicorn baby/pawRightBackSit
+bounds:127,391,37,33
+unicorn baby/pawRightFrontBehindSide
+bounds:129,9,32,15
+unicorn baby/pawRightFrontDown
+bounds:97,18,30,16
+unicorn baby/pawRightFrontSide
+bounds:1,1,30,15
+unicorn baby/pawRightFrontStraight
+bounds:53,11,31,16
+unicorn baby/pawRightFrontUp
+bounds:126,48,32,26
+unicorn baby/tail
+bounds:45,117,57,46
+unicorn baby/tongue
+bounds:1,518,10,14
+
+smolsie baby_26.png
+size:160,604
+filter:Linear,Linear
+scale:0.16
+wolf baby/IrisLeft
+bounds:109,114,44,44
+wolf baby/IrisRight
+bounds:1,103,44,44
+wolf baby/PupilLeft
+bounds:42,87,34,33
+wolf baby/PupilRight
+bounds:85,89,34,33
+wolf baby/bodyBack
+bounds:1,472,154,130
+wolf baby/bodyFront
+bounds:1,341,154,129
+wolf baby/browRight
+bounds:139,99,18,13
+wolf baby/earLeftBack
+bounds:72,270,65,69
+wolf baby/earLeftFront
+bounds:1,200,62,72
+wolf baby/earRightBack
+bounds:1,274,69,66
+wolf baby/earRightFront
+bounds:64,203,64,65
+wolf baby/eyeRightShadow
+bounds:60,10,55,48
+wolf baby/legRightFront
+bounds:124,207,32,37
+wolf baby/lidRightClosed
+bounds:89,159,60,52
+wolf baby/lidRightClosedHappy
+bounds:1,149,60,52
+wolf baby/lidRightLowerHappy
+bounds:1,21,48,20
+wolf baby/lidRightSquint
+bounds:49,119,58,52
+wolf baby/lidRightUpperAngry
+bounds:1,68,55,34
+offsets:2,0,57,34
+wolf baby/lidRightUpperSad
+bounds:95,68,55,29
+wolf baby/mouthBottomA
+bounds:43,6,22,19
+wolf baby/mouthBottomE
+bounds:137,484,22,16
+wolf baby/mouthBottomLN
+bounds:105,2,22,16
+wolf baby/mouthBottomNeutralMPB
+bounds:67,2,15,9
+wolf baby/mouthBottomOUQ
+bounds:27,2,14,18
+wolf baby/mouthBottomTSFV
+bounds:138,158,20,11
+wolf baby/mouthBottomWR
+bounds:1,589,15,13
+wolf baby/mouthTopHappy
+bounds:129,341,26,17
+wolf baby/mouthTopNeutral
+bounds:116,20,24,18
+wolf baby/mouthTopOh
+bounds:129,464,24,18
+wolf baby/mouthTopUnhappy
+bounds:133,1,23,18
+wolf baby/nose
+bounds:1,459,16,10
+wolf baby/pawRightBackSit
+bounds:123,40,33,28
+wolf baby/pawRightFrontBehindSide
+bounds:142,21,16,14
+wolf baby/pawRightFrontDown
+bounds:61,57,34,32
+wolf baby/pawRightFrontSide
+bounds:1,4,24,17
+wolf baby/pawRightFrontStraight
+bounds:1,470,33,16
+wolf baby/pawRightFrontUp
+bounds:29,40,33,30
+wolf baby/tail
+bounds:139,246,19,62
+wolf baby/tongue
+bounds:1,492,10,14
+
+smolsie baby_27.png
+size:160,484
+filter:Linear,Linear
+scale:0.16
+yellow parrot baby/IrisRight
+bounds:99,121,44,44
+yellow parrot baby/PupilRight
+bounds:31,49,34,33
+yellow parrot baby/birdCrest
+bounds:133,339,25,41
+yellow parrot baby/bodyBack
+bounds:1,223,154,129
+yellow parrot baby/bodyFront
+bounds:1,353,154,129
+yellow parrot baby/browRight
+bounds:51,5,18,13
+yellow parrot baby/clawRightDown
+bounds:1,349,32,21
+offsets:0,0,32,23
+yellow parrot baby/clawRightSide
+bounds:1,17,34,12
+yellow parrot baby/clawRightStraight
+bounds:1,2,30,13
+yellow parrot baby/clawRightUp
+bounds:61,29,36,32
+yellow parrot baby/eyeRightShadow
+bounds:96,1,55,48
+yellow parrot baby/lidRightClosed
+bounds:1,178,60,53
+yellow parrot baby/lidRightClosedHappy
+bounds:89,172,60,53
+yellow parrot baby/lidRightLowerHappy
+bounds:1,31,49,20
+yellow parrot baby/lidRightSquint
+bounds:42,138,58,53
+yellow parrot baby/lidRightUpperAngry
+bounds:86,49,56,34
+offsets:2,0,58,34
+yellow parrot baby/lidRightUpperSad
+bounds:94,69,56,29
+yellow parrot baby/mouthBottomA
+bounds:33,3,16,17
+yellow parrot baby/mouthBottomE
+bounds:141,116,16,15
+yellow parrot baby/mouthBottomLN
+bounds:71,10,15,17
+yellow parrot baby/mouthBottomNeutralMPB
+bounds:140,169,15,12
+yellow parrot baby/mouthBottomOUQ
+bounds:145,44,12,17
+yellow parrot baby/mouthBottomTSFV
+bounds:144,152,14,15
+yellow parrot baby/mouthBottomWR
+bounds:86,2,12,13
+yellow parrot baby/mouthTopHappy
+bounds:135,216,20,13
+yellow parrot baby/mouthTopNeutral
+bounds:140,62,17,16
+yellow parrot baby/mouthTopOh
+bounds:1,467,16,15
+yellow parrot baby/mouthTopUnhappy
+bounds:141,99,17,15
+yellow parrot baby/tail
+bounds:1,121,30,55
+yellow parrot baby/tongue
+bounds:1,376,9,12
+yellow parrot baby/wingRightBack
+bounds:32,106,48,31
+yellow parrot baby/wingRightFront
+bounds:82,91,48,31
+yellow parrot baby/wingRightSide
+bounds:1,75,39,32
+yellow parrot baby/wingRightSideUp
+bounds:46,73,39,32

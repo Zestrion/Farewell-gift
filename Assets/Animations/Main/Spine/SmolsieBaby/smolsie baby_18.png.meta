@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: d594902f91d48614bb3e9c37218f7b98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -395286605816074125
+    second: squirrel baby/IrisRight
+  - first:
+      213: -1208771677251323009
+    second: squirrel baby/PupilRight
+  - first:
+      213: 1261575078730712155
+    second: squirrel baby/baby hair
+  - first:
+      213: -4500594074047071987
+    second: squirrel baby/bodyBack
+  - first:
+      213: 6897815641488755617
+    second: squirrel baby/bodyFront
+  - first:
+      213: 631707965702022529
+    second: squirrel baby/browRight
+  - first:
+      213: 2789707996106856518
+    second: squirrel baby/earRightBack
+  - first:
+      213: -5694738042452542724
+    second: squirrel baby/earRightFront
+  - first:
+      213: 5763749025559494285
+    second: squirrel baby/eyeRightShadow
+  - first:
+      213: 2608427493705981135
+    second: squirrel baby/furSideLeft
+  - first:
+      213: 400504216159686408
+    second: squirrel baby/furSideRight
+  - first:
+      213: 4517692136445800226
+    second: squirrel baby/legRightFront
+  - first:
+      213: 2075499590743236868
+    second: squirrel baby/lidRightClosed
+  - first:
+      213: -5933643199212592026
+    second: squirrel baby/lidRightClosedHappy
+  - first:
+      213: -6638515152259120980
+    second: squirrel baby/lidRightLowerHappy
+  - first:
+      213: 3383574040399244262
+    second: squirrel baby/lidRightSquint
+  - first:
+      213: 3757908012599957115
+    second: squirrel baby/lidRightUpperAngry
+  - first:
+      213: -4964435867655226388
+    second: squirrel baby/lidRightUpperSad
+  - first:
+      213: -2193168045147462007
+    second: squirrel baby/mouthBottomA
+  - first:
+      213: -6604358097505950201
+    second: squirrel baby/mouthBottomE
+  - first:
+      213: -1626386717774964598
+    second: squirrel baby/mouthBottomLN
+  - first:
+      213: -6189643975901263819
+    second: squirrel baby/mouthBottomNeutralMPB
+  - first:
+      213: -8089061286836622429
+    second: squirrel baby/mouthBottomOUQ
+  - first:
+      213: 4052445009678108723
+    second: squirrel baby/mouthBottomTSFV
+  - first:
+      213: 4526595555538947860
+    second: squirrel baby/mouthBottomWR
+  - first:
+      213: 2845373166590130437
+    second: squirrel baby/mouthTopHappy
+  - first:
+      213: 7924938797968356810
+    second: squirrel baby/mouthTopNeutral
+  - first:
+      213: 379491944908537076
+    second: squirrel baby/mouthTopOh
+  - first:
+      213: 4834436211824362879
+    second: squirrel baby/mouthTopUnhappy
+  - first:
+      213: -4871867508835310711
+    second: squirrel baby/nose
+  - first:
+      213: 6908649223668723343
+    second: squirrel baby/pawRightBackSit
+  - first:
+      213: 2210693918098611661
+    second: squirrel baby/pawRightFrontBehindSide
+  - first:
+      213: 9216142980483095949
+    second: squirrel baby/pawRightFrontDown
+  - first:
+      213: -1066826102166057012
+    second: squirrel baby/pawRightFrontSide
+  - first:
+      213: -6000347169665484857
+    second: squirrel baby/pawRightFrontStraight
+  - first:
+      213: -8725389799943387597
+    second: squirrel baby/pawRightFrontUp
+  - first:
+      213: 3217928021797869852
+    second: squirrel baby/tail
+  - first:
+      213: 1247956785389668828
+    second: squirrel baby/tongue
+  - first:
+      213: -2759641230242130740
+    second: squirrel baby/tooth
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squirrel baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 88
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370fcd32de8a38af0800000000000000
+      internalID: -395286605816074125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 36
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bb1ea5094993fe0800000000000000
+      internalID: -1208771677251323009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/baby hair
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54ca3999d3028110800000000000000
+      internalID: 1261575078730712155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09323ae88daa81c0800000000000000
+      internalID: -4500594074047071987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab021d97c6f9bf50800000000000000
+      internalID: 6897815641488755617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 114
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18524714c0744c800800000000000000
+      internalID: 631707965702022529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 67
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648140754a807b620800000000000000
+      internalID: 2789707996106856518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 67
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa76b22ce938f0b0800000000000000
+      internalID: -5694738042452542724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e3afa7333fcff40800000000000000
+      internalID: 5763749025559494285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/furSideLeft
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 65
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc15b84cfef23420800000000000000
+      internalID: 2608427493705981135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/furSideRight
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f8e3f6670ee8500800000000000000
+      internalID: 400504216159686408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 70
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f6d65ff0112be30800000000000000
+      internalID: 4517692136445800226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 70
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40128bd91e7adcc10800000000000000
+      internalID: 2075499590743236868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6646507b2f677ada0800000000000000
+      internalID: -5933643199212592026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 106
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca00c8134a14fd3a0800000000000000
+      internalID: -6638515152259120980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 36
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebea3da9aed4fe20800000000000000
+      internalID: 3383574040399244262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 97
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b765d9d5d65c62430800000000000000
+      internalID: 3757908012599957115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 102
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebb33e81e7ca1bb0800000000000000
+      internalID: -4964435867655226388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9866f38684d4091e0800000000000000
+      internalID: -2193168045147462007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 99
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706eeac3d4b9854a0800000000000000
+      internalID: -6604358097505950201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 113
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a881c9ba5e9ed69e0800000000000000
+      internalID: -1626386717774964598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538c44a1997f91aa0800000000000000
+      internalID: -6189643975901263819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 82
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab2db70e91edbf80800000000000000
+      internalID: -8089061286836622429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3380ba9f34d2d3830800000000000000
+      internalID: 4052445009678108723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fc2c1cca2b1de30800000000000000
+      internalID: 4526595555538947860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 120
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5097800d1dbcc7720800000000000000
+      internalID: 2845373166590130437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 115
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac57d9f39d90bfd60800000000000000
+      internalID: 7924938797968356810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 30
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc356bc9e9344500800000000000000
+      internalID: 379491944908537076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 68
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f758317ee1e571340800000000000000
+      internalID: 4834436211824362879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/nose
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 123
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983aa1f1056a36cb0800000000000000
+      internalID: -4871867508835310711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 92
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e6d868dd370ef50800000000000000
+      internalID: 6908649223668723343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 122
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd526fd766fdae10800000000000000
+      internalID: 2210693918098611661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 107
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d97e6263156ef70800000000000000
+      internalID: 9216142980483095949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 119
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf0747ff4fd131f0800000000000000
+      internalID: -1066826102166057012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 120
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c771175a0c7abca0800000000000000
+      internalID: -6000347169665484857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 45
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336ce8fb43039e680800000000000000
+      internalID: -8725389799943387597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/tail
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 12
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19990c8c7068ac20800000000000000
+      internalID: 3217928021797869852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 117
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd980389512a15110800000000000000
+      internalID: 1247956785389668828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirrel baby/tooth
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc455eb1ce8c3b9d0800000000000000
+      internalID: -2759641230242130740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

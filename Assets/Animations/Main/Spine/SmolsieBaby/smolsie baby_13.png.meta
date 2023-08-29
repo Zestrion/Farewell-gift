@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: e0b6b8187f312f54d93b4bad8f8b3796
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8665374174180967547
+    second: owl baby/IrisRight
+  - first:
+      213: 3062938861700266310
+    second: owl baby/PupilRight
+  - first:
+      213: -3681467880625351381
+    second: owl baby/bodyBack
+  - first:
+      213: 2515944013319009738
+    second: owl baby/bodyFront
+  - first:
+      213: -4446506765280848444
+    second: owl baby/browRight
+  - first:
+      213: 4383038521156740526
+    second: owl baby/clawRightBehindSide
+  - first:
+      213: 7461961783902894870
+    second: owl baby/clawRightDown
+  - first:
+      213: 1286109967214897386
+    second: owl baby/clawRightSide
+  - first:
+      213: 7780239592905867372
+    second: owl baby/clawRightStraight
+  - first:
+      213: 6701114637773035525
+    second: owl baby/clawRightUp
+  - first:
+      213: -4772142780434859696
+    second: owl baby/earRightFront
+  - first:
+      213: -7652285949214284939
+    second: owl baby/eyeRightShadow
+  - first:
+      213: -4585987863752858265
+    second: owl baby/lidRightClosed
+  - first:
+      213: 4504002661123433470
+    second: owl baby/lidRightClosedHappy
+  - first:
+      213: -2336271512215802495
+    second: owl baby/lidRightLowerHappy
+  - first:
+      213: 7515242985204350093
+    second: owl baby/lidRightSquint
+  - first:
+      213: 1863529620090579466
+    second: owl baby/lidRightUpperAngry
+  - first:
+      213: -302648212702244006
+    second: owl baby/lidRightUpperSad
+  - first:
+      213: 1807214139246034427
+    second: owl baby/mouthBottomA
+  - first:
+      213: 7462439395190942601
+    second: owl baby/mouthBottomE
+  - first:
+      213: 7683710606996195152
+    second: owl baby/mouthBottomLN
+  - first:
+      213: -1677477322783485995
+    second: owl baby/mouthBottomNeutralMPB
+  - first:
+      213: -6080893717433734813
+    second: owl baby/mouthBottomOUQ
+  - first:
+      213: -2010258223527581115
+    second: owl baby/mouthBottomTSFV
+  - first:
+      213: 5791968979670206722
+    second: owl baby/mouthBottomWR
+  - first:
+      213: 9145630322555623632
+    second: owl baby/mouthTopHappy
+  - first:
+      213: 4638497473567142790
+    second: owl baby/mouthTopNeutral
+  - first:
+      213: 319339257645078746
+    second: owl baby/mouthTopOh
+  - first:
+      213: -6641804254635460870
+    second: owl baby/mouthTopUnhappy
+  - first:
+      213: 3480099351723794432
+    second: owl baby/tail
+  - first:
+      213: 37601626661988093
+    second: owl baby/tongue
+  - first:
+      213: 2231104103877310240
+    second: owl baby/wingRightBack
+  - first:
+      213: 2479589441345393239
+    second: owl baby/wingRightFront
+  - first:
+      213: -9155710560407851822
+    second: owl baby/wingRightSide
+  - first:
+      213: -2619298415283822058
+    second: owl baby/wingRightSideUp
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: owl baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 4
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7486e976e7914870800000000000000
+      internalID: 8665374174180967547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 45
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6493264aaaeb18a20800000000000000
+      internalID: 3062938861700266310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25d053c77cc8ecc0800000000000000
+      internalID: -3681467880625351381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac576a400cd6ae220800000000000000
+      internalID: 2515944013319009738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 122
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c55014d7a5da42c0800000000000000
+      internalID: -4446506765280848444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/clawRightBehindSide
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 117
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5a66a005ea3dc30800000000000000
+      internalID: 4383038521156740526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/clawRightDown
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 10
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b721115b63e8760800000000000000
+      internalID: 7461961783902894870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/clawRightSide
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 120
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8eee9733e29d110800000000000000
+      internalID: 1286109967214897386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/clawRightStraight
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 121
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60859230b6f8fb60800000000000000
+      internalID: 7780239592905867372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/clawRightUp
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 4
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508d1af42442ffc50800000000000000
+      internalID: 6701114637773035525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 82
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0593cb2dc61f5cdb0800000000000000
+      internalID: -4772142780434859696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 28
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573ae55097e9dc590800000000000000
+      internalID: -7652285949214284939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 73
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76522c4e55c4b50c0800000000000000
+      internalID: -4585987863752858265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef32dab9e8e618e30800000000000000
+      internalID: 4504002661123433470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 103
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d238f0075e39fd0800000000000000
+      internalID: -2336271512215802495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 41
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cf9d57da18b4860800000000000000
+      internalID: 7515242985204350093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 94
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aeae9e0569cd910800000000000000
+      internalID: 1863529620090579466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 36
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53d9f5dd07cccbf0800000000000000
+      internalID: -302648212702244006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 81
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdb2d24fa3841910800000000000000
+      internalID: 1807214139246034427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 102
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bac3c9719ef8760800000000000000
+      internalID: 7462439395190942601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057c8e6461602aa60800000000000000
+      internalID: 7683710606996195152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 119
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df87b8334768b8e0800000000000000
+      internalID: -1677477322783485995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 61
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3692577c1635c9ba0800000000000000
+      internalID: -6080893717433734813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 113
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aa4d7ebc02a14e0800000000000000
+      internalID: -2010258223527581115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 16
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209035f8915316050800000000000000
+      internalID: 5791968979670206722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 121
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d818fe925ecbee70800000000000000
+      internalID: 9145630322555623632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 118
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683348b50e04f5040800000000000000
+      internalID: 4638497473567142790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad895c6ec558e6400800000000000000
+      internalID: 319339257645078746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 104
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af676ce583293d3a0800000000000000
+      internalID: -6641804254635460870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/tail
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 79
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000609a0cebcb4030800000000000000
+      internalID: 3480099351723794432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 121
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df62a20fa76958000800000000000000
+      internalID: 37601626661988093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/wingRightBack
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 94
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027f5809c5976fe10800000000000000
+      internalID: 2231104103877310240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/wingRightFront
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7529330a575496220800000000000000
+      internalID: 2479589441345393239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/wingRightSide
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 66
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dce89c11c160f080800000000000000
+      internalID: -9155710560407851822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: owl baby/wingRightSideUp
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 4
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612a34c08f166abd0800000000000000
+      internalID: -2619298415283822058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

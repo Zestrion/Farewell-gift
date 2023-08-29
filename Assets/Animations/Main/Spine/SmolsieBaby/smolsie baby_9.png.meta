@@ -1,0 +1,1188 @@
+fileFormatVersion: 2
+guid: 6791edcc582dfb74fa7769965720a1f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2958264248503012407
+    second: guinea pig baby/IrisRight
+  - first:
+      213: 3822765630572589005
+    second: guinea pig baby/PupilRight
+  - first:
+      213: 5896593902860079334
+    second: guinea pig baby/baby hair
+  - first:
+      213: -6371761317173496011
+    second: guinea pig baby/bodyBack
+  - first:
+      213: -941194351519677654
+    second: guinea pig baby/bodyFront
+  - first:
+      213: -1441883989982560599
+    second: guinea pig baby/browRight
+  - first:
+      213: 6857680412326471867
+    second: guinea pig baby/earRightBack
+  - first:
+      213: -5982773400632835114
+    second: guinea pig baby/earRightFront
+  - first:
+      213: -9128787637265137893
+    second: guinea pig baby/eyeLeftShadow
+  - first:
+      213: 7387750556095957757
+    second: guinea pig baby/eyeRightShadow
+  - first:
+      213: 3273430720874966094
+    second: guinea pig baby/legLeftFront
+  - first:
+      213: -2777225942015708193
+    second: guinea pig baby/legRightFront
+  - first:
+      213: 3410875036034054378
+    second: guinea pig baby/lidLeftClosed
+  - first:
+      213: -7170812508030823066
+    second: guinea pig baby/lidLeftClosedHappy
+  - first:
+      213: -895410760236416816
+    second: guinea pig baby/lidLeftLowerHappy
+  - first:
+      213: 3334098704190530431
+    second: guinea pig baby/lidLeftSquint
+  - first:
+      213: -7117694522584548338
+    second: guinea pig baby/lidLeftUpperAngry
+  - first:
+      213: 3407903931326283806
+    second: guinea pig baby/lidLeftUpperSad
+  - first:
+      213: -5788621577124706358
+    second: guinea pig baby/lidRightClosed
+  - first:
+      213: 3237437431413605265
+    second: guinea pig baby/lidRightClosedHappy
+  - first:
+      213: 1695964801691453252
+    second: guinea pig baby/lidRightLowerHappy
+  - first:
+      213: 3563876467737915165
+    second: guinea pig baby/lidRightSquint
+  - first:
+      213: 8566644219467287980
+    second: guinea pig baby/lidRightUpperAngry
+  - first:
+      213: -5682607667521889901
+    second: guinea pig baby/lidRightUpperSad
+  - first:
+      213: -2020377281772532286
+    second: guinea pig baby/mouthBottomA
+  - first:
+      213: 7567421504542375075
+    second: guinea pig baby/mouthBottomE
+  - first:
+      213: -7775426858150812234
+    second: guinea pig baby/mouthBottomLN
+  - first:
+      213: 6234556673318517284
+    second: guinea pig baby/mouthBottomNeutralMPB
+  - first:
+      213: -3598213699259790539
+    second: guinea pig baby/mouthBottomOUQ
+  - first:
+      213: 8933442962575830026
+    second: guinea pig baby/mouthBottomTSFV
+  - first:
+      213: 2571978021154000422
+    second: guinea pig baby/mouthBottomWR
+  - first:
+      213: -6555159943206052842
+    second: guinea pig baby/mouthTopHappy
+  - first:
+      213: 2709625010884588880
+    second: guinea pig baby/mouthTopNeutral
+  - first:
+      213: 1626221020747045683
+    second: guinea pig baby/mouthTopOh
+  - first:
+      213: 4491812680647634099
+    second: guinea pig baby/mouthTopUnhappy
+  - first:
+      213: -4964071645464540450
+    second: guinea pig baby/nose
+  - first:
+      213: 4580325594154048650
+    second: guinea pig baby/pawRightBackSit
+  - first:
+      213: -5419039917270324737
+    second: guinea pig baby/pawRightFrontBehindSide
+  - first:
+      213: -116322178302344245
+    second: guinea pig baby/pawRightFrontDown
+  - first:
+      213: -2084192355693866369
+    second: guinea pig baby/pawRightFrontSide
+  - first:
+      213: 8707636974401596265
+    second: guinea pig baby/pawRightFrontStraight
+  - first:
+      213: 4615886164536191049
+    second: guinea pig baby/pawRightFrontUp
+  - first:
+      213: 842759654619444676
+    second: guinea pig baby/tongue
+  - first:
+      213: -5496124855250068028
+    second: guinea pig baby/tooth
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guinea pig baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 46
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c82c319addd0920800000000000000
+      internalID: 2958264248503012407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 90
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfe9dd46113d0530800000000000000
+      internalID: 3822765630572589005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/baby hair
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 4
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e095b4c9e8e4d150800000000000000
+      internalID: 5896593902860079334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5377c4057d4f297a0800000000000000
+      internalID: -6371761317173496011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23c01559b430f2f0800000000000000
+      internalID: -941194351519677654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 134
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae34c986266dfbe0800000000000000
+      internalID: -1441883989982560599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 87
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8afdf50006b2f50800000000000000
+      internalID: 6857680412326471867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3cf9b4a4be8fca0800000000000000
+      internalID: -5982773400632835114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/eyeLeftShadow
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 89
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f75d2a208005180800000000000000
+      internalID: -9128787637265137893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 32
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa4b412dff868660800000000000000
+      internalID: 7387750556095957757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/legLeftFront
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 104
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c6a92b5ef8d6d20800000000000000
+      internalID: 3273430720874966094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 67
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3772958bf4579d0800000000000000
+      internalID: -2777225942015708193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidLeftClosed
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8be0016ccd55f20800000000000000
+      internalID: 3410875036034054378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidLeftClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 43
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66515eb34082c7c90800000000000000
+      internalID: -7170812508030823066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidLeftLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 122
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0cb0c58acd293f0800000000000000
+      internalID: -895410760236416816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidLeftSquint
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 36
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73ed5d4b19154e20800000000000000
+      internalID: 3334098704190530431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidLeftUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cba99fa8ed83d90800000000000000
+      internalID: -7117694522584548338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidLeftUpperSad
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 104
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e104c57d19e4b4f20800000000000000
+      internalID: 3407903931326283806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 74
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac70254585faaafa0800000000000000
+      internalID: -5788621577124706358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 4
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19306f1f030bdec20800000000000000
+      internalID: 3237437431413605265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 126
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44782646007498710800000000000000
+      internalID: 1695964801691453252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 75
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f64e2e3ce657130800000000000000
+      internalID: 3563876467737915165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 110
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad40829785d2e670800000000000000
+      internalID: 8566644219467287980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 111
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39952732f625321b0800000000000000
+      internalID: -5682607667521889901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdcdaf019d26f3e0800000000000000
+      internalID: -2020377281772532286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 74
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac76e3b3c1e40960800000000000000
+      internalID: 7567421504542375075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 131
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5a3eee772281490800000000000000
+      internalID: -7775426858150812234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42af0352348958650800000000000000
+      internalID: 6234556673318517284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 18
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b0da564b3901ec0800000000000000
+      internalID: -3598213699259790539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 136
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cab850b07f9fb70800000000000000
+      internalID: 8933442962575830026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e0ff0226081b320800000000000000
+      internalID: 2571978021154000422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 129
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c555b23c46705a0800000000000000
+      internalID: -6555159943206052842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 126
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0553a4857958a9520800000000000000
+      internalID: 2709625010884588880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 126
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b96ebf66f719610800000000000000
+      internalID: 1626221020747045683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bce89b95df165e30800000000000000
+      internalID: 4491812680647634099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/nose
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda4f74a3231c1bb0800000000000000
+      internalID: -4964071645464540450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 120
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c9e2b3cd5909f30800000000000000
+      internalID: 4580325594154048650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 8
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9a07318e3bbc4b0800000000000000
+      internalID: -5419039917270324737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 125
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc30aca589db26ef0800000000000000
+      internalID: -116322178302344245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 135
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72584358167313e0800000000000000
+      internalID: -2084192355693866369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 135
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ba34471bdb7d870800000000000000
+      internalID: 8707636974401596265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 125
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948e1d8b20cee0040800000000000000
+      internalID: 4615886164536191049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 131
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c57f94d07512bb00800000000000000
+      internalID: 842759654619444676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guinea pig baby/tooth
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 134
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cddf995097d9b3b0800000000000000
+      internalID: -5496124855250068028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

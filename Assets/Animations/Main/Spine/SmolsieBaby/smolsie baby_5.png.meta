@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 846edf45a5a78ec42a23f34d294a47f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2398256086334070218
+    second: cow baby/IrisRight
+  - first:
+      213: -6903125374192287330
+    second: cow baby/PupilRight
+  - first:
+      213: 5768757623273797153
+    second: cow baby/baby hair
+  - first:
+      213: 1755078880463066073
+    second: cow baby/bodyBack
+  - first:
+      213: -7908739049183960534
+    second: cow baby/bodyFront
+  - first:
+      213: -9142165979214184787
+    second: cow baby/browRight
+  - first:
+      213: 2735734258372827313
+    second: cow baby/earRightBack
+  - first:
+      213: -5928627000670668431
+    second: cow baby/earRightFront
+  - first:
+      213: -4111107439370980908
+    second: cow baby/eyeRightShadow
+  - first:
+      213: 3634090297654562349
+    second: cow baby/hair back
+  - first:
+      213: -1574560435233075654
+    second: cow baby/horn right
+  - first:
+      213: 4068158913503458421
+    second: cow baby/legRightFront
+  - first:
+      213: -5873876739889543857
+    second: cow baby/lidRightClosed
+  - first:
+      213: 9095731571965426950
+    second: cow baby/lidRightClosedHappy
+  - first:
+      213: 4121028859005735085
+    second: cow baby/lidRightLowerHappy
+  - first:
+      213: -775365866979611713
+    second: cow baby/lidRightSquint
+  - first:
+      213: 2533242003132631263
+    second: cow baby/lidRightUpperAngry
+  - first:
+      213: -2307161793455486444
+    second: cow baby/lidRightUpperSad
+  - first:
+      213: -7563976506461322019
+    second: cow baby/mouthBottomA
+  - first:
+      213: 6633767491135166306
+    second: cow baby/mouthBottomE
+  - first:
+      213: -6665627586108783105
+    second: cow baby/mouthBottomLN
+  - first:
+      213: -1041847791597498271
+    second: cow baby/mouthBottomNeutralMPB
+  - first:
+      213: -4513408824569954499
+    second: cow baby/mouthBottomOUQ
+  - first:
+      213: -827781799741850817
+    second: cow baby/mouthBottomTSFV
+  - first:
+      213: -6609317004380207661
+    second: cow baby/mouthBottomWR
+  - first:
+      213: 6604643908029397185
+    second: cow baby/mouthTopHappy
+  - first:
+      213: -8104794239739999297
+    second: cow baby/mouthTopNeutral
+  - first:
+      213: 2980996931802736797
+    second: cow baby/mouthTopOh
+  - first:
+      213: -54199849289173743
+    second: cow baby/mouthTopUnhappy
+  - first:
+      213: 545302953320433121
+    second: cow baby/nose
+  - first:
+      213: -5549509541252119954
+    second: cow baby/pawRightBackSit
+  - first:
+      213: 1276419733712788062
+    second: cow baby/pawRightFrontBehindSide
+  - first:
+      213: 8333577117586945610
+    second: cow baby/pawRightFrontDown
+  - first:
+      213: -8308788018447926519
+    second: cow baby/pawRightFrontSide
+  - first:
+      213: -784251852979846136
+    second: cow baby/pawRightFrontStraight
+  - first:
+      213: 2081499182800106191
+    second: cow baby/pawRightFrontUp
+  - first:
+      213: -5619854108300687199
+    second: cow baby/tail
+  - first:
+      213: 230309707368375890
+    second: cow baby/tongue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cow baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 37
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd5c5a3431584120800000000000000
+      internalID: 2398256086334070218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e918847eb0c2330a0800000000000000
+      internalID: -6903125374192287330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/baby hair
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 40
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126bf828e7ebe0050800000000000000
+      internalID: 5768757623273797153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d39ac661fa4b5810800000000000000
+      internalID: 1755078880463066073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a222120bcb38e3290800000000000000
+      internalID: -7908739049183960534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 134
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef64baa70802180800000000000000
+      internalID: -9142165979214184787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 87
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8dd2e30d747f520800000000000000
+      internalID: 2735734258372827313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 5
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1793c33772949bda0800000000000000
+      internalID: -5928627000670668431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 68
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1b3d2c09962f6c0800000000000000
+      internalID: -4111107439370980908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/hair back
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 124
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ec4691fd1ee6230800000000000000
+      internalID: 3634090297654562349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/horn right
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 36
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e4c8460a9062ae0800000000000000
+      internalID: -1574560435233075654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 4
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57476315af0057830800000000000000
+      internalID: 4068158913503458421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 73
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f454478e93ccb7ea0800000000000000
+      internalID: -5873876739889543857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dfd476ca78a3e70800000000000000
+      internalID: 9095731571965426950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 122
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da09b22c9e5d03930800000000000000
+      internalID: 4121028859005735085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 41
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbba7bf1ad85d35f0800000000000000
+      internalID: -775365866979611713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 109
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8c1de1e22e72320800000000000000
+      internalID: 2533242003132631263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 104
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a8bbd92905bffd0800000000000000
+      internalID: -2307161793455486444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 123
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd409fa617b570790800000000000000
+      internalID: -7563976506461322019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 125
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26755afc260ef0c50800000000000000
+      internalID: 6633767491135166306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 127
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff501f4c60fee73a0800000000000000
+      internalID: -6665627586108783105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1605ec714fc9a81f0800000000000000
+      internalID: -1041847791597498271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 68
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ff46d46962d51c0800000000000000
+      internalID: -4513408824569954499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 133
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b7ad2c6d02384f0800000000000000
+      internalID: -827781799741850817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 89
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d508f1c33df644a0800000000000000
+      internalID: -6609317004380207661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 52
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c83a0634a868ab50800000000000000
+      internalID: 6604643908029397185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 127
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb4aaa749cf58f80800000000000000
+      internalID: -8104794239739999297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 127
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98a1ac5ae0ae5920800000000000000
+      internalID: 2980996931802736797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1153d3436817f3ff0800000000000000
+      internalID: -54199849289173743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/nose
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 140
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5c2ab952e419700800000000000000
+      internalID: 545302953320433121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 107
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c60c897e2cf2b0800000000000000
+      internalID: -5549509541252119954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 132
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5adf3c2cf0c6b110800000000000000
+      internalID: 1276419733712788062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 8
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46f71a3c30d6a370800000000000000
+      internalID: 8333577117586945610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 126
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bb36ea15141bc80800000000000000
+      internalID: -8308788018447926519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 26
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804c1b84817cd15f0800000000000000
+      internalID: -784251852979846136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 114
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f01f7a78f2ec10800000000000000
+      internalID: 2081499182800106191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/tail
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 100
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8c739b6744202b0800000000000000
+      internalID: -5619854108300687199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cow baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 94
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25624086579323300800000000000000
+      internalID: 230309707368375890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

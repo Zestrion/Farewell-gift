@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 7e4171030d3a8cc448b9cf83cada26aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4675054562610604817
+    second: dog baby/IrisRight
+  - first:
+      213: 5391194968562777548
+    second: dog baby/PupilRight
+  - first:
+      213: -740913114166114252
+    second: dog baby/bodyBack
+  - first:
+      213: -7774097212627772589
+    second: dog baby/bodyFront
+  - first:
+      213: 3032364325093471691
+    second: dog baby/browRight
+  - first:
+      213: 6505788818860917577
+    second: dog baby/earRightBack
+  - first:
+      213: -4166653452671999637
+    second: dog baby/earRightFront
+  - first:
+      213: 7727127768879677658
+    second: dog baby/eyeRightShadow
+  - first:
+      213: -5293445067252159039
+    second: dog baby/legRightFront
+  - first:
+      213: -4679288510823782491
+    second: dog baby/lidRightClosed
+  - first:
+      213: 7804999492869683024
+    second: dog baby/lidRightClosedHappy
+  - first:
+      213: -4267721743480218428
+    second: dog baby/lidRightLowerHappy
+  - first:
+      213: 7280775831714975233
+    second: dog baby/lidRightSquint
+  - first:
+      213: 6719821386302192637
+    second: dog baby/lidRightUpperAngry
+  - first:
+      213: 6118362478688393443
+    second: dog baby/lidRightUpperSad
+  - first:
+      213: -9029141459891249550
+    second: dog baby/mouthBottomA
+  - first:
+      213: -8850745963080249835
+    second: dog baby/mouthBottomE
+  - first:
+      213: 535885465585547917
+    second: dog baby/mouthBottomLN
+  - first:
+      213: 3491616978492236553
+    second: dog baby/mouthBottomNeutralMPB
+  - first:
+      213: 5960702732084002760
+    second: dog baby/mouthBottomOUQ
+  - first:
+      213: -2048701237199404794
+    second: dog baby/mouthBottomTSFV
+  - first:
+      213: -4013408244767711454
+    second: dog baby/mouthBottomWR
+  - first:
+      213: -4366420575979245718
+    second: dog baby/mouthTopHappy
+  - first:
+      213: 7527528177664937696
+    second: dog baby/mouthTopNeutral
+  - first:
+      213: -8304408743990383357
+    second: dog baby/mouthTopOh
+  - first:
+      213: 8609375852767758825
+    second: dog baby/mouthTopUnhappy
+  - first:
+      213: 5215462103129810892
+    second: dog baby/nose
+  - first:
+      213: 4174677714715746356
+    second: dog baby/pawRightBackSit
+  - first:
+      213: -1091675183801990596
+    second: dog baby/pawRightFrontBehindSide
+  - first:
+      213: -8682407377590591928
+    second: dog baby/pawRightFrontDown
+  - first:
+      213: 4161030756726632085
+    second: dog baby/pawRightFrontSide
+  - first:
+      213: -983019767983684285
+    second: dog baby/pawRightFrontStraight
+  - first:
+      213: 3873353460946293548
+    second: dog baby/pawRightFrontUp
+  - first:
+      213: -923520156500135018
+    second: dog baby/tail
+  - first:
+      213: -1965895591853884660
+    second: dog baby/tongue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dog baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 383
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4960215aede1fb0800000000000000
+      internalID: -4675054562610604817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 420
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdbe08924f51da40800000000000000
+      internalID: 5391194968562777548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 145
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43843bcb27fb7b5f0800000000000000
+      internalID: -740913114166114252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b97f726cbdc1490800000000000000
+      internalID: -7774097212627772589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 292
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc573ca994f151a20800000000000000
+      internalID: 3032364325093471691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943c9eb2674394a50800000000000000
+      internalID: 6505788818860917577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 248
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61a45bb2c21d26c0800000000000000
+      internalID: -4166653452671999637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 461
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0412604c54c3b60800000000000000
+      internalID: 7727127768879677658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 389
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd2468d1c7e986b0800000000000000
+      internalID: -5293445067252159039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 332
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a728ce24e3df0fb0800000000000000
+      internalID: -4679288510823782491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 338
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057f994afade05c60800000000000000
+      internalID: 7804999492869683024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 237
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc96a78fa106c4c0800000000000000
+      internalID: -4267721743480218428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 369
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ece923b038a0560800000000000000
+      internalID: 7280775831714975233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 437
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb7d9c92f9914d50800000000000000
+      internalID: 6719821386302192637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 414
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8dc45024ac8e450800000000000000
+      internalID: 6118362478688393443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 486
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e1e604eab02b280800000000000000
+      internalID: -9029141459891249550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 485
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e01699075db2580800000000000000
+      internalID: -8850745963080249835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 491
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a7580edf8df6700800000000000000
+      internalID: 535885465585547917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 478
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903a0ce7427b47030800000000000000
+      internalID: 3491616978492236553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 488
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf319dbd8ba8b250800000000000000
+      internalID: 5960702732084002760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 280
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60183d9441d8193e0800000000000000
+      internalID: -2048701237199404794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f1fff17728d48c0800000000000000
+      internalID: -4013408244767711454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 374
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fecc4de9b5763c0800000000000000
+      internalID: -4366420575979245718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 493
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee467abef6277860800000000000000
+      internalID: 7527528177664937696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 453
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d2ec8fe30d0cc80800000000000000
+      internalID: -8304408743990383357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 258
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e94c0249b5aa7770800000000000000
+      internalID: 8609375852767758825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/nose
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7609c662b016840800000000000000
+      internalID: 5215462103129810892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 425
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4302f5d534f6fe930800000000000000
+      internalID: 4174677714715746356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 359
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c328f5b443799d0f0800000000000000
+      internalID: -1091675183801990596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 443
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e5b7fcd74e18780800000000000000
+      internalID: -8682407377590591928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 468
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e6a2a5d63feb930800000000000000
+      internalID: 4161030756726632085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3454522babc9b52f0800000000000000
+      internalID: -983019767983684285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 306
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23db39637ae0c530800000000000000
+      internalID: 3873353460946293548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/tail
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 431
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69375e88f4ffe23f0800000000000000
+      internalID: -923520156500135018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bfa0eff5cb7b4e0800000000000000
+      internalID: -1965895591853884660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

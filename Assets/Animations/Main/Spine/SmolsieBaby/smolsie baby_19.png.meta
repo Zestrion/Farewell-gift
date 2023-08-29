@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: 6ed402eb1668101418c9b56947d1567f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6206778674812670919
+    second: unicat baby/IrisRight
+  - first:
+      213: 1954169371043761954
+    second: unicat baby/baby hair
+  - first:
+      213: -1063756562152534570
+    second: unicat baby/back wing right back
+  - first:
+      213: -4732047537734284788
+    second: unicat baby/back wing right down
+  - first:
+      213: -6883745947988747940
+    second: unicat baby/back wing right front
+  - first:
+      213: -2456568800560646844
+    second: unicat baby/back wing right up
+  - first:
+      213: 7295426503385277849
+    second: unicat baby/bodyBack
+  - first:
+      213: -2217430584776611796
+    second: unicat baby/bodyFront
+  - first:
+      213: -3454536884815831026
+    second: unicat baby/browRight
+  - first:
+      213: 4174118786160982524
+    second: unicat baby/earRightBack
+  - first:
+      213: -1092955959762306387
+    second: unicat baby/earRightFront
+  - first:
+      213: 3430068798166565209
+    second: unicat baby/eyeRightShadow
+  - first:
+      213: -5854733232170000858
+    second: unicat baby/legRightFront
+  - first:
+      213: 3574905366900612243
+    second: unicat baby/lidRightClosed
+  - first:
+      213: 2935161823485671291
+    second: unicat baby/lidRightClosedHappy
+  - first:
+      213: -8803675220880884356
+    second: unicat baby/lidRightLowerHappy
+  - first:
+      213: 7121032077913491182
+    second: unicat baby/lidRightSquint
+  - first:
+      213: 8328680783137375801
+    second: unicat baby/lidRightUpperAngry
+  - first:
+      213: -3578488198949838829
+    second: unicat baby/lidRightUpperSad
+  - first:
+      213: 2579653852213617370
+    second: unicat baby/mouthBottomA
+  - first:
+      213: 3148429646315794574
+    second: unicat baby/mouthBottomE
+  - first:
+      213: 5021105920995211752
+    second: unicat baby/mouthBottomLN
+  - first:
+      213: 5289335535145122666
+    second: unicat baby/mouthBottomNeutralMPB
+  - first:
+      213: 6426227373995518498
+    second: unicat baby/mouthBottomOUQ
+  - first:
+      213: -7786209882905658698
+    second: unicat baby/mouthBottomTSFV
+  - first:
+      213: -57162714715503309
+    second: unicat baby/mouthBottomWR
+  - first:
+      213: -8214835077578624091
+    second: unicat baby/mouthTopHappy
+  - first:
+      213: -6079449095131335008
+    second: unicat baby/mouthTopNeutral
+  - first:
+      213: 424720161995505608
+    second: unicat baby/mouthTopOh
+  - first:
+      213: 5472597032422706123
+    second: unicat baby/mouthTopUnhappy
+  - first:
+      213: -3837707214094651942
+    second: unicat baby/nose
+  - first:
+      213: -1888450047026332092
+    second: unicat baby/pawRightBackSit
+  - first:
+      213: -7952382271851214589
+    second: unicat baby/pawRightFrontBehindSide
+  - first:
+      213: -6679723114249192639
+    second: unicat baby/pawRightFrontDown
+  - first:
+      213: -8896744669542371952
+    second: unicat baby/pawRightFrontSide
+  - first:
+      213: 7505875505049552964
+    second: unicat baby/pawRightFrontStraight
+  - first:
+      213: 1406624412826075813
+    second: unicat baby/pawRightFrontUp
+  - first:
+      213: 562448249542170049
+    second: unicat baby/tail
+  - first:
+      213: 6043377186093405505
+    second: unicat baby/tongue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unicat baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3ddafd158e22650800000000000000
+      internalID: 6206778674812670919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/baby hair
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 465
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f030870ba9e1b10800000000000000
+      internalID: 1954169371043761954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/back wing right back
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 325
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd4861fa07cc31f0800000000000000
+      internalID: -1063756562152534570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/back wing right down
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 332
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a061df5d3645eb0800000000000000
+      internalID: -4732047537734284788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/back wing right front
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 298
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59981e28850870a0800000000000000
+      internalID: -6883745947988747940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/back wing right up
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 332
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445764cf0b388edd0800000000000000
+      internalID: -2456568800560646844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 145
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995ef3380cf8e3560800000000000000
+      internalID: 7295426503385277849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28ad40b1aa1a31e0800000000000000
+      internalID: -2217430584776611796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 452
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00611591050f00d0800000000000000
+      internalID: -3454536884815831026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 369
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9f86babe27de930800000000000000
+      internalID: 4174118786160982524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 368
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daab837685a05d0f0800000000000000
+      internalID: -1092955959762306387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 457
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9518edd066d0a9f20800000000000000
+      internalID: 3430068798166565209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 103
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e15d1252fcfbea0800000000000000
+      internalID: -5854733232170000858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c9fb39d7d9c9130800000000000000
+      internalID: 3574905366900612243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 245
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77b627902acbb820800000000000000
+      internalID: 2935161823485671291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 441
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d7c7dc70013d580800000000000000
+      internalID: -8803675220880884356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 278
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6023e22fcf2d260800000000000000
+      internalID: 7121032077913491182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 408
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93686868b0b659370800000000000000
+      internalID: 8328680783137375801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 408
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310eaa451f7a65ec0800000000000000
+      internalID: -3578488198949838829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 481
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad229a0d285ccc320800000000000000
+      internalID: 2579653852213617370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 485
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8036fc051871bb20800000000000000
+      internalID: 3148429646315794574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 466
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9b7807b3d8ea540800000000000000
+      internalID: 5021105920995211752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 273
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bfc2625ae776940800000000000000
+      internalID: 5289335535145122666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 426
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ae4e0cfbb8e2950800000000000000
+      internalID: 6426227373995518498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 228
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bab5c65d53d1f390800000000000000
+      internalID: -7786209882905658698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3354cf650dae43ff0800000000000000
+      internalID: -57162714715503309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 241
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3f180650b0ffd80800000000000000
+      internalID: -8214835077578624091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 493
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a670ae124571aba0800000000000000
+      internalID: -6079449095131335008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 283
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf30b0bcb8e4e500800000000000000
+      internalID: 424720161995505608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb8964810292fb40800000000000000
+      internalID: 5472597032422706123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/nose
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 218
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add2fef2f99bdbac0800000000000000
+      internalID: -3837707214094651942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 437
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44efcea00b0eac5e0800000000000000
+      internalID: -1888450047026332092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c130157673a190800000000000000
+      internalID: -7952382271851214589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 418
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf531e73bdc43a0800000000000000
+      internalID: -6679723114249192639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 481
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09da39a2cd9688480800000000000000
+      internalID: -8896744669542371952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448c8c6010a3a2860800000000000000
+      internalID: 7505875505049552964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 431
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a204ea6375558310800000000000000
+      internalID: 1406624412826075813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/tail
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 369
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c55086f3b73ec700800000000000000
+      internalID: 562448249542170049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unicat baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1451cc418836ed350800000000000000
+      internalID: 6043377186093405505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

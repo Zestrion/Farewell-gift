@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: 182dc6fac4445de4f9f6ddbd702ee463
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 44431998137723134
+    second: wolf baby/IrisLeft
+  - first:
+      213: 3424426973358783973
+    second: wolf baby/IrisRight
+  - first:
+      213: -3852315395843852538
+    second: wolf baby/PupilLeft
+  - first:
+      213: -8641301946543063463
+    second: wolf baby/PupilRight
+  - first:
+      213: -4660896347849140256
+    second: wolf baby/bodyBack
+  - first:
+      213: 2250744751139380987
+    second: wolf baby/bodyFront
+  - first:
+      213: -4370286750674334939
+    second: wolf baby/browRight
+  - first:
+      213: 3622214312308290303
+    second: wolf baby/earLeftBack
+  - first:
+      213: 2087270106224818737
+    second: wolf baby/earLeftFront
+  - first:
+      213: 7789869407482949323
+    second: wolf baby/earRightBack
+  - first:
+      213: 6144007256200548266
+    second: wolf baby/earRightFront
+  - first:
+      213: -7713076180237284977
+    second: wolf baby/eyeRightShadow
+  - first:
+      213: -3061626988845140968
+    second: wolf baby/legRightFront
+  - first:
+      213: -119236754699960577
+    second: wolf baby/lidRightClosed
+  - first:
+      213: 8414174166560979456
+    second: wolf baby/lidRightClosedHappy
+  - first:
+      213: -526454531851159120
+    second: wolf baby/lidRightLowerHappy
+  - first:
+      213: 3614136151320293073
+    second: wolf baby/lidRightSquint
+  - first:
+      213: -5949201235781771916
+    second: wolf baby/lidRightUpperAngry
+  - first:
+      213: -6950665978131824281
+    second: wolf baby/lidRightUpperSad
+  - first:
+      213: 8074464784959668858
+    second: wolf baby/mouthBottomA
+  - first:
+      213: 4455265022012439537
+    second: wolf baby/mouthBottomE
+  - first:
+      213: -4219445636341348115
+    second: wolf baby/mouthBottomLN
+  - first:
+      213: 6691320715477595596
+    second: wolf baby/mouthBottomNeutralMPB
+  - first:
+      213: 6168863970606123121
+    second: wolf baby/mouthBottomOUQ
+  - first:
+      213: -9001903019386275698
+    second: wolf baby/mouthBottomTSFV
+  - first:
+      213: -1108680524718929663
+    second: wolf baby/mouthBottomWR
+  - first:
+      213: 3020202593461624863
+    second: wolf baby/mouthTopHappy
+  - first:
+      213: -8218917357953642886
+    second: wolf baby/mouthTopNeutral
+  - first:
+      213: 3040024343947110512
+    second: wolf baby/mouthTopOh
+  - first:
+      213: 8456800324993797021
+    second: wolf baby/mouthTopUnhappy
+  - first:
+      213: 775939073959262355
+    second: wolf baby/nose
+  - first:
+      213: 3597938626232725299
+    second: wolf baby/pawRightBackSit
+  - first:
+      213: -3943144476893937316
+    second: wolf baby/pawRightFrontBehindSide
+  - first:
+      213: -7988840849908533459
+    second: wolf baby/pawRightFrontDown
+  - first:
+      213: -2157482693756496098
+    second: wolf baby/pawRightFrontSide
+  - first:
+      213: -1527307693723660647
+    second: wolf baby/pawRightFrontStraight
+  - first:
+      213: 132624206256716257
+    second: wolf baby/pawRightFrontUp
+  - first:
+      213: 7453244062207142901
+    second: wolf baby/tail
+  - first:
+      213: -6996198020260992709
+    second: wolf baby/tongue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wolf baby/IrisLeft
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 422
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8e8a9baaadd9000800000000000000
+      internalID: 44431998137723134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 432
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edf05a5032068f20800000000000000
+      internalID: 3424426973358783973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/PupilLeft
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 457
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60775f3de83d98ac0800000000000000
+      internalID: -3852315395843852538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 455
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eb867c9ade31880800000000000000
+      internalID: -8641301946543063463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 145
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e75983577b215fb0800000000000000
+      internalID: -4660896347849140256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfedcbb1d604c3f10800000000000000
+      internalID: 2250744751139380987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 533
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bc573ea5f9953c0800000000000000
+      internalID: -4370286750674334939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/earLeftBack
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 251
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2b879c9b0b44230800000000000000
+      internalID: 3622214312308290303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/earLeftFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 314
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a72df4a1977fc10800000000000000
+      internalID: 2087270106224818737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 250
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce24bf14fc2b1c60800000000000000
+      internalID: 7789869407482949323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 318
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf81431c06e34550800000000000000
+      internalID: 6144007256200548266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 501
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f890e676416a5f490800000000000000
+      internalID: -7713076180237284977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 340
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814f22f897ae285d0800000000000000
+      internalID: -3061626988845140968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 372
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe30f7adc2685ef0800000000000000
+      internalID: -119236754699960577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 380
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ab22403d625c470800000000000000
+      internalID: 8414174166560979456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 507
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9fd9e7468a1b8f0800000000000000
+      internalID: -526454531851159120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 409
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dee75d5eadf72230800000000000000
+      internalID: 3614136151320293073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 473
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d99eb0ff0307da0800000000000000
+      internalID: -5949201235781771916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 478
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7614f0d7e164a8f90800000000000000
+      internalID: -6950665978131824281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 405
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a720cea01f24e0070800000000000000
+      internalID: 8074464784959668858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 220
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb3649bee744dd30800000000000000
+      internalID: 4455265022012439537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 461
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de84dc0ac848175c0800000000000000
+      internalID: -4219445636341348115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 494
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc531441db85cdc50800000000000000
+      internalID: 6691320715477595596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 375
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1780fa3e8153c9550800000000000000
+      internalID: 6168863970606123121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 94
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88f6f2e5e0d21380800000000000000
+      internalID: -9001903019386275698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1090cb2dfec2d90f0800000000000000
+      internalID: -1108680524718929663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 530
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f106efcc14ae9e920800000000000000
+      internalID: 3020202593461624863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 526
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e81e8653a80fd80800000000000000
+      internalID: -8218917357953642886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 528
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078e189b806503a20800000000000000
+      internalID: 3040024343947110512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 262
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bc9abe6179c5570800000000000000
+      internalID: 8456800324993797021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/nose
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398ffa60a70b4ca00800000000000000
+      internalID: 775939073959262355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 505
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f224c2e127ee130800000000000000
+      internalID: 3597938626232725299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 136
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5181bc6df22749c0800000000000000
+      internalID: -3943144476893937316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 486
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27721ed29fe12190800000000000000
+      internalID: -7988840849908533459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 237
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17579dbbe41f02e0800000000000000
+      internalID: -2157482693756496098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e41ec9eb9edcae0800000000000000
+      internalID: -1527307693723660647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 106
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9bc8e430d27d100800000000000000
+      internalID: 132624206256716257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/tail
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 280
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb65205cfd3f6760800000000000000
+      internalID: 7453244062207142901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wolf baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b396d00d7f288ee90800000000000000
+      internalID: -6996198020260992709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

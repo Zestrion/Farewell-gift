@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 5afd18d9191f3d8458343630b0402d1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5007322595221942792
+    second: pegasus baby/IrisRight
+  - first:
+      213: -7976333145923577458
+    second: pegasus baby/PupilRight
+  - first:
+      213: -2967392713472608678
+    second: pegasus baby/baby hair
+  - first:
+      213: -5204896346844121450
+    second: pegasus baby/back wing right back
+  - first:
+      213: 7369747707712962132
+    second: pegasus baby/back wing right down
+  - first:
+      213: 1835714040130063549
+    second: pegasus baby/back wing right front
+  - first:
+      213: 6623931580990087265
+    second: pegasus baby/back wing right up
+  - first:
+      213: 5266793952536236149
+    second: pegasus baby/bodyBack
+  - first:
+      213: -1097147378734599639
+    second: pegasus baby/bodyFront
+  - first:
+      213: -6262911423088194733
+    second: pegasus baby/browRight
+  - first:
+      213: 899792875373758648
+    second: pegasus baby/earRightBack
+  - first:
+      213: 5879600876533975663
+    second: pegasus baby/earRightFront
+  - first:
+      213: -6925018761523662330
+    second: pegasus baby/eyeRightShadow
+  - first:
+      213: 2763383542256175014
+    second: pegasus baby/hair back
+  - first:
+      213: -7384472604038762152
+    second: pegasus baby/legRightFront
+  - first:
+      213: 6579655452109730279
+    second: pegasus baby/lidRightClosed
+  - first:
+      213: -7621603140332182131
+    second: pegasus baby/lidRightClosedHappy
+  - first:
+      213: -4875781937886155323
+    second: pegasus baby/lidRightLowerHappy
+  - first:
+      213: 7723801382039059762
+    second: pegasus baby/lidRightSquint
+  - first:
+      213: 8221258321362167903
+    second: pegasus baby/lidRightUpperAngry
+  - first:
+      213: -6204937109886892880
+    second: pegasus baby/lidRightUpperSad
+  - first:
+      213: -5707624841094679789
+    second: pegasus baby/mouthBottomA
+  - first:
+      213: 7015247631140930195
+    second: pegasus baby/mouthBottomE
+  - first:
+      213: -1631934084046972998
+    second: pegasus baby/mouthBottomLN
+  - first:
+      213: -3867343994138865854
+    second: pegasus baby/mouthBottomNeutralMPB
+  - first:
+      213: -4357888515850309360
+    second: pegasus baby/mouthBottomOUQ
+  - first:
+      213: -8577583209271190381
+    second: pegasus baby/mouthBottomTSFV
+  - first:
+      213: 3037806490417773005
+    second: pegasus baby/mouthBottomWR
+  - first:
+      213: -8678577757515719097
+    second: pegasus baby/mouthTopHappy
+  - first:
+      213: -7226297464830811133
+    second: pegasus baby/mouthTopNeutral
+  - first:
+      213: -1496236109455643804
+    second: pegasus baby/mouthTopOh
+  - first:
+      213: -1912693457023038191
+    second: pegasus baby/mouthTopUnhappy
+  - first:
+      213: -1417835577681866170
+    second: pegasus baby/nose
+  - first:
+      213: -993468772690954792
+    second: pegasus baby/pawRightBackSit
+  - first:
+      213: -7197799861945778639
+    second: pegasus baby/pawRightFrontBehindSide
+  - first:
+      213: -7588540411434675681
+    second: pegasus baby/pawRightFrontDown
+  - first:
+      213: -2515905183117426165
+    second: pegasus baby/pawRightFrontSide
+  - first:
+      213: 3717654435396990827
+    second: pegasus baby/pawRightFrontStraight
+  - first:
+      213: 3398790226350536402
+    second: pegasus baby/pawRightFrontUp
+  - first:
+      213: 3422819652732104090
+    second: pegasus baby/tail
+  - first:
+      213: -9126370544789586189
+    second: pegasus baby/tongue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pegasus baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 80
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802bdf3de559d7540800000000000000
+      internalID: 5007322595221942792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 5
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e891d03a34f5e4190800000000000000
+      internalID: -7976333145923577458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/baby hair
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 5
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56f16c8c04b1d6d0800000000000000
+      internalID: -2967392713472608678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/back wing right back
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 9
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696b0a9695e74c7b0800000000000000
+      internalID: -5204896346844121450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/back wing right down
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 77
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45efa7a5e7a964660800000000000000
+      internalID: 7369747707712962132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/back wing right front
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 43
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc46278134c97910800000000000000
+      internalID: 1835714040130063549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/back wing right up
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 43
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160e7658daeeceb50800000000000000
+      internalID: 6623931580990087265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5701916f139671940800000000000000
+      internalID: 5266793952536236149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922f540a54626c0f0800000000000000
+      internalID: -1097147378734599639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 126
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b87173e3ba519a0800000000000000
+      internalID: -6262911423088194733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 66
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b884145ad4bc7c00800000000000000
+      internalID: 899792875373758648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 32
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a02e288d9889150800000000000000
+      internalID: 5879600876533975663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 78
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6027770702465ef90800000000000000
+      internalID: -6925018761523662330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/hair back
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 68
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7075ec0b2895620800000000000000
+      internalID: 2763383542256175014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 76
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8517aae8a45158990800000000000000
+      internalID: -7384472604038762152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 5
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1767fe5c1af4b50800000000000000
+      internalID: 6579655452109730279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 33
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85af792350aa3690800000000000000
+      internalID: -7621603140332182131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cda706192eb55cb0800000000000000
+      internalID: -4875781937886155323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 77
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dfb1c3f64703b60800000000000000
+      internalID: 7723801382039059762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 102
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58248b92e6c71270800000000000000
+      internalID: 8221258321362167903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 14
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b48d8fd292a3e9a0800000000000000
+      internalID: -6204937109886892880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 106
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3133b5382717ac0b0800000000000000
+      internalID: -5707624841094679789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 14
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3924e895d8a2b5160800000000000000
+      internalID: 7015247631140930195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 57
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7178fc8943a59e0800000000000000
+      internalID: -1631934084046972998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 127
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fcc1d902f645ac0800000000000000
+      internalID: -3867343994138865854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 44
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011fcf1eb7ba583c0800000000000000
+      internalID: -4357888515850309360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 124
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c1904648d46f880800000000000000
+      internalID: -8577583209271190381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 118
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc93ab578e4782a20800000000000000
+      internalID: 3037806490417773005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 36
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e5ba7b28f7f8780800000000000000
+      internalID: -8678577757515719097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 112
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30424770eb807bb90800000000000000
+      internalID: -7226297464830811133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 113
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ba8c39f2d4c3be0800000000000000
+      internalID: -1496236109455643804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 113
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d8de94f6fb475e0800000000000000
+      internalID: -1912693457023038191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/nose
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 131
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6429c5add06d25ce0800000000000000
+      internalID: -1417835577681866170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 43
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5ff443a6d7632f0800000000000000
+      internalID: -993468772690954792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 124
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ebd5049274c1c90800000000000000
+      internalID: -7197799861945778639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 118
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f125dbc93b610b690800000000000000
+      internalID: -7588540411434675681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 124
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02c8b7d095b51dd0800000000000000
+      internalID: -2515905183117426165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 122
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b673e731303c79330800000000000000
+      internalID: 3717654435396990827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 109
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d671bb04bdea2f20800000000000000
+      internalID: 3398790226350536402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/tail
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 103
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9da25bd65c408f20800000000000000
+      internalID: 3422819652732104090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pegasus baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe7a35d75e985180800000000000000
+      internalID: -9126370544789586189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

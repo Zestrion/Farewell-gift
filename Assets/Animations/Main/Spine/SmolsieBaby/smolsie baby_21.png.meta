@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: 8790770c13c514645a472589fc18c94e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8553611429652822986
+    second: yellow parrot baby/IrisRight
+  - first:
+      213: -7101015826489665407
+    second: yellow parrot baby/PupilRight
+  - first:
+      213: 8087574448060379954
+    second: yellow parrot baby/birdCrest
+  - first:
+      213: 1615521451409770137
+    second: yellow parrot baby/bodyBack
+  - first:
+      213: -4763726318498778990
+    second: yellow parrot baby/bodyFront
+  - first:
+      213: 2768858466033443212
+    second: yellow parrot baby/browRight
+  - first:
+      213: -1575724176082998717
+    second: yellow parrot baby/clawRightDown
+  - first:
+      213: 1588072760438368498
+    second: yellow parrot baby/clawRightSide
+  - first:
+      213: 7927910294540192058
+    second: yellow parrot baby/clawRightStraight
+  - first:
+      213: 5734016792744293255
+    second: yellow parrot baby/clawRightUp
+  - first:
+      213: -155575181384569135
+    second: yellow parrot baby/eyeRightShadow
+  - first:
+      213: -8294673556410678726
+    second: yellow parrot baby/lidRightClosed
+  - first:
+      213: -1554993513498392574
+    second: yellow parrot baby/lidRightClosedHappy
+  - first:
+      213: 1214837589618663219
+    second: yellow parrot baby/lidRightLowerHappy
+  - first:
+      213: -2628771270904708727
+    second: yellow parrot baby/lidRightSquint
+  - first:
+      213: 7607118808954852358
+    second: yellow parrot baby/lidRightUpperAngry
+  - first:
+      213: -1974935511615257513
+    second: yellow parrot baby/lidRightUpperSad
+  - first:
+      213: -145109483508218883
+    second: yellow parrot baby/mouthBottomA
+  - first:
+      213: -8798880730767136397
+    second: yellow parrot baby/mouthBottomE
+  - first:
+      213: 2922928638089076171
+    second: yellow parrot baby/mouthBottomLN
+  - first:
+      213: 4911750402884024154
+    second: yellow parrot baby/mouthBottomNeutralMPB
+  - first:
+      213: -3265419826744748775
+    second: yellow parrot baby/mouthBottomOUQ
+  - first:
+      213: 5979943588174216998
+    second: yellow parrot baby/mouthBottomTSFV
+  - first:
+      213: -3335894190694311269
+    second: yellow parrot baby/mouthBottomWR
+  - first:
+      213: 6598830212816151388
+    second: yellow parrot baby/mouthTopHappy
+  - first:
+      213: 4337979199386196838
+    second: yellow parrot baby/mouthTopNeutral
+  - first:
+      213: -3061055031155681861
+    second: yellow parrot baby/mouthTopOh
+  - first:
+      213: 1782149971516997391
+    second: yellow parrot baby/mouthTopUnhappy
+  - first:
+      213: -7633804685192457084
+    second: yellow parrot baby/tail
+  - first:
+      213: 4801298837092924981
+    second: yellow parrot baby/tongue
+  - first:
+      213: 2991548080823799741
+    second: yellow parrot baby/wingRightBack
+  - first:
+      213: 1950227062262187267
+    second: yellow parrot baby/wingRightFront
+  - first:
+      213: 8794536689721096172
+    second: yellow parrot baby/wingRightSide
+  - first:
+      213: -3313820409125074841
+    second: yellow parrot baby/wingRightSideUp
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellow parrot baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 79
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63482d449b77b4980800000000000000
+      internalID: -8553611429652822986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 18
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18818a58abf147d90800000000000000
+      internalID: -7101015826489665407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/birdCrest
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 52
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2333a275c16dc3070800000000000000
+      internalID: 8087574448060379954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9968d4e533c7b6610800000000000000
+      internalID: 1615521451409770137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29073b21728d3edb0800000000000000
+      internalID: -4763726318498778990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81a145da16fc6620800000000000000
+      internalID: 2768858466033443212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/clawRightDown
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 120
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ae39cd537e12ae0800000000000000
+      internalID: -1575724176082998717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/clawRightSide
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 129
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8276bf2c7f90610800000000000000
+      internalID: 1588072760438368498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/clawRightStraight
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 125
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a390b35b868950e60800000000000000
+      internalID: 7927910294540192058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/clawRightUp
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783f5a394e1539f40800000000000000
+      internalID: 5734016792744293255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 87
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dea4b1623947ddf0800000000000000
+      internalID: -155575181384569135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 73
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c056f85663ec80800000000000000
+      internalID: -8294673556410678726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20844ef53ad8b6ae0800000000000000
+      internalID: -1554993513498392574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 123
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f130de958fbd010800000000000000
+      internalID: 1214837589618663219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 42
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98109f9f47ab48bd0800000000000000
+      internalID: -2628771270904708727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60452f3a04ae19960800000000000000
+      internalID: 7607118808954852358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 51
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7544ed7ad9e9794e0800000000000000
+      internalID: -1974935511615257513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 125
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3c3fd81b77cfdf0800000000000000
+      internalID: -145109483508218883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3796895089814e580800000000000000
+      internalID: -8798880730767136397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 125
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd9d192c14509820800000000000000
+      internalID: 2922928638089076171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 130
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57b845c7fa0a2440800000000000000
+      internalID: 4911750402884024154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 123
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9159c50f7f5eea2d0800000000000000
+      internalID: -3265419826744748775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fbff5a2070df250800000000000000
+      internalID: 5979943588174216998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 128
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a506b68e584b1d0800000000000000
+      internalID: -3335894190694311269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 125
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53a500dd11c39b50800000000000000
+      internalID: 6598830212816151388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 125
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b92762919933c30800000000000000
+      internalID: 4337979199386196838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb51b06daa2f485d0800000000000000
+      internalID: -3061055031155681861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 125
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f3eb4f4f77bb810800000000000000
+      internalID: 1782149971516997391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/tail
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484146e95174f0690800000000000000
+      internalID: -7633804685192457084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e7b6d9ad3a1a240800000000000000
+      internalID: 4801298837092924981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/wingRightBack
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 99
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf010e212d148920800000000000000
+      internalID: 2991548080823799741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/wingRightFront
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 102
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305cd7d2e29901b10800000000000000
+      internalID: 1950227062262187267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/wingRightSide
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 92
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce737fa16887c0a70800000000000000
+      internalID: 8794536689721096172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow parrot baby/wingRightSideUp
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 112
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76809a035e1f202d0800000000000000
+      internalID: -3313820409125074841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

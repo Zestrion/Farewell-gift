@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: e70f1716a8de14746a963442f97dffb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4245430869696940894
+    second: deer baby/IrisRight
+  - first:
+      213: -1490363781572818670
+    second: deer baby/PupilRight
+  - first:
+      213: 2162221128285299636
+    second: deer baby/bodyBack
+  - first:
+      213: -983862795544624379
+    second: deer baby/bodyFront
+  - first:
+      213: 478111311314992419
+    second: deer baby/browRight
+  - first:
+      213: 1730853750747565593
+    second: deer baby/earRightBack
+  - first:
+      213: 7516895036196311786
+    second: deer baby/earRightFront
+  - first:
+      213: -7873648811226014261
+    second: deer baby/eyeRightShadow
+  - first:
+      213: -3288219275589659530
+    second: deer baby/horn left
+  - first:
+      213: -724655624492130698
+    second: deer baby/horn right
+  - first:
+      213: 6557676940525040705
+    second: deer baby/legRightBack
+  - first:
+      213: -8393226581566529704
+    second: deer baby/legRightFront
+  - first:
+      213: 5149461647850503603
+    second: deer baby/lidRightClosed
+  - first:
+      213: 1405756307986748049
+    second: deer baby/lidRightClosedHappy
+  - first:
+      213: -2741147116710410962
+    second: deer baby/lidRightLowerHappy
+  - first:
+      213: -2083104915214923418
+    second: deer baby/lidRightSquint
+  - first:
+      213: -4714037040175491863
+    second: deer baby/lidRightUpperAngry
+  - first:
+      213: -6820275614355782788
+    second: deer baby/lidRightUpperSad
+  - first:
+      213: -4163390022587143641
+    second: deer baby/mouthBottomA
+  - first:
+      213: 9019938291003148103
+    second: deer baby/mouthBottomE
+  - first:
+      213: -2447022266470115252
+    second: deer baby/mouthBottomLN
+  - first:
+      213: 2203672165027132743
+    second: deer baby/mouthBottomNeutralMPB
+  - first:
+      213: -1912413690218157027
+    second: deer baby/mouthBottomOUQ
+  - first:
+      213: -5344172746243181719
+    second: deer baby/mouthBottomTSFV
+  - first:
+      213: 2190436772771863394
+    second: deer baby/mouthBottomWR
+  - first:
+      213: -4794292947751180134
+    second: deer baby/mouthTopHappy
+  - first:
+      213: -4175652755566583002
+    second: deer baby/mouthTopNeutral
+  - first:
+      213: -2347453148370416102
+    second: deer baby/mouthTopOh
+  - first:
+      213: 5575184105248909470
+    second: deer baby/mouthTopUnhappy
+  - first:
+      213: -1936844468163073962
+    second: deer baby/nose
+  - first:
+      213: 8814784375592968525
+    second: deer baby/pawRightBackSit
+  - first:
+      213: 8994756847889910984
+    second: deer baby/pawRightFrontBehindSide
+  - first:
+      213: 6809774369199582763
+    second: deer baby/pawRightFrontDown
+  - first:
+      213: -1603563167278418176
+    second: deer baby/pawRightFrontSide
+  - first:
+      213: 1046381273956110177
+    second: deer baby/pawRightFrontStraight
+  - first:
+      213: 1400735715624745828
+    second: deer baby/pawRightFrontUp
+  - first:
+      213: 3497590008818040426
+    second: deer baby/tail
+  - first:
+      213: -6882867919672102059
+    second: deer baby/tongue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deer baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a47c350e133515c0800000000000000
+      internalID: -4245430869696940894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2198e35790a215be0800000000000000
+      internalID: -1490363781572818670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b32a4509a0c10e10800000000000000
+      internalID: 2162221128285299636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50307db000e9852f0800000000000000
+      internalID: -983862795544624379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 129
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32db60a54b792a600800000000000000
+      internalID: 478111311314992419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 114
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e067bd05a350810800000000000000
+      internalID: 1730853750747565593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 18
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2d06e8530615860800000000000000
+      internalID: 7516895036196311786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 42
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd52b06f1e2bb290800000000000000
+      internalID: -7873648811226014261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/horn left
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 77
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674d2e69df5ed52d0800000000000000
+      internalID: -3288219275589659530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/horn right
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 93
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e58a58c8181f5f0800000000000000
+      internalID: -724655624492130698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/legRightBack
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 78
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144f3cfee6c810b50800000000000000
+      internalID: 6557676940525040705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 42
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f5c5ea4e4458b80800000000000000
+      internalID: -8393226581566529704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 71
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd70a0f510967740800000000000000
+      internalID: 5149461647850503603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19290520aef328310800000000000000
+      internalID: 1405756307986748049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25c367783d75f9d0800000000000000
+      internalID: -2741147116710410962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 39
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6698ebacd135713e0800000000000000
+      internalID: -2083104915214923418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 106
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e45e4ab940649eb0800000000000000
+      internalID: -4714037040175491863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 102
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c738010d6738951a0800000000000000
+      internalID: -6820275614355782788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 118
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aa94245daa836c0800000000000000
+      internalID: -4163390022587143641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 117
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747cf2306124d2d70800000000000000
+      internalID: 9019938291003148103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 123
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48d399a63e6a0ed0800000000000000
+      internalID: -2447022266470115252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 131
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745bbd59824059e10800000000000000
+      internalID: 2203672165027132743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 121
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ce3f291edb575e0800000000000000
+      internalID: -1912413690218157027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 131
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963f9d1b33fa5d5b0800000000000000
+      internalID: -5344172746243181719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 36
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b1500b3aef56e10800000000000000
+      internalID: 2190436772771863394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 88
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98612c17ff377db0800000000000000
+      internalID: -4794292947751180134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623a21f31f91d06c0800000000000000
+      internalID: -4175652755566583002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 25
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e42848ccb2c6fd0800000000000000
+      internalID: -2347453148370416102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 9
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98e3c6b7680f5d40800000000000000
+      internalID: 5575184105248909470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/nose
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658a5f1d732fe15e0800000000000000
+      internalID: -1936844468163073962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 108
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41e1e6dfa7645a70800000000000000
+      internalID: 8814784375592968525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 124
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc8d7762bbc3dc70800000000000000
+      internalID: 8994756847889910984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 123
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e63b485bd218e50800000000000000
+      internalID: 6809774369199582763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 123
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007387f9bcffeb9e0800000000000000
+      internalID: -1603563167278418176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 126
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f46c5893e758e00800000000000000
+      internalID: 1046381273956110177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 102
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bf30246b9607310800000000000000
+      internalID: 1400735715624745828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/tail
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 80
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6efd8df49fe98030800000000000000
+      internalID: 3497590008818040426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deer baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553330418142b70a0800000000000000
+      internalID: -6882867919672102059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

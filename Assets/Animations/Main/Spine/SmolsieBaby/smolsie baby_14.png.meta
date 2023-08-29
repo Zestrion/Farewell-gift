@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: a1cce414fdf56b448a6f6ab34aba165d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6766827394907269797
+    second: panda baby/IrisRight
+  - first:
+      213: 5836829423925023921
+    second: panda baby/PupilRight
+  - first:
+      213: -6700792806873228386
+    second: panda baby/baby hair
+  - first:
+      213: 7787122189791629556
+    second: panda baby/bodyBack
+  - first:
+      213: -9071707363399903912
+    second: panda baby/bodyFront
+  - first:
+      213: -7293204018227509446
+    second: panda baby/browRight
+  - first:
+      213: -2040841050603147042
+    second: panda baby/earRightBack
+  - first:
+      213: -6026335682541455347
+    second: panda baby/earRightFront
+  - first:
+      213: -1150728992956933266
+    second: panda baby/eyeRightShadow
+  - first:
+      213: -5629993950645123862
+    second: panda baby/legLeftBack
+  - first:
+      213: -1447654564966784142
+    second: panda baby/legLeftFront
+  - first:
+      213: -2074344046130143509
+    second: panda baby/legRightBack
+  - first:
+      213: -8287470685050554265
+    second: panda baby/legRightFront
+  - first:
+      213: 803615782703082998
+    second: panda baby/lidRightClosed
+  - first:
+      213: -3558890547193497889
+    second: panda baby/lidRightClosedHappy
+  - first:
+      213: -8297503292084108346
+    second: panda baby/lidRightLowerHappy
+  - first:
+      213: 6365862568577983924
+    second: panda baby/lidRightSquint
+  - first:
+      213: 3699115429113012003
+    second: panda baby/lidRightUpperAngry
+  - first:
+      213: -6905967925934299952
+    second: panda baby/lidRightUpperSad
+  - first:
+      213: 7188678122567057096
+    second: panda baby/mouthBottomA
+  - first:
+      213: -7686376668483792590
+    second: panda baby/mouthBottomE
+  - first:
+      213: 8160159974593425594
+    second: panda baby/mouthBottomLN
+  - first:
+      213: 8299501731661280951
+    second: panda baby/mouthBottomNeutralMPB
+  - first:
+      213: 6934309159381679249
+    second: panda baby/mouthBottomOUQ
+  - first:
+      213: 2753343929405177385
+    second: panda baby/mouthBottomTSFV
+  - first:
+      213: 4986630552731749355
+    second: panda baby/mouthBottomWR
+  - first:
+      213: -7487772868315073514
+    second: panda baby/mouthTopHappy
+  - first:
+      213: 3714468837206220856
+    second: panda baby/mouthTopNeutral
+  - first:
+      213: 1783398316695871888
+    second: panda baby/mouthTopOh
+  - first:
+      213: -8442401951242903080
+    second: panda baby/mouthTopUnhappy
+  - first:
+      213: 2529670704187592909
+    second: panda baby/nose
+  - first:
+      213: -6542089593565903196
+    second: panda baby/pawLeftBackBehindSide
+  - first:
+      213: -4965018284214064552
+    second: panda baby/pawLeftFrontBehindSide
+  - first:
+      213: 7253090658787755350
+    second: panda baby/pawLeftBackDown
+  - first:
+      213: 3230978124268568624
+    second: panda baby/pawLeftFrontDown
+  - first:
+      213: -5146828720774117641
+    second: panda baby/pawLeftBackSide
+  - first:
+      213: 4401612682124098877
+    second: panda baby/pawLeftFrontSide
+  - first:
+      213: -1651175893688371727
+    second: panda baby/pawLeftBackStraight
+  - first:
+      213: 6090778599123300900
+    second: panda baby/pawLeftFrontStraight
+  - first:
+      213: -840230750538185581
+    second: panda baby/pawLeftBackUp
+  - first:
+      213: 8061723440885139817
+    second: panda baby/pawLeftFrontUp
+  - first:
+      213: -7901813314180266332
+    second: panda baby/pawRightBackBehindSide
+  - first:
+      213: 3308366659146493420
+    second: panda baby/pawRightFrontBehindSide
+  - first:
+      213: 3711655018671577349
+    second: panda baby/pawRightBackDown
+  - first:
+      213: -621053384164890086
+    second: panda baby/pawRightFrontDown
+  - first:
+      213: -7494388612914232963
+    second: panda baby/pawRightBackSide
+  - first:
+      213: -2563365632906662693
+    second: panda baby/pawRightFrontSide
+  - first:
+      213: -7101726394270357249
+    second: panda baby/pawRightBackSit
+  - first:
+      213: 3962393583453035850
+    second: panda baby/pawRightBackStraight
+  - first:
+      213: -4847437920227932294
+    second: panda baby/pawRightFrontStraight
+  - first:
+      213: -7274394286728277764
+    second: panda baby/pawRightBackUp
+  - first:
+      213: -1118486299598046845
+    second: panda baby/pawRightFrontUp
+  - first:
+      213: 5406401327815782029
+    second: panda baby/tail
+  - first:
+      213: -4242263636394882390
+    second: panda baby/tongue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panda baby/IrisRight
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 39
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa64d9d9a998ed50800000000000000
+      internalID: 6766827394907269797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/PupilRight
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 21
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4599baf65900150800000000000000
+      internalID: 5836829423925023921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/baby hair
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 9
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b14d8c1700203a0800000000000000
+      internalID: -6700792806873228386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/bodyBack
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f09719af5a611c60800000000000000
+      internalID: 7787122189791629556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/bodyFront
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 145
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855d04a8732da1280800000000000000
+      internalID: -9071707363399903912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/browRight
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 95
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a370913269559ca90800000000000000
+      internalID: -7293204018227509446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/earRightBack
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0b3c790e97da3e0800000000000000
+      internalID: -2040841050603147042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/earRightFront
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 83
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08fad820a72e5ca0800000000000000
+      internalID: -6026335682541455347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/eyeRightShadow
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 39
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b1f06e31ac700f0800000000000000
+      internalID: -1150728992956933266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/legLeftBack
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 55
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae40334b45e3ed1b0800000000000000
+      internalID: -5629993950645123862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/legLeftFront
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 93
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273aea9d7d5e8ebe0800000000000000
+      internalID: -1447654564966784142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/legRightBack
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 82
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee577494137633e0800000000000000
+      internalID: -2074344046130143509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/legRightFront
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 82
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7683913225dfcfc80800000000000000
+      internalID: -8287470685050554265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/lidRightClosed
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 72
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd2aefeb44072b00800000000000000
+      internalID: 803615782703082998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/lidRightClosedHappy
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6390437e74c9ec0800000000000000
+      internalID: -3558890547193497889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/lidRightLowerHappy
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 106
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c341b8c7b859dc80800000000000000
+      internalID: -8297503292084108346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/lidRightSquint
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 41
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5eb014746185850800000000000000
+      internalID: 6365862568577983924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/lidRightUpperAngry
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f927f42e5e55330800000000000000
+      internalID: 3699115429113012003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/lidRightUpperSad
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 80
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4e170c2c21920a0800000000000000
+      internalID: -6905967925934299952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/mouthBottomA
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 110
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce3b3c4aa053c360800000000000000
+      internalID: 7188678122567057096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/mouthBottomE
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 113
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2315c29e421845590800000000000000
+      internalID: -7686376668483792590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/mouthBottomLN
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 112
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab070043346be3170800000000000000
+      internalID: 8160159974593425594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/mouthBottomNeutralMPB
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 117
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6f8603ad0cd2370800000000000000
+      internalID: 8299501731661280951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/mouthBottomOUQ
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 109
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cbeafd07d9b3060800000000000000
+      internalID: 6934309159381679249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/mouthBottomTSFV
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 65
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e7ca847b7d53620800000000000000
+      internalID: 2753343929405177385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/mouthBottomWR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb8fa14112143540800000000000000
+      internalID: 4986630552731749355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/mouthTopHappy
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 77
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614b5498f36161890800000000000000
+      internalID: -7487772868315073514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/mouthTopNeutral
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8306fe23ab17c8330800000000000000
+      internalID: 3714468837206220856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/mouthTopOh
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 18
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091efa7f157efb810800000000000000
+      internalID: 1783398316695871888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/mouthTopUnhappy
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 91
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d12a15b72096da80800000000000000
+      internalID: -8442401951242903080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/nose
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 117
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc050d94a123b1320800000000000000
+      internalID: 2529670704187592909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawLeftBackBehindSide
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 35
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a689b61d24d535a0800000000000000
+      internalID: -6542089593565903196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawLeftFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 35
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ae9122d26b81bb0800000000000000
+      internalID: -4965018284214064552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawLeftBackDown
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 96
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6558fb0968728a460800000000000000
+      internalID: 7253090658787755350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawLeftFrontDown
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 96
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030061e4c7db6dc20800000000000000
+      internalID: 3230978124268568624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawLeftBackSide
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 109
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f60b7a2c8ac298b0800000000000000
+      internalID: -5146828720774117641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawLeftFrontSide
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 109
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d7cd4e96ba51d30800000000000000
+      internalID: 4401612682124098877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawLeftBackStraight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f53403e548d519e0800000000000000
+      internalID: -1651175893688371727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawLeftFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422bb469ddac68450800000000000000
+      internalID: 6090778599123300900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawLeftBackUp
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 26
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394cfc88596e654f0800000000000000
+      internalID: -840230750538185581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawLeftFrontUp
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 26
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9690663b1cef0ef60800000000000000
+      internalID: 8061723440885139817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawRightBackBehindSide
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a645d608ae175290800000000000000
+      internalID: -7901813314180266332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawRightFrontBehindSide
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced2c21b2fda9ed20800000000000000
+      internalID: 3308366659146493420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawRightBackDown
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 50
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50917b40392728330800000000000000
+      internalID: 3711655018671577349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawRightFrontDown
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 50
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a2c42dc339167f0800000000000000
+      internalID: -621053384164890086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawRightBackSide
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 109
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71c38673459ef790800000000000000
+      internalID: -7494388612914232963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawRightFrontSide
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 109
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc6725c9881d6cd0800000000000000
+      internalID: -2563365632906662693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawRightBackSit
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 93
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8ef719879917d90800000000000000
+      internalID: -7101726394270357249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawRightBackStraight
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 110
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d510278ff3df630800000000000000
+      internalID: 3962393583453035850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawRightFrontStraight
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 110
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a774e06f4e07abcb0800000000000000
+      internalID: -4847437920227932294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawRightBackUp
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 72
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf01e6700f82c0b90800000000000000
+      internalID: -7274394286728277764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/pawRightFrontUp
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 72
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3893152f2a65a70f0800000000000000
+      internalID: -1118486299598046845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/tail
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ee8a10d55670b40800000000000000
+      internalID: 5406401327815782029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panda baby/tongue
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 51
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa402df2b37025c0800000000000000
+      internalID: -4242263636394882390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
