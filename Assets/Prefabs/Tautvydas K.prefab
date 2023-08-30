@@ -167,12 +167,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 2Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-    in culpa qui officia deserunt mollit anim id est laborum.
+  m_text: "Arvydai, a\u010Di\u016B u\u017E suteikt\u0105 galimyb\u0119 dirbti kartu,
+    dalijim\u0105si patirtimi bei \u012Fkv\u0117pt\u0105 maksimalizm\u0105.\r\nSendBestWishes();\r\n       
+    void SendBestWishes()\r\n        {\r\n            string msg = \"Linku kuo did\u017Eiausios
+    s\u0117km\u0117s. Ir \";\r\n            for (int i = 0; i < 1000; i++)\r\n           
+    {\r\n                msg += \"daug \";\r\n            }\r\n            Console.WriteLine(msg
+    + \"visa ko geriausio!\");\r\n        }"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -459,9 +459,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4466679818761798775}
-  - component: {fileID: 6330013683785331960}
+  - component: {fileID: 7654133335323378362}
   m_Layer: 0
-  m_Name: 2
+  m_Name: Tautvydas K
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -485,7 +485,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6330013683785331960
+--- !u!114 &7654133335323378362
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -497,7 +497,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b474abf3464045d4792ffd96597e5011, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  author: Rubicante
+  author: 621
 --- !u!1 &4466679819205746499
 GameObject:
   m_ObjectHideFlags: 0
@@ -691,7 +691,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: John Doe
+  m_text: "Tautvydas Kal\u0117da"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
