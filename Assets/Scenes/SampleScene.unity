@@ -679,7 +679,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Galim prad\u0117t?"
+  m_text: Pradedam?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1944,8 +1944,7 @@ MonoBehaviour:
   initialTextList:
   - Labas!
   - "D\u017Eiaugiuosi, kad atsidarei \u0161i\u0105 program\u0105!"
-  - "Mums visiems li\u016Bdna \u017Einoti, kad nuo \u0161iol tav\u0119s nebematysime
-    kaip kad esame \u012Fprat\u0119 tik\u0117tis."
+  - "Mes li\u016Bdime, kad nebematysime tav\u0119s taip da\u017Enai, kaip esame \u012Fprat\u0119."
   - "Gyvenimas juda \u012F priek\u012F ir su laiku viskas kei\u010Diasi."
   - "Bet pakeliui mes sukaupiame daug patir\u010Di\u0173 ir prisiminim\u0173."
   - "\u0160i programa yra skirta tam, kad dalis t\u0173 patir\u010Di\u0173 ir prisiminim\u0173
@@ -1953,15 +1952,15 @@ MonoBehaviour:
   - "Ir taip pat, kad gal\u0117tum\u0117m i\u0161sakyti link\u0117jimus atei\u010Diai."
   finalTextList:
   - Nagi...
-  - "At\u0117jom \u012F pabaig\u0105."
+  - "Pri\u0117jom pabaig\u0105."
   - "Kai kit\u0105 kart\u0105 atsidarysi \u0161it\u0105 program\u0105, joje bus s\u0105ra\u0161as
-    vis\u0173 palink\u0117jim\u0173 ir betkada gal\u0117si kuriuos tik nori per\u017Ei\u016Br\u0117ti
+    vis\u0173 palink\u0117jim\u0173 ir gal\u0117si pats pasirinkti, kuriuos per\u017Ei\u016Br\u0117ti
     v\u0117l."
-  - "\u010Cia jau tikrai pabaiga. A\u0161 ir kiti jau savo palink\u0117jimus perdav\u0117m,
-    tai tam, kad visa tai u\u017Ebaigti..."
+  - "\u010Cia jau tikrai pabaiga. Mes visi jau palink\u0117jome visko, ko nor\u0117jome
+    palink\u0117ti, tod\u0117l..."
   - "Turb\u016Bt lieka tiesiog dar kart\u0105 pasakyti:"
   - "Nuo vis\u0173 m\u016Bs\u0173 programuotoj\u0173 nuo\u0161ird\u017Eiai,"
-  - Gyvenk laimingai!..
+  - Laimingo gyvenimo!..
   - Ir
   - "A\u010Di\u016B Tau!"
 --- !u!114 &1827743265
