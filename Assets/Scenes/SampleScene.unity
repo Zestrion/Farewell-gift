@@ -679,7 +679,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Let's begin
+  m_text: "Galim prad\u0117t?"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1931,6 +1931,8 @@ MonoBehaviour:
   - {fileID: 4466679818761798772, guid: 535ee73e10c698d438a50318942ca1f9, type: 3}
   - {fileID: 4466679818761798772, guid: 3d9b52743df86a042bf3dc5ea52fada6, type: 3}
   - {fileID: 4466679818761798772, guid: 2c44090531634474d8e74f3c4b6798fd, type: 3}
+  - {fileID: 1333979310310680785, guid: a98018a40fc16e843a1d6c7f7ee2a0ab, type: 3}
+  - {fileID: 4466679818761798772, guid: 63b05d3e9567fde45ab247a189b84db7, type: 3}
   buttonInitial1: {fileID: 1004261949}
   buttonInitial2: {fileID: 331889911}
   buttonFinal: {fileID: 1434544987}
@@ -1940,23 +1942,28 @@ MonoBehaviour:
   prefabUIList: {fileID: 1639218746}
   backgroundImage: {fileID: 1823503564}
   initialTextList:
-  - Text1
-  - Text2
-  - Text3
-  - Text4
-  - Text5
-  - Text6
+  - Labas!
+  - "D\u017Eiaugiuosi, kad atsidarei \u0161i\u0105 program\u0105!"
+  - "Mums visiems li\u016Bdna \u017Einoti, kad nuo \u0161iol tav\u0119s nebematysime
+    kaip kad esame \u012Fprat\u0119 tik\u0117tis."
+  - "Gyvenimas juda \u012F priek\u012F ir su laiku viskas kei\u010Diasi."
+  - "Bet pakeliui mes sukaupiame daug patir\u010Di\u0173 ir prisiminim\u0173."
+  - "\u0160i programa yra skirta tam, kad dalis t\u0173 patir\u010Di\u0173 ir prisiminim\u0173
+    gal\u0117t\u0173 b\u016Bti pasidalinti ir likt\u0173 \u012Fam\u017Einti."
+  - "Ir taip pat, kad gal\u0117tum\u0117m i\u0161sakyti link\u0117jimus atei\u010Diai."
   finalTextList:
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
-  - 6
-  - 7
-  - 8
-  - 9
-  - 10
+  - Nagi...
+  - "At\u0117jom \u012F pabaig\u0105."
+  - "Kai kit\u0105 kart\u0105 atsidarysi \u0161it\u0105 program\u0105, joje bus s\u0105ra\u0161as
+    vis\u0173 palink\u0117jim\u0173 ir betkada gal\u0117si kuriuos tik nori per\u017Ei\u016Br\u0117ti
+    v\u0117l."
+  - "\u010Cia jau tikrai pabaiga. A\u0161 ir kiti jau savo palink\u0117jimus perdav\u0117m,
+    tai tam, kad visa tai u\u017Ebaigti..."
+  - "Turb\u016Bt lieka tiesiog dar kart\u0105 pasakyti:"
+  - "Nuo vis\u0173 m\u016Bs\u0173 programuotoj\u0173 nuo\u0161ird\u017Eiai,"
+  - Gyvenk laimingai!..
+  - Ir
+  - "A\u010Di\u016B Tau!"
 --- !u!114 &1827743265
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2169,7 +2176,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 47.5}
   m_SizeDelta: {x: 500, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2112146877
@@ -2202,7 +2209,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
