@@ -12,11 +12,13 @@ namespace Main
         [SerializeField] TextMeshProUGUI senderInput;
         [SerializeField] Button textAdvanceButton;
         [SerializeField] SpriteRenderer backgroundImage;
+        [SerializeField] AudioSource audioSource;
 
         [SerializeField] TextMeshProUGUI realMessageInput;
         [SerializeField] Sprite realBackgroundSprite;
         [SerializeField] List<GameObject> fakeSmolsies;
         [SerializeField] List<GameObject> realSmolsies;
+        [SerializeField] AudioClip realAudioClip;
 
         [SerializeField] Image brokenSmolsiesImage;
         [SerializeField] string advancedText1;
@@ -47,6 +49,8 @@ namespace Main
 
         void Transition1()
         {
+            audioSource.clip = realAudioClip;
+            audioSource.Play();
             backgroundImage.sprite = realBackgroundSprite;
             Invoke(nameof(Transition2), 1f);
         }

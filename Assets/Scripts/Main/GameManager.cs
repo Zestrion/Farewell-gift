@@ -177,7 +177,7 @@ namespace Main
             StringBuilder builder = new StringBuilder();
             foreach (bool messageRead in messagesRead)
             {
-                builder.Append(messageRead ? "1" : "0" + "|");
+                builder.Append((messageRead ? "1" : "0") + "|");
             }
             builder.Length--;
 
