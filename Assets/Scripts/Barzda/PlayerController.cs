@@ -27,7 +27,7 @@ namespace Barzda
         private void Awake()
         {
             cachedCamera = Camera.main;
-            cachedCamera.enabled = false;
+            cachedCamera.gameObject.SetActive(false);
             smoothCamera.GetComponent<Camera>().tag = "MainCamera";
         }
 
@@ -102,7 +102,7 @@ namespace Barzda
 
         private void OnDestroy()
         {
-            cachedCamera.enabled = true;
+            cachedCamera.gameObject.SetActive(true);
         }
     }
 }
