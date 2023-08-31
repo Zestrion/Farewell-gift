@@ -1,0 +1,1540 @@
+animal.png
+size:392,176
+filter:Linear,Linear
+scale:0.4
+bowl_back
+bounds:1,32,95,61
+bowl_front
+bounds:253,36,95,54
+butterfly net
+bounds:190,64,61,109
+emoji_heart
+bounds:250,5,36,30
+food_piece
+bounds:156,10,15,14
+food_piece2
+bounds:81,26,8,7
+garden tool
+bounds:253,92,80,81
+minigame ball
+bounds:350,30,40,40
+spatula
+bounds:350,73,33,100
+water
+bounds:1,95,187,78
+water ripple
+bounds:95,26,153,23
+water ripple full
+bounds:1,1,153,23
+watering can
+bounds:98,51,88,42
+
+animal_2.png
+size:208,152
+filter:Linear,Linear
+scale:0.4
+armadillo/body
+bounds:1,22,150,127
+offsets:3,1,155,129
+armadillo/ear
+bounds:150,84,42,28
+armadillo/eyebrow
+bounds:59,9,18,12
+armadillo/front paw
+bounds:183,2,21,36
+armadillo/front paw up
+bounds:1,3,21,40
+armadillo/iris
+bounds:121,8,32,33
+armadillo/lid bottom
+bounds:157,57,44,24
+armadillo/lid bottom happy
+bounds:23,4,34,12
+armadillo/lid top
+bounds:143,30,45,34
+armadillo/lid top happy
+bounds:140,113,44,36
+armadillo/mouth
+bounds:79,8,14,14
+armadillo/nose
+bounds:1,138,20,11
+armadillo/pupil
+bounds:154,1,26,27
+offsets:2,1,30,30
+armadillo/tongue
+bounds:22,21,9,11
+
+animal_3.png
+size:292,136
+filter:Linear,Linear
+scale:0.4
+bear/body
+bounds:1,5,150,127
+offsets:3,1,155,129
+bear/ear
+bounds:151,6,60,63
+bear/eyebrow
+bounds:262,39,18,12
+bear/front paw
+bounds:232,96,27,36
+bear/front paw up
+bounds:212,59,30,40
+bear/hind paw
+bounds:239,47,24,32
+bear/iris
+bounds:213,25,32,33
+bear/lid bottom
+bounds:244,72,44,24
+bear/lid bottom happy
+bounds:1,6,34,12
+bear/lid top
+bounds:186,98,45,34
+bear/lid top happy
+bounds:150,71,44,36
+bear/mouth
+bounds:126,2,25,23
+offsets:1,1,28,25
+bear/muzzle
+bounds:213,1,30,20
+offsets:2,0,32,23
+bear/pupil
+bounds:243,10,26,27
+offsets:2,1,30,30
+bear/tongue
+bounds:270,3,15,24
+offsets:1,0,16,24
+
+animal_4.png
+size:168,212
+filter:Linear,Linear
+scale:0.4
+boar/body
+bounds:1,84,150,127
+offsets:3,1,155,129
+boar/ear
+bounds:1,52,46,42
+boar/eyebrow
+bounds:147,45,18,12
+boar/front paw
+bounds:1,12,24,38
+boar/front paw up
+bounds:94,12,24,43
+boar/hair
+bounds:28,27,52,26
+boar/hind paw
+bounds:142,177,22,34
+boar/iris
+bounds:120,12,32,33
+boar/lid bottom
+bounds:21,1,44,24
+boar/lid bottom happy
+bounds:104,2,34,12
+boar/lid top
+bounds:62,50,45,34
+boar/lid top happy
+bounds:108,53,44,36
+boar/mouth
+bounds:146,2,16,15
+offsets:0,0,16,16
+boar/muzzle
+bounds:69,7,26,22
+offsets:1,0,28,22
+boar/pupil
+bounds:137,90,26,27
+offsets:2,1,30,30
+boar/teeth
+bounds:22,2,34,10
+boar/tongue
+bounds:1,191,12,20
+
+animal_5.png
+size:252,140
+filter:Linear,Linear
+scale:0.4
+bunny/body
+bounds:1,12,150,127
+offsets:3,1,155,129
+bunny/ear
+bounds:148,66,49,73
+offsets:0,0,50,75
+bunny/eyebrow
+bounds:31,1,18,12
+bunny/front paw
+bounds:223,13,27,37
+bunny/front paw up
+bounds:211,67,30,39
+bunny/hind paw
+bounds:227,106,24,33
+bunny/iris
+bounds:193,106,32,33
+bunny/lid bottom
+bounds:112,1,44,24
+bunny/lid bottom happy
+bounds:1,13,34,12
+bunny/lid top
+bounds:181,38,45,34
+bunny/lid top happy
+bounds:141,17,44,36
+bunny/mouth
+bounds:1,30,12,11
+offsets:0,1,12,12
+bunny/nose
+bounds:1,127,20,12
+bunny/pupil
+bounds:200,9,26,27
+offsets:2,1,30,30
+bunny/teeth
+bounds:1,120,7,7
+bunny/tongue
+bounds:102,2,9,13
+offsets:0,0,10,13
+
+animal_6.png
+size:348,284
+filter:Linear,Linear
+scale:0.7
+cat/body
+bounds:2,61,262,221
+offsets:6,2,271,225
+cat/ear
+bounds:252,72,92,98
+offsets:0,0,93,99
+cat/eyebrow
+bounds:214,3,31,22
+cat/front paw
+bounds:170,2,48,65
+cat/front paw up
+bounds:2,14,52,68
+offsets:0,1,53,69
+cat/hind paw
+bounds:54,2,43,57
+cat/iris
+bounds:289,13,56,57
+cat/lid bottom
+bounds:265,223,76,42
+cat/lid bottom happy
+bounds:214,262,59,20
+cat/lid top
+bounds:216,34,78,60
+cat/lid top happy
+bounds:262,169,77,64
+offsets:0,0,78,64
+cat/mouth
+bounds:247,6,26,26
+offsets:1,2,28,29
+cat/nose
+bounds:2,262,34,20
+offsets:0,1,35,22
+cat/pupil
+bounds:95,4,45,45
+offsets:4,3,53,52
+cat/tongue
+bounds:2,238,16,24
+offsets:0,0,16,25
+cat/whiskers
+bounds:142,22,23,39
+
+animal_7.png
+size:200,168
+filter:Linear,Linear
+scale:0.4
+cheetah/body
+bounds:1,40,150,127
+offsets:3,1,155,129
+cheetah/ear
+bounds:145,49,51,53
+offsets:0,0,51,54
+cheetah/eyebrow
+bounds:79,1,18,12
+cheetah/front paw
+bounds:169,11,27,37
+cheetah/front paw up
+bounds:1,13,30,39
+cheetah/hind paw
+bounds:32,10,24,33
+cheetah/iris
+bounds:93,11,32,33
+cheetah/lid bottom
+bounds:148,140,44,24
+cheetah/lid bottom happy
+bounds:119,7,34,12
+cheetah/lid top
+bounds:122,24,45,34
+cheetah/lid top happy
+bounds:150,103,44,36
+cheetah/mouth
+bounds:131,152,16,15
+offsets:0,1,16,16
+cheetah/nose
+bounds:1,155,20,12
+cheetah/pupil
+bounds:57,11,26,27
+offsets:2,1,30,30
+cheetah/tongue
+bounds:1,54,12,14
+cheetah/whiskers
+bounds:158,3,13,22
+
+animal_8.png
+size:264,144
+filter:Linear,Linear
+scale:0.4
+chimera/body
+bounds:1,15,150,127
+offsets:3,1,155,129
+chimera/ear
+bounds:145,17,50,49
+chimera/eyebrow
+bounds:57,2,18,12
+chimera/front paw
+bounds:229,43,26,36
+chimera/front paw up
+bounds:206,17,26,41
+chimera/hind paw
+bounds:236,110,24,32
+chimera/horn
+bounds:231,8,28,34
+chimera/iris
+bounds:218,80,32,33
+chimera/lid bottom
+bounds:108,1,44,24
+chimera/lid bottom happy
+bounds:22,1,34,12
+chimera/lid top
+bounds:190,108,45,34
+chimera/lid top happy
+bounds:177,56,44,36
+chimera/mouth
+bounds:190,14,18,17
+chimera/muzzle
+bounds:1,11,30,15
+chimera/tongue
+bounds:1,128,9,14
+chimera/wing
+bounds:135,93,60,49
+
+animal_9.png
+size:204,180
+filter:Linear,Linear
+scale:0.4
+cow/body
+bounds:1,50,150,127
+offsets:3,1,155,129
+cow/ear
+bounds:1,22,54,36
+offsets:0,0,54,37
+cow/eyebrow
+bounds:77,2,18,12
+cow/front paw
+bounds:149,107,26,36
+cow/front paw up
+bounds:144,53,26,41
+cow/hind paw
+bounds:153,19,24,32
+cow/horn
+bounds:1,57,13,18
+cow/iris
+bounds:141,144,32,33
+cow/lid bottom
+bounds:33,1,44,24
+cow/lid bottom happy
+bounds:1,1,34,12
+cow/lid top
+bounds:62,16,45,34
+cow/lid top happy
+bounds:108,19,44,36
+cow/mouth
+bounds:174,143,26,18
+cow/muzzle
+bounds:168,52,30,20
+cow/pupil
+bounds:168,85,26,27
+offsets:2,1,30,30
+cow/tongue
+bounds:101,2,15,24
+offsets:1,0,16,24
+
+animal_10.png
+size:236,184
+filter:Linear,Linear
+scale:0.4
+crystal pony/body
+bounds:1,55,150,127
+offsets:3,1,155,129
+crystal pony/ear
+bounds:45,10,35,46
+crystal pony/eyebrow
+bounds:1,15,18,12
+crystal pony/front paw
+bounds:196,113,26,36
+crystal pony/front paw left
+bounds:194,55,26,36
+crystal pony/front paw up
+bounds:82,13,26,41
+crystal pony/hair
+bounds:149,85,48,72
+crystal pony/hind paw
+bounds:138,150,24,32
+crystal pony/hind paw left
+bounds:209,150,24,32
+crystal pony/iris
+bounds:177,149,32,33
+crystal pony/lid bottom
+bounds:101,1,44,24
+crystal pony/lid bottom happy
+bounds:104,1,34,12
+crystal pony/lid top
+bounds:1,29,45,34
+crystal pony/lid top happy
+bounds:110,26,44,36
+crystal pony/mouth
+bounds:24,6,24,23
+crystal pony/muzzle
+bounds:186,11,38,24
+crystal pony/pupil
+bounds:154,6,30,30
+crystal pony/tongue
+bounds:217,29,16,30
+crystal pony/wing
+bounds:141,37,60,49
+
+animal_11.png
+size:248,140
+filter:Linear,Linear
+scale:0.4
+deer/body
+bounds:1,12,150,127
+offsets:3,1,155,129
+deer/ear
+bounds:133,95,59,44
+offsets:0,1,60,45
+deer/eyebrow
+bounds:215,1,18,12
+deer/front paw
+bounds:194,69,26,36
+deer/front paw up
+bounds:185,25,26,41
+deer/hind paw
+bounds:210,15,24,32
+deer/horn
+bounds:218,48,28,34
+deer/iris
+bounds:188,106,32,33
+deer/lid bottom
+bounds:112,1,44,24
+deer/lid bottom happy
+bounds:25,1,34,12
+deer/lid top
+bounds:151,62,45,34
+deer/lid top happy
+bounds:141,17,44,36
+deer/mouth
+bounds:170,2,24,16
+offsets:0,1,24,17
+deer/muzzle
+bounds:1,8,28,18
+deer/pupil
+bounds:221,95,26,27
+offsets:2,1,30,30
+deer/tongue
+bounds:199,2,15,24
+offsets:1,0,16,24
+
+animal_12.png
+size:192,204
+filter:Linear,Linear
+scale:0.4
+dragon/body
+bounds:1,75,150,127
+offsets:3,1,155,129
+dragon/ear
+bounds:1,48,55,37
+offsets:0,1,56,38
+dragon/eyebrow
+bounds:147,9,18,12
+dragon/front paw
+bounds:138,164,32,38
+dragon/front paw up
+bounds:136,56,32,46
+dragon/hind paw
+bounds:150,129,29,34
+dragon/horn
+bounds:166,51,22,36
+offsets:1,1,23,37
+dragon/iris
+bounds:146,22,32,33
+dragon/lid bottom
+bounds:47,1,44,24
+dragon/lid bottom happy
+bounds:52,63,34,12
+dragon/lid top
+bounds:11,13,45,34
+dragon/lid top happy
+bounds:54,26,44,36
+dragon/mouth
+bounds:120,10,26,18
+offsets:0,0,27,18
+dragon/muzzle
+bounds:147,103,32,25
+dragon/pupil
+bounds:93,10,26,27
+offsets:2,1,30,30
+dragon/tongue
+bounds:1,1,15,24
+offsets:1,0,16,24
+dragon/wing
+bounds:94,29,51,48
+
+animal_13.png
+size:320,136
+filter:Linear,Linear
+scale:0.4
+elephant/body
+bounds:1,7,150,127
+offsets:3,1,155,129
+elephant/ear
+bounds:145,20,82,72
+elephant/eyebrow
+bounds:300,66,18,12
+elephant/front paw
+bounds:262,10,28,38
+elephant/front paw up
+bounds:246,91,29,43
+offsets:0,0,29,44
+elephant/hind paw
+bounds:281,99,26,35
+offsets:0,0,26,36
+elephant/iris
+bounds:266,68,32,33
+elephant/lid bottom
+bounds:269,41,44,24
+elephant/lid bottom happy
+bounds:281,2,34,12
+elephant/lid top
+bounds:228,46,45,34
+elephant/lid top happy
+bounds:218,6,44,36
+elephant/mouth
+bounds:1,4,23,25
+offsets:1,2,25,27
+elephant/pupil
+bounds:128,2,26,27
+offsets:2,1,30,30
+elephant/tongue
+bounds:299,14,15,24
+offsets:1,0,16,24
+elephant/trunk
+bounds:209,80,37,54
+elephant/tusks
+bounds:156,1,54,18
+
+animal_14.png
+size:1024,216
+filter:Linear,Linear
+scale:0.4
+food/apple
+bounds:957,152,62,62
+food/beet
+bounds:468,61,69,68
+food/bell pepper
+bounds:334,47,70,82
+food/blueberry
+bounds:772,27,58,57
+offsets:0,7,58,64
+food/broccoli
+bounds:935,70,88,80
+food/burger
+bounds:406,49,61,80
+food/cake
+bounds:161,51,92,82
+food/carrot
+bounds:832,1,45,78
+food/corn
+bounds:716,50,56,79
+food/cupcake
+bounds:255,47,78,82
+food/drink cup
+bounds:964,24,42,44
+food/drink cup back
+bounds:161,137,41,6
+food/drink juice
+bounds:229,31,39,34
+food/drink straw
+bounds:76,99,10,44
+food/grape
+bounds:653,49,61,80
+food/grill stake
+bounds:59,42,128,22
+food/grill vegs
+bounds:115,144,110,70
+food/pie
+bounds:1,144,119,70
+food/pineapple
+bounds:602,44,51,85
+food/plant apple seed box
+bounds:1,59,71,83
+food/plant beet seed box
+bounds:88,65,71,83
+food/plant bluebery seed box
+bounds:884,131,71,83
+food/plant broccoli seed box
+bounds:811,131,71,83
+food/plant carrot seed box
+bounds:738,131,71,83
+food/plant corn seed box
+bounds:665,131,71,83
+food/plant grapes seed box
+bounds:592,131,71,83
+food/plant pepper seed box
+bounds:519,131,71,83
+food/plant pineapple seed box
+bounds:446,131,71,83
+food/plant strawberry seed
+bounds:373,131,71,83
+food/plant tomato seed box
+bounds:300,131,71,83
+food/plant watermelon seed box
+bounds:227,131,71,83
+food/strawberry
+bounds:904,24,58,64
+food/taco
+bounds:539,49,61,80
+food/tomato
+bounds:858,67,62,62
+food/watermelon
+bounds:774,85,82,44
+
+animal_15.png
+size:228,140
+filter:Linear,Linear
+scale:0.4
+hamster/body
+bounds:1,9,150,127
+offsets:3,1,155,129
+hamster/ear
+bounds:151,52,36,34
+hamster/eyebrow
+bounds:160,3,18,12
+hamster/front paw
+bounds:204,47,21,36
+hamster/front paw up
+bounds:188,10,21,40
+hamster/iris
+bounds:178,80,32,33
+hamster/lid bottom
+bounds:115,1,44,24
+hamster/lid bottom happy
+bounds:1,10,34,12
+hamster/lid top
+bounds:143,17,45,34
+hamster/lid top happy
+bounds:140,100,44,36
+hamster/mouth
+bounds:1,25,13,10
+hamster/nose
+bounds:1,125,20,11
+hamster/pupil
+bounds:199,109,26,27
+offsets:2,1,30,30
+hamster/teeth
+bounds:1,3,10,8
+offsets:4,0,19,8
+hamster/tongue
+bounds:1,113,9,11
+
+animal_16.png
+size:244,144
+filter:Linear,Linear
+scale:0.4
+hippo/body
+bounds:1,16,150,127
+offsets:3,1,155,129
+hippo/ear
+bounds:217,37,23,28
+hippo/eyebrow
+bounds:84,4,18,12
+hippo/front paw
+bounds:183,80,28,38
+hippo/front paw up
+bounds:155,60,29,43
+offsets:0,0,29,44
+hippo/hind paw
+bounds:210,108,26,35
+offsets:0,0,26,36
+hippo/iris
+bounds:182,45,32,33
+hippo/lid bottom
+bounds:1,1,44,24
+hippo/lid bottom happy
+bounds:4,1,34,12
+hippo/lid top
+bounds:143,24,45,34
+hippo/lid top happy
+bounds:140,107,44,36
+hippo/mouth
+bounds:124,13,26,21
+offsets:0,1,26,22
+hippo/muzzle
+bounds:184,16,43,21
+hippo/pupil
+bounds:210,67,26,27
+offsets:2,1,30,30
+hippo/teeth
+bounds:45,7,37,8
+hippo/tongue
+bounds:225,2,15,24
+offsets:1,0,16,24
+
+animal_17.png
+size:176,220
+filter:Linear,Linear
+scale:0.4
+horse/body
+bounds:1,89,150,127
+offsets:3,1,155,129
+horse/ear
+bounds:1,21,35,46
+horse/eyebrow
+bounds:1,9,18,12
+horse/front paw
+bounds:140,180,26,36
+horse/front paw up
+bounds:43,21,26,41
+horse/hair
+bounds:1,63,70,43
+horse/hind paw
+bounds:141,26,24,32
+horse/iris
+bounds:109,22,32,33
+horse/lid bottom
+bounds:124,1,44,24
+horse/lid bottom happy
+bounds:69,77,34,12
+horse/lid top
+bounds:70,40,45,34
+horse/lid top happy
+bounds:108,58,44,36
+horse/mouth
+bounds:149,123,24,23
+horse/muzzle
+bounds:64,14,38,24
+horse/pupil
+bounds:137,95,26,27
+offsets:2,1,30,30
+horse/tongue
+bounds:156,59,16,30
+
+animal_18.png
+size:168,232
+filter:Linear,Linear
+scale:0.4
+llama/body
+bounds:1,103,150,127
+offsets:3,1,155,129
+llama/ear
+bounds:116,50,30,58
+llama/eyebrow
+bounds:1,109,18,12
+llama/front paw
+bounds:141,98,24,38
+llama/front paw up
+bounds:1,8,24,43
+llama/hair
+bounds:1,50,81,59
+offsets:0,0,82,59
+llama/hind paw
+bounds:142,196,22,34
+llama/iris
+bounds:115,11,32,33
+llama/lid bottom
+bounds:65,1,44,24
+llama/lid bottom happy
+bounds:20,4,34,12
+llama/lid top
+bounds:30,15,45,34
+llama/lid top happy
+bounds:74,26,44,36
+llama/mouth
+bounds:92,88,21,17
+llama/muzzle
+bounds:139,38,26,21
+llama/pupil
+bounds:82,60,26,27
+offsets:2,1,30,30
+llama/tongue
+bounds:1,216,9,14
+
+animal_19.png
+size:220,156
+filter:Linear,Linear
+scale:0.4
+magical goat/body
+bounds:1,28,150,127
+offsets:3,1,155,129
+magical goat/ear
+bounds:150,71,57,30
+offsets:0,1,57,31
+magical goat/eyebrow
+bounds:194,4,18,12
+magical goat/front paw
+bounds:1,5,26,36
+magical goat/front paw up
+bounds:189,31,26,41
+magical goat/hair
+bounds:28,7,30,23
+magical goat/hind paw
+bounds:169,3,24,32
+magical goat/horn
+bounds:186,101,30,35
+magical goat/iris
+bounds:121,14,32,33
+magical goat/lid bottom
+bounds:85,1,44,24
+magical goat/lid bottom happy
+bounds:88,1,34,12
+magical goat/lid top
+bounds:143,36,45,34
+magical goat/lid top happy
+bounds:140,119,44,36
+magical goat/mouth
+bounds:147,3,21,17
+magical goat/muzzle
+bounds:60,6,26,21
+magical goat/tongue
+bounds:1,141,9,14
+
+animal_20.png
+size:216,184
+filter:Linear,Linear
+scale:0.4
+mammoth/body
+bounds:1,53,150,127
+offsets:3,1,155,129
+mammoth/ear
+bounds:149,56,38,47
+mammoth/eyebrow
+bounds:133,168,18,12
+mammoth/front paw
+bounds:184,142,28,38
+mammoth/front paw up
+bounds:173,11,29,43
+offsets:0,0,29,44
+mammoth/hind paw
+bounds:189,54,26,35
+offsets:0,0,26,36
+mammoth/iris
+bounds:179,103,32,33
+mammoth/lid bottom
+bounds:137,1,44,24
+mammoth/lid bottom happy
+bounds:1,8,34,12
+mammoth/lid top
+bounds:46,19,45,34
+mammoth/lid top happy
+bounds:1,21,44,36
+mammoth/mouth
+bounds:113,5,23,25
+offsets:1,2,25,27
+mammoth/pupil
+bounds:86,3,26,27
+offsets:2,1,30,30
+mammoth/tongue
+bounds:35,2,15,24
+offsets:1,0,16,24
+mammoth/trunk
+bounds:150,126,37,54
+mammoth/tusks
+bounds:95,32,77,22
+
+animal_21.png
+size:232,176
+filter:Linear,Linear
+scale:0.4
+owlfox/body
+bounds:1,45,150,127
+offsets:3,1,155,129
+owlfox/ear
+bounds:151,96,56,76
+owlfox/eyebrow
+bounds:210,97,18,12
+owlfox/front paw
+bounds:167,7,27,37
+owlfox/front paw up
+bounds:92,7,30,39
+owlfox/hind paw
+bounds:196,8,24,33
+owlfox/iris
+bounds:45,11,32,33
+owlfox/lid bottom
+bounds:116,2,44,24
+owlfox/lid bottom happy
+bounds:116,1,34,12
+owlfox/lid top
+bounds:1,19,45,34
+owlfox/lid top happy
+bounds:122,27,44,36
+owlfox/mouth
+bounds:1,156,16,16
+owlfox/muzzle
+bounds:10,1,28,17
+offsets:0,4,28,21
+owlfox/pupil
+bounds:203,68,26,27
+offsets:2,1,30,30
+owlfox/tongue
+bounds:1,53,12,20
+owlfox/whiskers
+bounds:79,4,13,22
+owlfox/wing
+bounds:149,42,60,52
+
+animal_22.png
+size:200,176
+filter:Linear,Linear
+scale:0.4
+panda/body
+bounds:1,48,150,127
+offsets:3,1,155,129
+panda/ear
+bounds:145,57,53,57
+offsets:1,5,60,63
+panda/eyebrow
+bounds:133,163,18,12
+panda/front paw
+bounds:92,14,27,36
+panda/front paw up
+bounds:1,22,30,40
+panda/hind paw
+bounds:32,18,24,32
+panda/iris
+bounds:166,26,32,33
+panda/lid bottom
+bounds:152,147,44,24
+panda/lid bottom happy
+bounds:1,9,34,12
+panda/lid top
+bounds:120,30,45,34
+panda/lid top happy
+bounds:150,116,44,36
+panda/mouth
+bounds:148,7,28,24
+offsets:0,1,28,25
+panda/muzzle
+bounds:58,17,32,23
+panda/pupil
+bounds:118,1,26,27
+offsets:2,1,30,30
+panda/tongue
+bounds:181,1,15,24
+offsets:1,0,16,24
+
+animal_23.png
+size:192,172
+filter:Linear,Linear
+scale:0.4
+platypus/body
+bounds:1,43,150,127
+offsets:3,1,155,129
+platypus/eyebrow
+bounds:75,7,18,12
+platypus/front paw
+bounds:1,18,27,36
+platypus/front paw up
+bounds:158,86,30,40
+platypus/hair
+bounds:52,5,21,18
+platypus/hind paw
+bounds:160,17,24,32
+platypus/iris
+bounds:121,29,32,33
+platypus/lid bottom
+bounds:126,5,44,24
+platypus/lid bottom happy
+bounds:1,5,34,12
+platypus/lid top
+bounds:143,51,45,34
+platypus/lid top happy
+bounds:140,134,44,36
+platypus/mouth
+bounds:88,21,28,20
+platypus/muzzle
+bounds:56,21,31,21
+offsets:0,0,31,22
+platypus/pupil
+bounds:29,18,26,27
+offsets:2,1,30,30
+platypus/tongue
+bounds:110,1,15,24
+offsets:1,0,16,24
+
+animal_24.png
+size:288,132
+filter:Linear,Linear
+scale:0.4
+polarBear/body
+bounds:1,2,150,127
+offsets:3,1,155,129
+polarBear/ear
+bounds:148,72,51,57
+offsets:2,4,60,63
+polarBear/eyebrow
+bounds:125,3,18,12
+polarBear/front paw
+bounds:213,19,27,36
+polarBear/front paw up
+bounds:186,1,30,40
+polarBear/hind paw
+bounds:221,97,24,32
+polarBear/iris
+bounds:201,70,32,33
+polarBear/lid bottom
+bounds:241,17,44,24
+polarBear/lid bottom happy
+bounds:1,3,34,12
+polarBear/lid top
+bounds:169,42,45,34
+polarBear/lid top happy
+bounds:141,7,44,36
+polarBear/mouth
+bounds:236,2,25,23
+offsets:1,1,28,25
+polarBear/muzzle
+bounds:241,81,30,20
+offsets:2,0,32,23
+polarBear/pupil
+bounds:230,55,26,27
+offsets:2,1,30,30
+polarBear/tongue
+bounds:261,3,15,24
+offsets:1,0,16,24
+
+animal_25.png
+size:300,132
+filter:Linear,Linear
+scale:0.4
+porcupine/body
+bounds:1,1,150,127
+offsets:3,1,155,129
+porcupine/ear
+bounds:216,40,36,34
+porcupine/front paw
+bounds:253,31,21,36
+porcupine/front paw up
+bounds:236,74,21,40
+porcupine/hair
+bounds:145,54,85,74
+porcupine/iris
+bounds:226,5,32,33
+porcupine/lid bottom
+bounds:252,59,44,24
+porcupine/lid bottom happy
+bounds:1,2,34,12
+porcupine/lid top
+bounds:184,18,45,34
+porcupine/lid top happy
+bounds:141,6,44,36
+porcupine/mouth
+bounds:1,114,13,14
+porcupine/nose
+bounds:123,3,23,13
+porcupine/pupil
+bounds:255,101,26,27
+offsets:2,1,30,30
+porcupine/tongue
+bounds:1,21,9,11
+
+animal_26.png
+size:284,132
+filter:Linear,Linear
+scale:0.4
+puppy/body
+bounds:1,2,150,127
+offsets:3,1,155,129
+puppy/ear up
+bounds:129,5,60,89
+puppy/eyebrow
+bounds:256,46,18,12
+puppy/front paw
+bounds:214,22,27,37
+puppy/front paw up
+bounds:189,45,30,39
+puppy/hind paw
+bounds:234,54,24,33
+puppy/iris
+bounds:208,84,32,33
+puppy/lid bottom
+bounds:236,105,44,24
+puppy/lid bottom happy
+bounds:1,3,34,12
+puppy/lid top
+bounds:175,2,45,34
+puppy/lid top happy
+bounds:164,93,44,36
+puppy/mouth
+bounds:1,113,16,16
+puppy/muzzle
+bounds:250,27,28,17
+offsets:0,4,28,21
+puppy/pupil
+bounds:236,1,26,27
+offsets:2,1,30,30
+puppy/tongue
+bounds:263,6,12,20
+
+animal_27.png
+size:292,136
+filter:Linear,Linear
+scale:0.4
+red panda/body
+bounds:1,5,150,127
+offsets:3,1,155,129
+red panda/ear
+bounds:151,6,60,63
+red panda/eyebrow
+bounds:262,39,18,12
+red panda/front paw
+bounds:232,96,27,36
+red panda/front paw up
+bounds:212,59,30,40
+red panda/hind paw
+bounds:239,47,24,32
+red panda/iris
+bounds:213,25,32,33
+red panda/lid bottom
+bounds:244,72,44,24
+red panda/lid bottom happy
+bounds:1,6,34,12
+red panda/lid top
+bounds:186,98,45,34
+red panda/lid top happy
+bounds:150,71,44,36
+red panda/mouth
+bounds:126,2,25,23
+offsets:1,1,28,25
+red panda/muzzle
+bounds:213,1,30,20
+offsets:2,0,32,23
+red panda/pupil
+bounds:243,10,26,27
+offsets:2,1,30,30
+red panda/tongue
+bounds:270,3,15,24
+offsets:1,0,16,24
+
+animal_28.png
+size:328,140
+filter:Linear,Linear
+scale:0.4
+reindeer/body
+bounds:1,10,150,127
+offsets:3,1,155,129
+reindeer/bow
+bounds:197,28,46,27
+reindeer/ear
+bounds:146,107,53,30
+reindeer/eyebrow
+bounds:113,3,18,12
+reindeer/front paw
+bounds:280,15,26,36
+reindeer/front paw up
+bounds:262,84,26,41
+reindeer/glow
+bounds:245,27,33,28
+reindeer/hair
+bounds:149,19,46,41
+reindeer/hind paw
+bounds:287,105,24,32
+reindeer/horn
+bounds:197,57,26,48
+reindeer/iris
+bounds:274,53,32,33
+reindeer/lid bottom
+bounds:225,1,44,24
+reindeer/lid bottom happy
+bounds:15,1,34,12
+reindeer/lid top
+bounds:225,57,45,34
+reindeer/lid top happy
+bounds:217,101,44,36
+reindeer/mouth
+bounds:1,13,24,16
+offsets:0,1,24,17
+reindeer/muzzle
+bounds:197,9,28,18
+reindeer/pupil
+bounds:298,79,26,27
+offsets:2,1,30,30
+reindeer/tongue
+bounds:132,10,15,24
+offsets:1,0,16,24
+
+animal_29.png
+size:568,112
+filter:Linear,Linear
+scale:0.4
+shared/eyeball
+bounds:316,67,44,42
+offsets:1,0,45,42
+shared/eyeball blue
+bounds:395,21,44,42
+offsets:1,0,45,42
+shared/eyeball blue sparkle
+bounds:432,44,44,42
+offsets:1,0,45,42
+shared/eyeball green
+bounds:393,67,44,42
+offsets:1,0,45,42
+shared/eyeball light
+bounds:355,1,44,42
+offsets:1,0,45,42
+shared/eyeball stars
+bounds:355,44,44,42
+offsets:1,0,45,42
+shared/eyeball teal
+bounds:316,24,44,42
+offsets:1,0,45,42
+shared/eyelash closed
+bounds:336,5,19,15
+offsets:0,1,19,16
+shared/eyelash closed happy
+bounds:397,4,26,10
+shared/eyelash open
+bounds:316,2,21,15
+offsets:8,1,29,16
+shared/eyelight left
+bounds:504,10,30,32
+shared/eyelight left sparkle
+bounds:536,10,30,32
+shared/eyelight left stars
+bounds:439,4,30,32
+shared/eyelight right
+bounds:471,17,31,32
+shared/eyelight right sparkle
+bounds:504,44,31,32
+shared/eyelight right stars
+bounds:474,77,31,32
+shared/glasses
+bounds:1,7,313,102
+
+animal_30.png
+size:156,236
+filter:Linear,Linear
+scale:0.4
+sheep/body
+bounds:1,108,150,127
+offsets:3,1,155,129
+sheep/ear
+bounds:1,51,57,30
+offsets:0,1,57,31
+sheep/eyebrow
+bounds:101,4,18,12
+sheep/front paw
+bounds:99,18,26,36
+sheep/front paw up
+bounds:125,34,26,41
+sheep/hair
+bounds:5,81,82,30
+offsets:0,1,82,31
+sheep/hind paw
+bounds:1,18,24,32
+sheep/iris
+bounds:53,30,32,33
+sheep/lid bottom
+bounds:39,1,44,24
+sheep/lid bottom happy
+bounds:1,5,34,12
+sheep/lid top
+bounds:73,55,45,34
+sheep/lid top happy
+bounds:108,77,44,36
+sheep/mouth
+bounds:1,112,21,17
+sheep/muzzle
+bounds:76,13,26,21
+sheep/pupil
+bounds:26,20,26,27
+offsets:2,1,30,30
+sheep/tongue
+bounds:1,221,9,14
+
+animal_31.png
+size:236,140
+filter:Linear,Linear
+scale:0.4
+sloth/body
+bounds:1,9,150,127
+offsets:3,1,155,129
+sloth/eyebrow
+bounds:160,3,18,12
+sloth/front paw
+bounds:181,71,27,36
+sloth/front paw up
+bounds:187,28,26,42
+offsets:0,0,30,42
+sloth/hind paw
+bounds:203,104,24,32
+sloth/iris
+bounds:155,52,32,33
+sloth/lid bottom
+bounds:115,1,44,24
+sloth/lid bottom happy
+bounds:18,2,34,12
+sloth/lid top
+bounds:143,17,45,34
+sloth/lid top happy
+bounds:140,100,44,36
+sloth/mouth
+bounds:1,12,24,16
+offsets:0,1,24,17
+sloth/muzzle
+bounds:205,13,28,18
+sloth/pupil
+bounds:208,59,26,27
+offsets:2,1,30,30
+sloth/tongue
+bounds:183,4,15,24
+offsets:1,0,16,24
+
+animal_32.png
+size:264,144
+filter:Linear,Linear
+scale:0.4
+tiger/body
+bounds:1,16,150,127
+offsets:3,1,155,129
+tiger/ear
+bounds:145,16,60,63
+tiger/eyebrow
+bounds:133,131,18,12
+tiger/front paw
+bounds:233,81,27,37
+tiger/front paw up
+bounds:204,9,30,39
+tiger/hind paw
+bounds:236,17,24,33
+tiger/iris
+bounds:124,5,32,33
+tiger/lid bottom
+bounds:1,1,44,24
+tiger/lid bottom happy
+bounds:4,1,34,12
+tiger/lid top
+bounds:203,50,45,34
+tiger/lid top happy
+bounds:191,107,44,36
+tiger/mouth
+bounds:1,128,16,15
+offsets:0,1,16,16
+tiger/nose
+bounds:45,1,26,13
+tiger/tongue
+bounds:1,33,9,14
+tiger/whiskers
+bounds:237,120,13,22
+tiger/wing
+bounds:145,79,60,49
+
+animal_33.png
+size:260,132
+filter:Linear,Linear
+scale:0.4
+tigerfox/body
+bounds:1,1,150,127
+offsets:3,1,155,129
+tigerfox/ear
+bounds:150,62,55,66
+tigerfox/eyebrow
+bounds:125,2,18,12
+tigerfox/front paw
+bounds:223,2,27,37
+tigerfox/front paw up
+bounds:204,89,30,39
+tigerfox/hind paw
+bounds:233,80,24,33
+tigerfox/iris
+bounds:210,56,32,33
+tigerfox/lid bottom
+bounds:183,1,44,24
+tigerfox/lid bottom happy
+bounds:1,2,34,12
+tigerfox/lid top
+bounds:181,27,45,34
+tigerfox/lid top happy
+bounds:141,6,44,36
+tigerfox/mouth
+bounds:235,40,16,15
+offsets:0,1,16,16
+tigerfox/nose
+bounds:1,116,20,12
+tigerfox/tongue
+bounds:1,18,9,14
+
+animal_34.png
+size:296,136
+filter:Linear,Linear
+scale:0.4
+unicat/body
+bounds:1,6,150,127
+offsets:3,1,155,129
+unicat/ear
+bounds:145,6,60,63
+unicat/eyebrow
+bounds:237,3,18,12
+unicat/front paw
+bounds:258,96,27,37
+unicat/front paw up
+bounds:233,69,30,39
+unicat/hind paw
+bounds:270,14,24,33
+unicat/horn
+bounds:262,49,19,41
+unicat/iris
+bounds:237,16,32,33
+unicat/lid bottom
+bounds:119,1,44,24
+unicat/lid bottom happy
+bounds:122,1,34,12
+unicat/lid top
+bounds:203,40,45,34
+unicat/lid top happy
+bounds:191,97,44,36
+unicat/mouth
+bounds:16,3,16,15
+offsets:0,1,16,16
+unicat/nose
+bounds:1,121,20,12
+unicat/pupil_left
+bounds:205,8,30,30
+unicat/pupil_right
+bounds:205,8,30,30
+unicat/tongue
+bounds:257,2,9,14
+unicat/whiskers
+bounds:1,7,13,22
+unicat/wing
+bounds:145,69,60,49
+
+animal_35.png
+size:200,196
+filter:Linear,Linear
+scale:0.4
+unicorn/body
+bounds:1,66,150,127
+offsets:3,1,155,129
+unicorn/ear
+bounds:142,148,33,45
+unicorn/front paw
+bounds:167,46,26,36
+unicorn/front paw up
+bounds:148,82,26,41
+unicorn/hair
+bounds:1,16,88,52
+unicorn/hind paw
+bounds:175,161,24,32
+unicorn/horn
+bounds:177,84,18,40
+unicorn/iris
+bounds:143,17,32,33
+unicorn/lid bottom
+bounds:61,1,44,24
+unicorn/lid bottom happy
+bounds:84,56,34,12
+unicorn/lid top
+bounds:122,49,45,34
+unicorn/lid top happy
+bounds:88,18,44,36
+unicorn/mouth
+bounds:177,16,22,21
+unicorn/muzzle
+bounds:157,125,34,22
+unicorn/pupil
+bounds:1,58,26,27
+offsets:2,1,30,30
+unicorn/tongue
+bounds:125,1,15,24
+offsets:1,0,16,24
+
+animal_36.png
+size:192,236
+filter:Linear,Linear
+scale:0.4
+yak/body
+bounds:1,108,150,127
+offsets:3,1,155,129
+yak/ear
+bounds:113,87,54,36
+offsets:0,0,54,37
+yak/eyebrow
+bounds:123,1,18,12
+yak/front paw
+bounds:158,160,26,36
+yak/front paw up
+bounds:147,119,26,41
+yak/hair
+bounds:1,23,125,88
+offsets:1,4,126,92
+yak/hind paw
+bounds:167,26,24,32
+yak/horn
+bounds:31,1,28,22
+offsets:1,0,29,22
+yak/iris
+bounds:152,60,32,33
+yak/lid bottom
+bounds:147,2,44,24
+yak/lid bottom happy
+bounds:60,2,34,12
+yak/lid top
+bounds:139,201,45,34
+yak/lid top happy
+bounds:122,23,44,36
+yak/mouth
+bounds:96,10,26,18
+yak/muzzle
+bounds:1,10,30,20
+yak/pupil
+bounds:165,98,26,27
+offsets:2,1,30,30
+yak/tongue
+bounds:1,110,15,24
+offsets:1,0,16,24
+
+animal_37.png
+size:220,164
+filter:Linear,Linear
+scale:0.4
+zebra/body
+bounds:1,35,150,127
+offsets:3,1,155,129
+zebra/ear
+bounds:183,102,33,45
+zebra/eyebrow
+bounds:117,1,18,12
+zebra/front paw
+bounds:1,12,26,36
+zebra/front paw up
+bounds:189,43,26,41
+zebra/hair
+bounds:154,78,34,46
+zebra/hind paw
+bounds:173,11,24,32
+zebra/iris
+bounds:121,21,32,33
+zebra/lid bottom
+bounds:137,1,44,24
+zebra/lid bottom happy
+bounds:13,2,34,12
+zebra/lid top
+bounds:143,43,45,34
+zebra/lid top happy
+bounds:140,126,44,36
+zebra/mouth
+bounds:63,11,22,21
+zebra/muzzle
+bounds:27,14,34,22
+zebra/pupil
+bounds:94,11,26,27
+offsets:2,1,30,30
+zebra/tongue
+bounds:197,3,15,24
+offsets:1,0,16,24

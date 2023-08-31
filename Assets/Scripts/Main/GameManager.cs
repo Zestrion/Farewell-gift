@@ -153,6 +153,12 @@ namespace Main
             return prefabs;
         }
 
+        public Button GetCurrentManagerButton()
+        {
+            if (buttonNextPrefab.gameObject.activeSelf) return buttonNextPrefab;
+            return buttonReturn;
+        }
+
         void ShowFinalMessage()
         {
             progress = 2;

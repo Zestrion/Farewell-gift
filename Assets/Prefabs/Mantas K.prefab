@@ -136,8 +136,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 435.571, y: 171.7263}
+  m_AnchoredPosition: {x: 9.2976, y: -21.7}
+  m_SizeDelta: {x: 598.9432, y: 171.7263}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4466679818408597319
 CanvasRenderer:
@@ -194,14 +194,14 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 41.2
-  m_fontSizeBase: 36
+  m_fontSize: 26
+  m_fontSizeBase: 26
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -388,8 +388,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4466679818760994077}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 3, y: 0.5, z: 0}
+  m_LocalScale: {x: 1.15, y: 1.15, z: 1}
   m_Children: []
   m_Father: {fileID: 4466679818761798775}
   m_RootOrder: 2
@@ -434,7 +434,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4e16c15d17dd3e7489f5ca618b7bdf82, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7f7179d3de7350343a472d1463bfb93a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -492,7 +492,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b474abf3464045d4792ffd96597e5011, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  author: 621
+  author: "Mantas Krik\u0161\u010Di\u016Bnas"
 --- !u!1 &4466679819205746499
 GameObject:
   m_ObjectHideFlags: 0
@@ -505,6 +505,8 @@ GameObject:
   - component: {fileID: 4466679819205746500}
   - component: {fileID: 4466679819205746501}
   - component: {fileID: 4466679819205746498}
+  - component: {fileID: 8769538962451831371}
+  - component: {fileID: 346094678878439715}
   m_Layer: 0
   m_Name: Smolsie
   m_TagString: Untagged
@@ -520,8 +522,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4466679819205746499}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.5, y: -4, z: 0}
-  m_LocalScale: {x: 0.15, y: 0.15, z: 1}
+  m_LocalPosition: {x: -3.5, y: -3.25, z: 0}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_Children: []
   m_Father: {fileID: 4466679818761798775}
   m_RootOrder: 1
@@ -553,15 +555,15 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4d73588e16624674c9d12c14dade646d, type: 2}
+  - {fileID: 2100000, guid: 2c0c4f3c9fe91ee449c7b52cf97ff5a6, type: 2}
   - {fileID: 2100000, guid: 0b87e35f72b3e1a468a258be59674e98, type: 2}
-  - {fileID: 2100000, guid: 4d73588e16624674c9d12c14dade646d, type: 2}
+  - {fileID: 2100000, guid: 2c0c4f3c9fe91ee449c7b52cf97ff5a6, type: 2}
   - {fileID: 2100000, guid: 0b87e35f72b3e1a468a258be59674e98, type: 2}
-  - {fileID: 2100000, guid: 4d73588e16624674c9d12c14dade646d, type: 2}
+  - {fileID: 2100000, guid: 2c0c4f3c9fe91ee449c7b52cf97ff5a6, type: 2}
   - {fileID: 2100000, guid: 0b87e35f72b3e1a468a258be59674e98, type: 2}
-  - {fileID: 2100000, guid: 4d73588e16624674c9d12c14dade646d, type: 2}
+  - {fileID: 2100000, guid: 2c0c4f3c9fe91ee449c7b52cf97ff5a6, type: 2}
   - {fileID: 2100000, guid: 0b87e35f72b3e1a468a258be59674e98, type: 2}
-  - {fileID: 2100000, guid: 4d73588e16624674c9d12c14dade646d, type: 2}
+  - {fileID: 2100000, guid: 2c0c4f3c9fe91ee449c7b52cf97ff5a6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -596,7 +598,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   skeletonDataAsset: {fileID: 11400000, guid: 0bc174e9f0ad38b41b0ba39a673d5b94, type: 2}
-  initialSkinName: animals/cat
+  initialSkinName: animals/dog
   fixPrefabOverrideViaMeshFilter: 0
   initialFlipX: 0
   initialFlipY: 0
@@ -618,9 +620,40 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
-  _animationName: sleep/bodyLeftSleep01
+  _animationName: storytime/bodyFrontBookRead02
   loop: 1
   timeScale: 1
+--- !u!114 &8769538962451831371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4466679819205746499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49e3f92170c18754f8fa30fd311543ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonAnimation: {fileID: 4466679819205746498}
+--- !u!114 &346094678878439715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4466679819205746499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5cb1ad62520ea4798795f98f4aa870, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonAnimation: {fileID: 4466679819205746498}
+  animationNames:
+  - storytime/bodyFrontBookRead01
+  - storytime/bodyFrontBookRead01
+  - storytime/bodyFrontBookRead01
+  - storytime/bodyFrontBookRead02
 --- !u!1 &4466679819237086293
 GameObject:
   m_ObjectHideFlags: 0
@@ -655,7 +688,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -117.79, y: 110.86}
+  m_AnchoredPosition: {x: 208.5, y: -28.8}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4466679819237086294
@@ -713,8 +746,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 12
-  m_fontSizeBase: 12
+  m_fontSize: 22.5
+  m_fontSizeBase: 22.5
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -772,7 +805,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4466679819684321945
 RectTransform:
   m_ObjectHideFlags: 0
